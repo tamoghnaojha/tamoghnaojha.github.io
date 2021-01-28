@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Tamoghna Ojha"
 title_separator          : "-"
 name                     : &name "Tamoghna Ojha"
-description              : &description "PhD and MS from IIT Kharagpur"
+description              : &description "PostDoctoral Fellow, National Research Council (CNR), Italy"
 url                      : https://tamoghnaojha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tamoghnaojha/tamoghnaojha.github.io"
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Tamoghna Ojha"
   avatar           : "tamoghna.jpg"
-  bio              : "PhD and MS from IIT Kharagpur, India"
-  location         : "West Bengal, India"
+  bio              : "PostDoc at CNR Italy"
+  location         : "Pisa, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=gFFt6p4AAAAJ&hl=en"
