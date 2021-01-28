@@ -5,8 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* Awards & Scholarships
-------
+### Awards & Scholarships
   * Research Assistantship from Indian Institute of Technology Kharagpur, August 2019 - May 2020.
   * Senior Research Fellowship from MHRD, Govt. of India, August 2017 - July 2019.
   * Richard E Merwin Student Scholarship from IEEE Computer Society, Dec. 2016. (Award: USD 1,000)
@@ -15,8 +14,7 @@ author_profile: true
   * Scholarship from Foundation for Excellence Inc., USA during 2000-2004.
 
 
-* Research & Travel Grants
-------
+### Research & Travel Grants
   * Selected for Plugin Cycle 2 startup cohort with a grant of INR 10,00,000 during October 2018 - June 2019.
   * Received Biotechnology Ignition Grant of INR 41,79,000 from DBT, Govt. of India in 2015-17.
   * Best Conference Travel Grant support from IIT Kharagpur for presenting my paper at IEEE GLOBECOM 2018 at Abu Dhabi, UAE.
