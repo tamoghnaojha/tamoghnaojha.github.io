@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ### Journals
-15. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", IEEE Internet of Things Journal, 2021 [DOI: 10.1109/JIOT.2021.3051418] (Impact factor - 9.515) `[URL]`(https://ieeexplore.ieee.org/document/9321474)
-14. S. Misra, **T. Ojha**, P. Madhusoodhanan, "SecRET: Secure Range-Based Localization with Evidence Theory for Underwater Sensor Networks", ACM Transactions on Autonomous and Adaptive Systems, 2020. (Impact factor - 1.775)
-13. **T. Ojha**, S. Misra, M. S. Obaidat, "SEAL: Self-adaptive AUV-based Localization for Sparsely Deployed Underwater Sensor Networks", Computer Communications (Elsevier), vol. 154, pp. 204-215, 2020. (Impact factor - 2.766)
-11. **T. Ojha**, S. Misra, N. S. Raghuwanshi, H. Poddar, "DVSP: Dynamic Virtual Sensor Provisioning in Sensor-Cloud based Internet of Things", IEEE Internet of Things Journal, vol. 6, no. 3, pp. 5265-5272, 2019. (Impact factor - 9.515)
+15. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", _IEEE Internet of Things Journal_, 2021 [DOI: 10.1109/JIOT.2021.3051418] (Impact factor - 9.515) `[URL]`(https://ieeexplore.ieee.org/document/9321474)
+14. S. Misra, **T. Ojha**, P. Madhusoodhanan, "SecRET: Secure Range-Based Localization with Evidence Theory for Underwater Sensor Networks", _ACM Transactions on Autonomous and Adaptive Systems_, 2020. (Impact factor - 1.775) [<URL>](https://dl.acm.org/doi/10.1145/3431390)
+13. **T. Ojha**, S. Misra, M. S. Obaidat, "SEAL: Self-adaptive AUV-based Localization for Sparsely Deployed Underwater Sensor Networks", _Computer Communications (Elsevier)_, vol. 154, pp. 204-215, 2020. (Impact factor - 2.766) [<URL>](https://www.sciencedirect.com/science/article/abs/pii/S0140366419307285)
+11. **T. Ojha**, S. Misra, N. S. Raghuwanshi, H. Poddar, "DVSP: Dynamic Virtual Sensor Provisioning in Sensor-Cloud based Internet of Things", _IEEE Internet of Things Journal_, vol. 6, no. 3, pp. 5265-5272, 2019. (Impact factor - 9.515) [<URL>](https://ieeexplore.ieee.org/document/8643570)
 10. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Sensing-cloud: Leveraging the benefits for agricultural applications", Computers and Electronics in Agriculture (Elsevier), vol. 135, pp. 96-107, 2017. (Impact factor - 3.171)
 9. A. K. Mandal, S. Misra, T. Ojha, M. K. Dash, and M. S. Obaidat, "Oceanic Forces and their Impact on the Performance of Mobile Underwater Acoustic Sensor Networks," International Journal of Communication Systems (Wiley), vol. 30, no. 1, pp. e2882, 2017. [DOI: 10.1002/dac.2882] (Impact factor - 1.278)
 8. S. Misra, S. Bera, **T. Ojha**, H. Mouftah, A. Anpalagan, "ENTRUST: Energy Trading Under Uncertainty in Smart Grid Systems", Computer Networks (Elsevier), vol. 110, pp. 232-242, 2016. (Impact factor - 3.030)
