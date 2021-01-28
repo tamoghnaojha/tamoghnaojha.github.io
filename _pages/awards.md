@@ -20,3 +20,7 @@ author_profile: true
   * Best Conference Travel Grant support from IIT Kharagpur for presenting my paper at IEEE GLOBECOM 2018 at Abu Dhabi, UAE.
   * Travel Grant from DST, Govt. of India for attending IEEE CloudCom, Singapore, December 2014.
   * Conference Travel Grant from IEEE CloudCom 2014. (Award: SGD 1,000)
+
+
+### Other Awards
+* IEEE TechSym 2016 was selected for 2017 Darrel Chong student activity award in GOLD category.
