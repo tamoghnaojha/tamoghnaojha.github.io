@@ -7,8 +7,6 @@ author_profile: true
 #  - /profile
 ---
 
-#{% include base_path %}
-
 Education
 ------
 * PhD, Indian Institute of Technology Kharagpur, India, 2020
