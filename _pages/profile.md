@@ -3,11 +3,11 @@ layout: archive
 title: "Profile"
 permalink: /profile/
 author_profile: true
-redirect_from:
-  - /profile
+#redirect_from:
+#  - /profile
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Education
 ------
