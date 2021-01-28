@@ -11,24 +11,26 @@ redirect_from:
 
 Education
 ------
-* PhD, Indian Institute of Technology Kharagpur, India, 2020
+* **PhD**, Indian Institute of Technology Kharagpur, India, 2020
   * Thesis title: Provisioning Sensors-as-a-Service in Sensor-cloud-based Internet of Things
   * Department: Computer Science and Engineering
   * Supervisors: Prof. Sudip Misra and Prof. Narendra Singh Raghuwanshi
 
-* MS, Indian Institute of Technology Kharagpur, India, 2014
+* **MS**, Indian Institute of Technology Kharagpur, India, 2014
   * Thesis title: Architecture and Localization for Underwater Sensor Networks
   * Department: Information Technology
   * Supervisor: Prof. Sudip Misra
   * CGPA: 9.6/10
 
-* PG Diploma in Embedded Systems Design, Center for Development of Advanced Computing, Mohali, India, 2009
+* **PG Diploma** in Embedded Systems Design, Center for Development of Advanced Computing, Mohali, India, 2009
   * Project topic: A Real-time application for peripheral controlling and monitoring
+  * Supervisor: Ms. Sonia Dosanjh
   * Marks: 80.50%
 
-* B. Tech, West Bengal University of Technology, 2008
+* **B. Tech**, West Bengal University of Technology, 2008
   * Thesis title: Microcontroller based Infra-Red Tracking Robot 
   * Department: Electronics and Communication Engineering
+  * Supervisor: Dr. Mousiki Kar
   * DGPA: 7.89/10
 
 Work Experience
