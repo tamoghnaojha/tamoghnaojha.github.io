@@ -18,7 +18,7 @@ author_profile: true
   * Selected for Plugin Cycle 2 startup cohort with a grant of INR 10,00,000 during October 2018 - June 2019.
   * Received Biotechnology Ignition Grant of INR 41,79,000 from DBT, Govt. of India in 2015-17.
   * Best Conference Travel Grant support from IIT Kharagpur for presenting my paper at IEEE GLOBECOM 2018 at Abu Dhabi, UAE.
-  * Travel Grant from DST, Govt. of India for attending IEEE CloudCom, Singapore, December 2014.
+  * Travel Grant from DST, Govt. of India for presenting my paper at IEEE CloudCom, Singapore, December 2014.
   * Conference Travel Grant from IEEE CloudCom 2014. (Award: SGD 1,000)
 
 
