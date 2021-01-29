@@ -24,11 +24,11 @@ author_profile: true
 
 Conferences
 ------
-5. **T. Ojha**, S. Misra, N. S. Raghuwanshi, M. S. Obaidat, “iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure”, in _Proceeding of IEEE GLOBECOM_, pp. 1-6, Abu Dhabi, UAE, 2018. [(URL)](https://ieeexplore.ieee.org/document/8647815)
-4. S. Bera, **T. Ojha**, S. Misra, M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", in _Proceeding of IEEE GLOBECOM_, pp. 1-6, San Diego, CA, USA, 2015. [(URL)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417591)
-3. **T. Ojha**, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications," in _Proceeding IEEE CloudCom_, pp. 841-846, Singapore, December 2014. [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7037771)
-2. **T. Ojha** and S. Misra, "HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks," in _Proceeding of QShine_, pp. 128-140, Springer Berlin Heidelberg, Greater Noida, India, January 2013. [(URL)](http://link.springer.com/chapter/10.1007%2F978-3-642-37949-9_11)
-1. **T. Ojha** and S. Misra, "MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks," in _Proceeding of 19th National Conference on Communications (NCC)_, pp. 1-5, IEEE, New Delhi, India, February 2013. [(URL)](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6488033)
+5. **T. Ojha**, S. Misra, N. S. Raghuwanshi, M. S. Obaidat, “iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure”, in _Proceedings of IEEE GLOBECOM_, pp. 1-6, Abu Dhabi, UAE, 2018. [(URL)](https://ieeexplore.ieee.org/document/8647815)
+4. S. Bera, **T. Ojha**, S. Misra, M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", in _Proceedings of IEEE GLOBECOM_, pp. 1-6, San Diego, CA, USA, 2015. [(URL)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417591)
+3. **T. Ojha**, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications," in _Proceedings IEEE CloudCom_, pp. 841-846, Singapore, December 2014. [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7037771)
+2. **T. Ojha** and S. Misra, "HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks," in _Proceedings of QShine_, pp. 128-140, Springer Berlin Heidelberg, Greater Noida, India, January 2013. [(URL)](http://link.springer.com/chapter/10.1007%2F978-3-642-37949-9_11)
+1. **T. Ojha** and S. Misra, "MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks," in _Proceedings of 19th National Conference on Communications (NCC)_, pp. 1-5, IEEE, New Delhi, India, February 2013. [(URL)](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6488033)
 
 
 Patents
