@@ -56,7 +56,7 @@ author_profile: true
 
 
 ### Conference Reviewer
-* 2021: IEEE CCNC, ICCCS
+* 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC)
 * 2020: IEEE PIMRC, NCC
 * 2019: IEEE PIMRC, IEEE ATC, OPTRONIX
 * 2018: IEEE PIMRC
