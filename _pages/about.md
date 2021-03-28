@@ -18,6 +18,8 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Resume_Tamo
 
 News
 =====
+* Feb. 2021: Convocated (online) from IIT Kharagpur.
+* Jan. 2021: Joined IIT-CNR as a PostDoctoral Research Fellow.
 * Jan. 2021: Survey on [IoT for Agricultural Applications](https://ieeexplore.ieee.org/document/9321474) accepted in IEEE IoT journal.
 * Nov. 2020: Successfully defended my PhD thesis.
 * Oct. 2020: [SecRET](https://dl.acm.org/doi/10.1145/3431390) accepted in ACM Transaction on Autonomous and Adaptive Systems.
