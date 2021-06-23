@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Journals
+15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, 2021 [DOI: 10.1109/JSYST.2021.3086150] (I.F. - 3.987) [(URL)](https://ieeexplore.ieee.org/document/9461869)
 14. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", _IEEE Internet of Things Journal_, 2021 [DOI: 10.1109/JIOT.2021.3051418] (I.F. - 9.515) [(URL)](https://ieeexplore.ieee.org/document/9321474)
 13. S. Misra, **T. Ojha**, P. Madhusoodhanan, "SecRET: Secure Range-Based Localization with Evidence Theory for Underwater Sensor Networks", _ACM Transactions on Autonomous and Adaptive Systems_, 2020. (I.F. - 1.775) [(URL)](https://dl.acm.org/doi/10.1145/3431390)
 12. **T. Ojha**, S. Misra, M. S. Obaidat, "SEAL: Self-adaptive AUV-based Localization for Sparsely Deployed Underwater Sensor Networks", _Computer Communications (Elsevier)_, vol. 154, pp. 204-215, 2020. (I.F. - 2.766) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S0140366419307285)
