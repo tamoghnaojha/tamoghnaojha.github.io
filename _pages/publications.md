@@ -20,7 +20,7 @@ author_profile: true
 4. S. Misra, S. Bera, **T. Ojha**, L. Zhou, "ENTICE: Agent-Based Energy Trading with Incomplete Information in the Smart Grid", _Journal of Network and Computer Applications (Elsevier)_, vol. 55, pp. 202-212, 2015. (I.F. - 5.273) [(URL)](http://www.sciencedirect.com/science/article/pii/S1084804515001083#)
 3. S. Misra, **T. Ojha**, and A. Mondal, "Game-theoretic Topology Control for Opportunistic Localization in Sparse Underwater Sensor Networks," _IEEE Transactions on Mobile Computing_, vol. 14, no. 5, pp. 990-1003, 2015. (I.F. - 4.474) [(URL)](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6853401&tag=1)
 2. S. Misra, S. Bera, **T. Ojha**, "D2P: Distributed Dynamic Pricing Policy in Smart Grid for PHEVs Management," _IEEE Transactions on Parallel and Distributed Systems_, vol. 26, no. 3, pp. 702-712, 2015. (I.F. - 3.402) [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6782392)
-1. **T. Ojha**, M. Khatua, and S. Misra, "Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks," _IET Wireless Sensor Systems_, vol. 3, no. 4, pp. 307-316, 2013. (I.F. - 2.580) [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6655811)
+1. **T. Ojha**, M. Khatua, and S. Misra, "Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks," _IET Wireless Sensor Systems_, vol. 3, no. 4, pp. 307-316, 2013. (I.F. - 2.580) [(URL)](https://digital-library.theiet.org/content/journals/10.1049/iet-wss.2012.0139)
 
 
 Conferences
