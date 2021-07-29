@@ -5,21 +5,6 @@ permalink: /activity/
 author_profile: true
 ---
 
-### Volunteering Experience
-* UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
-* Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
-* Student Activity Committee member, IEEE Student Branch IIT Kharagpur, India (2014-15)
-* Member, Conference/Workshop Committee, IEEE Computer Society India Council(2015 2016)
-* Member, Breakthrough Science Society, IIT Kharagpur Chapter, India (2013–Till date)
-
-
-### Professional Membership
-* Professional member, IEEE (2021-present)
-* IEEE Communication Society member (2014-present)
-* IEEE Computer Society member (2014-present)
-* Graduate student member, IEEE (2013-2020)
-* Student member, ACM (2013-2020)
-
 
 ### Conference Organizing Committee Member
 * General Chair, WPSN 2021 (in conjunction with IEEE DCOSS), Pafos, Cyprus
@@ -30,14 +15,15 @@ author_profile: true
 
 ### TPC Member
 * IEEE ISCC 2021 (Athens, Greece)
+* COMSYS 2021 (Shillong, Meghalaya, India)
 * IEEE PIMRC - 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
-* IEEE ATC - 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
-* ACM FICN 2018 (in conjunction with ACM MobiCom), New Delhi, India
+* IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
+* ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
 * ICACIE - 2017 (Ajmer, India); 2016 (Bhubaneswar, India)
-* NBiS 2017, Ryerson University, Canada
-* ICACDS 2016 (Springer), Ghaziabad, India
-* IEEE ScalCom 2014, Bali, Indonesia
-* IEEE TechSym 2014, IIT Kharagpur, India
+* NBiS 2017 (Ryerson University, Canada)
+* ICACDS 2016 (Ghaziabad, India)
+* IEEE ScalCom 2014 (Bali, Indonesia)
+* IEEE TechSym 2014 (IIT Kharagpur, India)
 
 
 ### Journal Reviewer
@@ -65,6 +51,22 @@ author_profile: true
 * 2015: AIMoC, IEEE ANTS
 * 2014: ISED, IEEE TechSym
 * 2013: IEEE WiSEE, NCC
+
+### Volunteering Experience
+* UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
+* Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
+* Student Activity Committee member, IEEE Student Branch IIT Kharagpur, India (2014-15)
+* Member, Conference/Workshop Committee, IEEE Computer Society India Council(2015 2016)
+* Member, Breakthrough Science Society, IIT Kharagpur Chapter, India (2013–Till date)
+
+
+### Professional Membership
+* Professional member, IEEE (2021-present)
+* IEEE Communication Society member (2014-present)
+* IEEE Computer Society member (2014-present)
+* Graduate student member, IEEE (2013-2020)
+* Student member, ACM (2013-2020)
+
 
 
 ### Others
