@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Awards & Scholarships
+  * Post-Doctoral Research Fellowship from National Research Council (CNR) Italy, January 2021 - till date.
   * Research Assistantship from Indian Institute of Technology Kharagpur, August 2019 - May 2020.
   * Senior Research Fellowship from MHRD, Govt. of India, August 2017 - July 2019.
   * Richard E Merwin Student Scholarship from IEEE Computer Society, Dec. 2016. (Award: USD 1,000)
@@ -23,4 +24,4 @@ author_profile: true
 
 
 ### Other Awards
-* IEEE TechSym 2016 was selected for 2017 Darrel Chong student activity award in GOLD category.
+* IEEE TechSym 2016 (I served as Organizing Chair) selected for 2017 Darrel Chong student activity award in GOLD category.
