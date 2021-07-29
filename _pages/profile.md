@@ -32,6 +32,10 @@ author_profile: true
   
 
 ### Work Experience
+* Jan 2021 - till date: _PostDoctoral Research Fellow_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+
 * Nov. 2013 - Jul. 2017: _Senior Research Fellow_
   * Sponsored Research and Industrial Consultancy (SRIC), IIT Kharagpur
   * Project: Measurement to Management (M2M): Improved Water Use Efficiency and Agricultural Productivity Through Experimental Sensor Network
