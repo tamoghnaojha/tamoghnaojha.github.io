@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Awards & Scholarships
-  * "Alain Bensoussan" Post-Doctortoral Research Fellowship from European Research Consortium for Informatics and Mathematics (ERCIM).
+  * "Alain Bensoussan" Post-Doctortoral Research Fellowship from European Research Consortium for Informatics and Mathematics (ERCIM), October 2021 - Till date.
   * Post-Doctoral Research Fellowship from National Research Council (CNR) Italy, January 2021 - September 2021.
   * Research Assistantship from Indian Institute of Technology Kharagpur, August 2019 - May 2020.
   * Senior Research Fellowship from MHRD, Govt. of India, August 2017 - July 2019.
