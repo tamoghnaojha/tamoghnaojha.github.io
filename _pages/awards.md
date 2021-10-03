@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Awards & Scholarships
-  * Post-Doctoral Research Fellowship from National Research Council (CNR) Italy, January 2021 - till date.
+  * "Alain Bensoussan" Post-Doctortoral Research Fellowship from European Research Consortium for Informatics and Mathematics (ERCIM).
+  * Post-Doctoral Research Fellowship from National Research Council (CNR) Italy, January 2021 - September 2021.
   * Research Assistantship from Indian Institute of Technology Kharagpur, August 2019 - May 2020.
   * Senior Research Fellowship from MHRD, Govt. of India, August 2017 - July 2019.
   * Richard E Merwin Student Scholarship from IEEE Computer Society, Dec. 2016. (Award: USD 1,000)
