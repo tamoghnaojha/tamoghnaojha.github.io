@@ -19,7 +19,6 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Resume_Tamo
 News
 =====
 * Oct. 2021: Now joined as an ERCIM fellow at IIT-CNR.
-* Sep. 2021: Moved to Pisa, Italy.
 * Jul. 2021: MobiWEB accepted in IEEE ISCC 2021.
 * May. 2021: [PANDA](https://ieeexplore.ieee.org/document/9461869) accepted in IEEE System journal.
 * Feb. 2021: Convocated (online) from IIT Kharagpur.
