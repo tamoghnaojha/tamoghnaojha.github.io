@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PostDoctoral Research Fellow with the Ubiquitous Internet Research Unit at the [Institute for Informatics and Telematics (IIT)](https://www.iit.cnr.it/) of National Research Council (CNR), Italy. My current research interests are in Wireless Power Transfer, Internet of Things, Sensor-Cloud.
+I am currently an ERCIM “Alain Bensoussan” PostDoctoral Research Fellow with the Ubiquitous Internet Research Unit at the [Institute for Informatics and Telematics (IIT)](https://www.iit.cnr.it/) of National Research Council (CNR), Italy. My current research interests are in Wireless Power Transfer, Internet of Things, Sensor-Cloud.
 
 I completed my PhD at the [Smart Wireless Applications & Networking (SWAN) Research Group](http://cse.iitkgp.ac.in/~smisra/swan/) at the Department of Computer Science and Engineering,  Indian Institute of Technology Kharagpur in 2020. My PhD thesis was on "Provisioning Sensors-as-a-Service in Sensor-Cloud-based Internet of Things" under the supervision of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/) and [Prof. Narendra Singh Raghuwanshi](http://www.manit.ac.in/content/director). I have received MS from the Indian Institute of Technology Kharagpur in 2014. My MS thesis was on "Architecture and Localization in Underwater Sensor Networks" under the guidance of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/). Previously, I completed the Post Graduate Diploma in Embedded Systems from CDAC, Mohali in 2009, and B. Tech in Electronics & Communication Engg. from Haldia Institute of Technology, Haldia affiliated to the West Bengal University of Technology, Kolkata in 2008. Besides, I have several years of research experience working on research projects funded by different agencies such as [ITRA](http://medialabasia.in/itra/itra/) and [DeitY, Govt. of India](http://deity.gov.in/).
 
@@ -18,6 +18,10 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Resume_Tamo
 
 News
 =====
+* Oct. 2021: Now joined as an ERCIM fellow at IIT-CNR.
+* Sep. 2021: Moved to Pisa, Italy.
+* Jul. 2021: MobiWEB accepted in IEEE ISCC 2021.
+* May. 2021: [PANDA](https://ieeexplore.ieee.org/document/9461869) accepted in IEEE System journal.
 * Feb. 2021: Convocated (online) from IIT Kharagpur.
 * Jan. 2021: Joined IIT-CNR as a PostDoctoral Research Fellow.
 * Jan. 2021: Survey on [IoT for Agricultural Applications](https://ieeexplore.ieee.org/document/9321474) accepted in IEEE IoT journal.
@@ -25,7 +29,7 @@ News
 * Oct. 2020: [SecRET](https://dl.acm.org/doi/10.1145/3431390) accepted in ACM Transaction on Autonomous and Adaptive Systems.
 * Jun. 2020: Selected for ERCIM Post-Doctoral fellowship.
 * Feb. 2020: [SEAL](https://www.sciencedirect.com/science/article/abs/pii/S0140366419307285) accepted in Computer Communications.
-* July 2019: Graduated from Plugin cycle 2 cohort.
+* Jul. 2019: Graduated from Plugin cycle 2 cohort.
 * Feb. 2019: [DVSP](https://ieeexplore.ieee.org/document/8643570) accepted in IEEE IoT Journal.
 * Jan. 2019: Visited Taiwan's manufacturing ecosystem (Plugin cycle 2 cohort).
 * Dec. 2018: Received *Best Conference Travel Grant* from IIT Kharagpur for presenting [iDVSP](https://ieeexplore.ieee.org/document/8647815) at [IEEE GLOBECOM 2018](https://globecom2018.ieee-globecom.org/), Abu Dhabi, UAE.
