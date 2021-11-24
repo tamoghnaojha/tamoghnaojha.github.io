@@ -7,6 +7,7 @@ author_profile: true
 
 
 ### Conference Organizing Committee Member
+* Publicity Co-Chair, DCOSS 2022, California, USA
 * General Chair, WPSN 2021 (in conjunction with IEEE DCOSS), Pafos, Cyprus
 * Publicity Co-Chair, DCOSS 2021, Pafos, Cyprus
 * Organizing Chair, IEEE TechSym 2016, IIT Kharagpur, India
