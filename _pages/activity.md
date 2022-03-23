@@ -15,6 +15,9 @@ author_profile: true
 
 
 ### TPC Member
+* COMSYS 2022 (Ropar, India)
+* SPIN 2022 (Noida, India)
+* IEEE ISCC 2022 (Rhodes Island, Greece)
 * IEEE ISCC 2021 (Athens, Greece)
 * COMSYS 2021 (Shillong, Meghalaya, India)
 * IEEE PIMRC - 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
@@ -43,7 +46,7 @@ author_profile: true
 
 
 ### Conference Reviewer
-* 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE LCN
+* 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
 * 2020: IEEE PIMRC, NCC
 * 2019: IEEE PIMRC, IEEE ATC, OPTRONIX
 * 2018: IEEE PIMRC
