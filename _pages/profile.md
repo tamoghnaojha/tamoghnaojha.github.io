@@ -11,12 +11,12 @@ author_profile: true
 * PhD, _Indian Institute of Technology Kharagpur, India_, 2020
   * Thesis title: Provisioning Sensors-as-a-Service in Sensor-cloud-based Internet of Things
   * Department: Computer Science and Engineering
-  * Supervisors: Prof. Sudip Misra and Prof. Narendra Singh Raghuwanshi
+  * Supervisors: Prof. Sudip Misra (FIEEE, FNAE) and Prof. Narendra Singh Raghuwanshi (FNAE)
 
 * MS, _Indian Institute of Technology Kharagpur, India_, 2014
   * Thesis title: Architecture and Localization for Underwater Sensor Networks
   * Department: Information Technology
-  * Supervisor: Prof. Sudip Misra
+  * Supervisor: Prof. Sudip Misra (FIEEE, FNAE)
   * CGPA: 9.6/10
 
 * PG Diploma in Embedded Systems Design, _Center for Development of Advanced Computing, Mohali, India_, 2009
