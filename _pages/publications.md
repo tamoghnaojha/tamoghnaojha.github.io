@@ -26,7 +26,7 @@ author_profile: true
 
 Conferences
 ------
-8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _IEEE GLOBECOM_, Rio de Jeneiro, 2022. (to be presented)
+8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _IEEE GLOBECOM_, Rio de Janeiro, 2022. (to be presented)
 7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022. [(URL)](https://ieeexplore.ieee.org/document/9821045)
 6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins>top 10 best</ins> papers & Invited for extended version) [(URL)](https://ieeexplore.ieee.org/document/9631530)
 5. **T. Ojha**, S. Misra, N. S. Raghuwanshi, M. S. Obaidat, “iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure”, in _Proceedings of IEEE GLOBECOM_, pp. 1-6, Abu Dhabi, UAE, 2018. [(URL)](https://ieeexplore.ieee.org/document/8647815)
