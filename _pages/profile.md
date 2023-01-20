@@ -32,6 +32,10 @@ author_profile: true
   
 
 ### Work Experience
+* Oct. 2022 - Jan. 2023: _Research Consultant_
+  * Department of Information Engineering, University of Pisa, Italy
+  * Peer-to-Peer Wireless Power Transfer algorithms
+
 * Jan 2021 - till date: _PostDoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
