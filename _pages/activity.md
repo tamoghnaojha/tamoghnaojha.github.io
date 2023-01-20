@@ -5,6 +5,9 @@ permalink: /activity/
 author_profile: true
 ---
 
+### Invited Talks
+* Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
+
 
 ### Conference Organizing Committee Member
 * Publicity Co-Chair, DCOSS 2022, California, USA
@@ -14,7 +17,13 @@ author_profile: true
 * Organizing Committee member, IEEE TechSym 2014, IIT Kharagpur, India
 
 
+### Conference Session Chair
+* IEEE ISCC 2021, Athens, Greece
+* IEEE DCOSS 2021, Pafos, Cyprus
+
+
 ### TPC Member
+* IEEE PIMRC 2022 (Virtual Conference)
 * COMSYS 2022 (Ropar, India)
 * SPIN 2022 (Noida, India)
 * IEEE ISCC 2022 (Rhodes Island, Greece)
@@ -37,6 +46,8 @@ author_profile: true
 * IEEE Systems Journal
 * IEEE Sensors Journal
 * IEEE Access
+* ACM Transactions on Sensor Networks
+* Ad Hoc Networks (Elsevier)
 * Computer Networks (Elsevier)
 * Pervasive and Mobile Computing (Elsevier)
 * Computers and Electronics in Agriculture (Elsevier)
@@ -46,6 +57,7 @@ author_profile: true
 
 
 ### Conference Reviewer
+* 2022: IEEE ISCC, IEEE PIMRC
 * 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
 * 2020: IEEE PIMRC, NCC
 * 2019: IEEE PIMRC, IEEE ATC, OPTRONIX
