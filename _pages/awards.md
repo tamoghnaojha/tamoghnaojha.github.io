@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Awards & Scholarships
-  * "Alain Bensoussan" Post-Doctoral Research Fellowship from European Research Consortium for Informatics and Mathematics (ERCIM), October 2021 - Till date.
+  * Research Consultancy at Department of Information Engineering, University of Pisa, Italy, October 2022 - January 2023.
+  * "Alain Bensoussan" Post-Doctoral Research Fellowship from European Research Consortium for Informatics and Mathematics (ERCIM), October 2021 - January 2023.
   * Post-Doctoral Research Fellowship from National Research Council (CNR) Italy, January 2021 - September 2021.
   * Research Assistantship from Indian Institute of Technology Kharagpur, August 2019 - May 2020.
   * Senior Research Fellowship from MHRD, Govt. of India, August 2017 - July 2019.
