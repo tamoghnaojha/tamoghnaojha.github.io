@@ -6,6 +6,57 @@ author_profile: true
 #redirect_from:
 #  - /profile
 ---
+  
+
+### Work Experience
+
+* Feb. 2023 - till date: _Assistant Professor (Grade-I)_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+
+* Aug. 2022 - Jan. 2023: _ERCIM PostDoctoral Research Fellow_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+
+* Oct. 2022 - Jan. 2023: _Research Consultant_
+  * Department of Information Engineering, University of Pisa, Italy
+  * Peer-to-Peer Wireless Power Transfer algorithms
+
+* Oct. 2021 - Jul. 2022: _ERCIM PostDoctoral Research Fellow_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+
+* Jan. 2021 - Sep. 2021: _PostDoctoral Research Fellow_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+
+* Nov. 2013 - Jul. 2017: _Senior Research Fellow_
+  * Sponsored Research and Industrial Consultancy (SRIC), IIT Kharagpur
+  * Project: Measurement to Management (M2M): Improved Water Use Efficiency and Agricultural Productivity Through Experimental Sensor Network
+  * Sponsor: Information Technology Research Academy (ITRA), Govt. of India
+
+* Nov. 2010 - Mar. 2013: _Junior Project Assistant_
+  * Sponsored Research and Industrial Consultancy (SRIC), IIT Kharagpur
+  * Project: Towards Robust Efficient and secure data acquisition in Underwater Sensor Networks (UWSN)
+  * Sponsor: Department of Electronics and Information Technology (DeitY), Govt. of India
+
+
+### Teaching Experience
+* Faculty
+  * _Data Structures Theory (CSE107/109) and Lab. (CSE107L/109L)_
+    * Spring 2022-23, SRM University-AP, India
+
+* Teaching Assistant: 
+  * _Programming and Data Structures Theory (CS10001)_
+    * Autumn 2018-19, IIT Kharagpur, India
+  * _Programming and Data Structures Lab. (CS19101)_
+    * Spring 2017-18, IIT Kharagpur, India
+    * Autumn 2017-18, IIT Kharagpur, India
+    * Spring 2016-17, IIT Kharagpur, India
+    * Autumn 2016-17, IIT Kharagpur, India
+  * _Short-term Course on "Underwater Sensor Networks: Theory and Simulations"_
+    * April, 2016, National Physical and Oceanography Laboratory (DRDO), Kochi, India
+
 
 ### Education
 * PhD, _Indian Institute of Technology Kharagpur, India_, 2020
@@ -29,40 +80,6 @@ author_profile: true
   * Department: Electronics and Communication Engineering
   * Supervisor: Dr. Mousiki Kar
   * DGPA: 7.89/10
-  
-
-### Work Experience
-* Oct. 2022 - Jan. 2023: _Research Consultant_
-  * Department of Information Engineering, University of Pisa, Italy
-  * Peer-to-Peer Wireless Power Transfer algorithms
-
-* Jan 2021 - till date: _PostDoctoral Research Fellow_
-  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
-  * Research: Peer-to-Peer Wireless Power Transfer algorithms
-
-* Nov. 2013 - Jul. 2017: _Senior Research Fellow_
-  * Sponsored Research and Industrial Consultancy (SRIC), IIT Kharagpur
-  * Project: Measurement to Management (M2M): Improved Water Use Efficiency and Agricultural Productivity Through Experimental Sensor Network
-  * Sponsor: Information Technology Research Academy (ITRA), Govt. of India
-
-* Nov. 2010 - Mar. 2013: _Junior Project Assistant_
-  * Sponsored Research and Industrial Consultancy (SRIC), IIT Kharagpur
-  * Project: Towards Robust Efficient and secure data acquisition in Underwater Sensor Networks (UWSN)
-  * Sponsor: Department of Electronics and Information Technology (DeitY), Govt. of India
-
-
-### Teaching Experience
-* Teaching Assistant: _Programming and Data Structures Theory (CS10001)_
-  * Autumn 2018-19, IIT Kharagpur, India
-
-* Teaching Assistant: _Programming and Data Structures Lab. (CS19101)_
-  * Spring 2017-18, IIT Kharagpur, India
-  * Autumn 2017-18, IIT Kharagpur, India
-  * Spring 2016-17, IIT Kharagpur, India
-  * Autumn 2016-17, IIT Kharagpur, India
-
-* Teaching Assistant: _Short-term Course on "Underwater Sensor Networks: Theory and Simulations"_
-  * April, 2016, National Physical and Oceanography Laboratory (DRDO), Kochi, India
 
 
 
