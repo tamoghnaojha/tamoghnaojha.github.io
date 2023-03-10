@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Tamoghna Ojha"
 title_separator          : "-"
 name                     : &name "Tamoghna Ojha"
-description              : &description "ERCIM PostDoctoral Research Fellow, National Research Council (CNR), Italy"
+description              : &description "Assistant Professor (Grade-I), SRM University-AP, India"
 url                      : https://tamoghnaojha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tamoghnaojha/tamoghnaojha.github.io"
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Tamoghna Ojha"
   avatar           : "Tamoghna.jpg"
-  bio              : "ERCIM PostDoctoral Fellow, National Research Council (CNR), Italy"
-  location         : "Pisa, Italy"
+  bio              : "Assistant Professor (Grade-I), SRM University-AP, India"
+  location         : "Amravati, Andhra Pradesh, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=gFFt6p4AAAAJ&hl=en"
