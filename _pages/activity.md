@@ -23,6 +23,7 @@ author_profile: true
 
 
 ### TPC Member
+* IEEE ISCC 2023 (Tunisia)
 * IEEE PIMRC 2023 (Toronto, Canada)
 * IEEE PIMRC 2022 (Virtual Conference)
 * COMSYS 2022 (Ropar, India)
