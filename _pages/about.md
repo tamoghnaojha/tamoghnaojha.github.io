@@ -13,7 +13,7 @@ I completed my PhD at the [Smart Wireless Applications & Networking (SWAN) Resea
 
 I am a member of IEEE and ACM. I regularly serve as a TPC/Organizing member and reviewer for several conferences and journals. In 2016, I was selected as a [Richard E Merwin Student Scholar](https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners) by IEEE Computer Society and served as a student ambassador of the IEEE Computer Society. I served as the Chairman of the Executive Committee at IEEE Student Branch, IIT Kharagpur during 2015-16. Proud to share that [IEEE TechSym 2016](https://ieeexplore.ieee.org/xpl/conhome/7866269/proceeding), an IEEE international symposium chaired by me, was awarded the [2017 Darrel Chong activity award in GOLD category](https://students.ieee.org/awards/results/) by IEEE. I, with three of my friends, was the winner of GE Edison Challenge 2013 with an award of INR 10 Lakhs, and co-founded SkinCurate Research in 2014.
 
-My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjha_CV.pdf). (June 17, 2022)
+My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjha_CV.pdf). (March, 2023)
 
 
 News
