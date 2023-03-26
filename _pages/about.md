@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Professor (Grade-I) at the [Department of Computer Science and Engineering](https://srmap.edu.in/seas/computer-science-engineering/), [SRM University-AP, Andhra Pradesh, India](https://srmap.edu.in/). Previously, I was an ERCIM “Alain Bensoussan” PostDoctoral Research Fellow with the Ubiquitous Internet Research Unit at the [Institute for Informatics and Telematics (IIT)](https://www.iit.cnr.it/) of National Research Council (CNR), Italy. My current research interests are in Wireless Power Transfer, Internet of Things, Sensor-Cloud.
+I am currently an Assistant Professor (Grade-I) at the [Department of Computer Science and Engineering](https://srmap.edu.in/seas/computer-science-engineering/), [SRM University-AP, Andhra Pradesh, India](https://srmap.edu.in/). Previously, I was an ERCIM “Alain Bensoussan” Post-Doctoral Research Fellow with [Dr. Andrea Passarella](https://www.iit.cnr.it/en/andrea.passarella/) at the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) Research Unit at the [Institute for Informatics and Telematics (IIT)](https://www.iit.cnr.it/) of National Research Council (CNR), Italy. My current research interests are in Wireless Power Transfer, Internet of Things, Sensor-Cloud.
 
 I completed my PhD at the [Smart Wireless Applications & Networking (SWAN) Research Group](http://cse.iitkgp.ac.in/~smisra/swan/) at the Department of Computer Science and Engineering,  Indian Institute of Technology Kharagpur in 2020. My PhD thesis was on "Provisioning Sensors-as-a-Service in Sensor-Cloud-based Internet of Things" under the supervision of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/) and [Prof. Narendra Singh Raghuwanshi](http://www.manit.ac.in/content/director). I have received MS from the Indian Institute of Technology Kharagpur in 2014. My MS thesis was on "Architecture and Localization in Underwater Sensor Networks" under the guidance of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/). Previously, I completed the Post Graduate Diploma in Embedded Systems from CDAC, Mohali in 2009, and B. Tech in Electronics & Communication Engg. from Haldia Institute of Technology, Haldia affiliated to the West Bengal University of Technology, Kolkata in 2008. Besides, I have several years of research experience working on research projects funded by different agencies such as [ITRA](http://medialabasia.in/itra/itra/) and [DeitY, Govt. of India](http://deity.gov.in/).
 
@@ -18,7 +18,7 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjh
 
 News
 =====
-* Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor.
+* Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor of Computer Science and Engineering.
 * Jan. 2023: Completed a research consultancy with University of Pisa, Italy.
 * Aug. 2022: [HetWeET](https://ieeexplore.ieee.org/document/10001645) accepted in [IEEE GLOBECOM 2022](https://globecom2022.ieee-globecom.org/)
 * Apr. 2022: [MoSaBa](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) accepted in Elsevier Computer Networks.
