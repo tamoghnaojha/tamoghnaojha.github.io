@@ -14,13 +14,13 @@ author_profile: true
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
-* Aug. 2022 - Jan. 2023: _ERCIM PostDoctoral Research Fellow_
-  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
-  * Research: Peer-to-Peer Wireless Power Transfer algorithms
-
 * Oct. 2022 - Jan. 2023: _Research Consultant_
   * Department of Information Engineering, University of Pisa, Italy
   * Peer-to-Peer Wireless Power Transfer algorithms
+
+* Aug. 2022 - Jan. 2023: _ERCIM PostDoctoral Research Fellow_
+  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
 * Oct. 2021 - Jul. 2022: _ERCIM PostDoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
@@ -62,12 +62,12 @@ author_profile: true
 * PhD, _Indian Institute of Technology Kharagpur, India_, 2020
   * Thesis title: Provisioning Sensors-as-a-Service in Sensor-cloud-based Internet of Things
   * Department: Computer Science and Engineering
-  * Supervisors: Prof. Sudip Misra (FIEEE, FNAE) and Prof. Narendra Singh Raghuwanshi (FNAE)
+  * Supervisors: Prof. Sudip Misra (FIEEE, FNAE, FNASc) and Prof. Narendra Singh Raghuwanshi (FNAE, FNAAS)
 
 * MS, _Indian Institute of Technology Kharagpur, India_, 2014
   * Thesis title: Architecture and Localization for Underwater Sensor Networks
   * Department: Information Technology
-  * Supervisor: Prof. Sudip Misra (FIEEE, FNAE)
+  * Supervisor: Prof. Sudip Misra (FIEEE, FNAE, FNASc)
   * CGPA: 9.6/10
 
 * PG Diploma in Embedded Systems Design, _Center for Development of Advanced Computing, Mohali, India_, 2009
