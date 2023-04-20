@@ -42,6 +42,7 @@ author_profile: true
 
 
 ### Journal Reviewer
+* IEEE Transactions on Sustainable Computing
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Vehicular Technology
 * IEEE Internet of Things Journal
@@ -59,6 +60,7 @@ author_profile: true
 
 
 ### Conference Reviewer
+* 2023: IEEE ISCC
 * 2022: IEEE ISCC, IEEE PIMRC
 * 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
 * 2020: IEEE PIMRC, NCC
@@ -71,6 +73,7 @@ author_profile: true
 * 2013: IEEE WiSEE, NCC
 
 ### Volunteering Experience
+* Faculty Coordinator, AI-ML Club, SRM University-AP, India
 * UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
 * Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
 * Student Activity Committee member, IEEE Student Branch IIT Kharagpur, India (2014-15)
