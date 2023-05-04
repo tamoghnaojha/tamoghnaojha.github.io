@@ -11,8 +11,8 @@ author_profile: true
 ### Work Experience
 
 * Feb. 2023 - till date: _Assistant Professor (Grade-I)_
-  * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
-  * Research: Peer-to-Peer Wireless Power Transfer algorithms
+  * SRM University-AP, Andhra Pradesh, India
+  * Research: IoT, Edge Computing, 6G
 
 * Oct. 2022 - Jan. 2023: _Research Consultant_
   * Department of Information Engineering, University of Pisa, Italy
