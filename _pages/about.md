@@ -7,21 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-p{color:Black !important;}
-</style>
 
 I am currently an Assistant Professor (Grade-I) at the [Department of Computer Science and Engineering](https://srmap.edu.in/seas/computer-science-engineering/), [SRM University-AP, Andhra Pradesh, India](https://srmap.edu.in/). Previously, I was an ERCIM “Alain Bensoussan” Post-Doctoral Research Fellow with [Dr. Andrea Passarella](https://www.iit.cnr.it/en/andrea.passarella/) at the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) Research Unit at the [Institute for Informatics and Telematics (IIT)](https://www.iit.cnr.it/) of National Research Council (CNR), Italy. My current research interests are in 6G, Wireless Power Transfer, Internet of Things, Sensor-Cloud. 
 
-<style>
-p{color:Red !important;}
-</style>
-
-I am looking for motivated students to join PhD 
-
-<style>
-p{color:Black !important;}
-</style>
+<span style="color:red">
+I am looking for motivated and aspiring students to join PhD program. Interested candidates may write to me with a copy of updated CV. 
+</span>
 
 I completed my PhD at the [Smart Wireless Applications & Networking (SWAN) Research Group](http://cse.iitkgp.ac.in/~smisra/swan/) at the Department of Computer Science and Engineering,  Indian Institute of Technology Kharagpur in 2020. My PhD thesis was on "Provisioning Sensors-as-a-Service in Sensor-Cloud-based Internet of Things" under the supervision of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/) and [Prof. Narendra Singh Raghuwanshi](http://www.manit.ac.in/content/director). I have received MS from the Indian Institute of Technology Kharagpur in 2014. My MS thesis was on "Architecture and Localization in Underwater Sensor Networks" under the guidance of [Prof. Sudip Misra](http://cse.iitkgp.ac.in/~smisra/). Previously, I completed the Post Graduate Diploma in Embedded Systems from CDAC, Mohali in 2009, and B. Tech in Electronics & Communication Engg. from Haldia Institute of Technology, Haldia affiliated to the West Bengal University of Technology, Kolkata in 2008. Besides, I have several years of research experience working on research projects funded by different agencies such as [ITRA](http://medialabasia.in/itra/itra/) and [DeitY, Govt. of India](http://deity.gov.in/).
 
