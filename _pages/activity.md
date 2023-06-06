@@ -23,15 +23,10 @@ author_profile: true
 
 
 ### TPC Member
-* COMSYS 2023 (Mandi, India)
-* IEEE ISCC 2023 (Tunisia)
-* IEEE PIMRC 2023 (Toronto, Canada)
-* IEEE PIMRC 2022 (Virtual Conference)
-* COMSYS 2022 (Ropar, India)
+* COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
+* IEEE ISCC - 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
+* IEEE PIMRC - 2023 (Toronto, Canada); 2022 (Virtual Conference)
 * SPIN 2022 (Noida, India)
-* IEEE ISCC 2022 (Rhodes Island, Greece)
-* IEEE ISCC 2021 (Athens, Greece)
-* COMSYS 2021 (Shillong, Meghalaya, India)
 * IEEE PIMRC - 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
 * IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
 * ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
@@ -87,6 +82,7 @@ author_profile: true
 * IEEE Communication Society member (2014-present)
 * IEEE Computer Society member (2014-present)
 * Graduate student member, IEEE (2013-2020)
+* Professional member, ACM (2021-present)
 * Student member, ACM (2013-2020)
 
 
