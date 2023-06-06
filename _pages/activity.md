@@ -23,6 +23,7 @@ author_profile: true
 
 
 ### TPC Member
+* COMSYS 2023 (Mandi, India)
 * IEEE ISCC 2023 (Tunisia)
 * IEEE PIMRC 2023 (Toronto, Canada)
 * IEEE PIMRC 2022 (Virtual Conference)
@@ -60,7 +61,7 @@ author_profile: true
 
 
 ### Conference Reviewer
-* 2023: IEEE ISCC
+* 2023: IEEE ISCC, IEEE PIMRC
 * 2022: IEEE ISCC, IEEE PIMRC
 * 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
 * 2020: IEEE PIMRC, NCC
