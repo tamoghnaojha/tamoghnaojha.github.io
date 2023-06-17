@@ -7,7 +7,7 @@ author_profile: true
 
 ### Invited Talks
 * Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
-* Resource Person: Faculty Development Programme on “ Applications of Machine Learning and the Internet of Things in Smart Cities”, EICT, NIT Warangal and Techno College of Engineering, Agartala (June 2023)
+* Resource Person: Faculty Development Programme on “Applications of Machine Learning and the Internet of Things in Smart Cities”, EICT, NIT Warangal and Techno College of Engineering, Agartala (June 2023)
 
 
 ### Conference Organizing Committee Member
@@ -70,12 +70,11 @@ author_profile: true
 * 2013: IEEE WiSEE, NCC
 
 ### Volunteering Experience
-* Faculty Coordinator, AI-ML Club, SRM University-AP, India
+* Faculty Coordinator, AI-ML Club, SRM University-AP, India (2023-present)
 * UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
 * Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
 * Student Activity Committee member, IEEE Student Branch IIT Kharagpur, India (2014-15)
-* Member, Conference/Workshop Committee, IEEE Computer Society India Council(2015 2016)
-* Member, Breakthrough Science Society, IIT Kharagpur Chapter, India (2013–Till date)
+* Member, Conference/Workshop Committee, IEEE Computer Society India Council (2015-2016)
 
 
 ### Professional Membership
@@ -85,7 +84,6 @@ author_profile: true
 * Graduate student member, IEEE (2013-2020)
 * Professional member, ACM (2021-present)
 * Student member, ACM (2013-2020)
-
 
 
 ### Others
