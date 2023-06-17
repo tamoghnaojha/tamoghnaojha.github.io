@@ -7,8 +7,20 @@ author_profile: true
 #  - /research
 ---
 
-### Peer-to-Peer Wireless Power Transfer (P2P-WPT)
-The emergence of wireless power transfer (WPT) technologies has enabled mobile and portable devices to be charged wirelessly without depending on cables, so as to continue executing their applications seamlessly. Typically, these devices can be charged wirelessly from different types of power sources such as wireless charging pads and mobile charging vehicles. In this regard, the use of peer-to-peer (P2P) WPT methods empower a mobile device to recharge by directly interacting and exchanging energy with nearby mobile devices, thereby providing the flexibility to leverage the nearby peer power sources while maintaining their own mobility. Also, the P2P mode of WPT provides a cost-effective alternative solution suitable in cases of constrained environments, where external chargers might not be available. In our current research, our objective is to achieve an energy balancing of the network such that the average network energy is maximized, while mitigating various challenges associated with the interaction among the deployed nodes.
+## Research Group
+
+* PhD Students
+  ** 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
+* Intern Students
+  ** Anirudh Chowdary Narra (CSE, 2nd Year)
+  ** Diswanth Sai Movva (CSE, 2nd Year)
+  ** Prudhvi Kaja (CSE, 2nd Year)
+  ** Uday Sai Chaganti (CSE, 2nd Year)
+
+## Research Domains
+
+### Wirelessly Powered IoT
+The emergence of wireless power transfer (WPT) technologies has enabled mobile and portable devices to be charged wirelessly without depending on cables, so as to continue executing their applications seamlessly. Typically, these devices can be charged wirelessly from different types of power sources such as wireless charging pads and mobile charging vehicles. In this regard, wirelessly powered Internet of Things (IoT) has emerged as a promising solution for powering and communicating with IoT devices without the limitations of traditional wired connections or battery replacements. However, several research issues still need to be addressed to optimize the UAV-IoT power transfer along with various constraints in coverage, trajectory, and device capabilities. On the other hand, the use of peer-to-peer (P2P) WPT methods empower a mobile device to recharge by directly interacting and exchanging energy with nearby mobile devices, thereby providing the flexibility to leverage the nearby peer power sources while maintaining their own mobility. In our current research, our objective is to achieve an energy balancing of the network such that the average network energy is maximized while mitigating various challenges associated with the interaction among the deployed nodes. In UAV-IoT, we are working on devising solutions for increased utility for WPT between UAV and IoT considering various constraints and requirements of both UAV and IoT nodes.
 
 
 ### Provisioning sensors-as-a-service in sensor-cloud
