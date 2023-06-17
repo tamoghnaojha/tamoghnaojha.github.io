@@ -11,11 +11,6 @@ author_profile: true
 
 * PhD Students
   * 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
-* Intern Students
-  * 2023-summer: Mr. Anirudh Chowdary Narra (CSE, 2nd Year)
-  * 2023-summer: Mr. Diswanth Sai Movva (CSE, 2nd Year)
-  * 2023-summer: Mr. Prudhvi Kaja (CSE, 2nd Year)
-  * 2023-summer: Mr. Uday Sai Chaganti (CSE, 2nd Year)
 
 <span style="color:red">
 I am looking for motivated and aspiring candidates for PhD (current vacancy: 2) and PostDoc positions (vacancy: 1). Interested candidates may write to me with a copy of updated CV. For more information about the PhD program, eligibility and fellowship you may visit [this link](https://srmap.edu.in/research-home/phd-programme/).
