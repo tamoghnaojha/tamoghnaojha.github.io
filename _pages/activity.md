@@ -7,6 +7,7 @@ author_profile: true
 
 ### Invited Talks
 * Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
+* Resource Person: Faculty Development Programme on “ Applications of Machine Learning and the Internet of Things in Smart Cities”, EICT, NIT Warangal and Techno College of Engineering, Agartala (June 2023)
 
 
 ### Conference Organizing Committee Member
