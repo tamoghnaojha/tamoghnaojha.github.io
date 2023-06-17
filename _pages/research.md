@@ -23,7 +23,7 @@ I am looking for motivated and aspiring candidates for PhD (current vacancy: 2) 
 
 ## Research Domains
 
-![image](https://github.com/tamoghnaojha/tamoghnaojha.github.io/assets/9018158/237c09e1-9672-440a-8746-0f5ddf2ae4ef)
+![image](https://github.com/tamoghnaojha/tamoghnaojha.github.io/assets/9018158/6870e4df-f211-45cf-bb61-8bbc91a03246)
 
 
 ### Wirelessly Powered IoT
