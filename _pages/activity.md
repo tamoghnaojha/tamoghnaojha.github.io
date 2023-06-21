@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### Invited Talks
-* Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
 * Resource Person: Faculty Development Programme on “Applications of Machine Learning and the Internet of Things in Smart Cities”, EICT, NIT Warangal and Techno College of Engineering, Agartala (June 2023)
+* Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
 
 
 ### Conference Organizing Committee Member
@@ -78,7 +78,8 @@ author_profile: true
 
 
 ### Professional Membership
-* Professional member, IEEE (2021-present)
+* Senior member, IEEE (2023-present)
+* Professional member, IEEE (2021-2023)
 * IEEE Communication Society member (2014-present)
 * IEEE Computer Society member (2014-present)
 * Graduate student member, IEEE (2013-2020)
