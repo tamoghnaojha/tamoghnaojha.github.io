@@ -27,9 +27,8 @@ author_profile: true
 * IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
 * COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
 * IEEE ISCC - 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
-* IEEE PIMRC - 2023 (Toronto, Canada); 2022 (Virtual Conference)
+* IEEE PIMRC - 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
 * SPIN 2022 (Noida, India)
-* IEEE PIMRC - 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
 * IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
 * ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
 * ICACIE - 2017 (Ajmer, India); 2016 (Bhubaneswar, India)
@@ -58,7 +57,7 @@ author_profile: true
 
 
 ### Conference Reviewer
-* 2023: IEEE ISCC, IEEE PIMRC
+* 2023: IEEE GLOBECOM, ISCC, IEEE PIMRC
 * 2022: IEEE ISCC, IEEE PIMRC
 * 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
 * 2020: IEEE PIMRC, NCC
@@ -80,7 +79,7 @@ author_profile: true
 
 
 ### Professional Membership
-* Senior member, IEEE (2023-present)
+* Senior Member, IEEE (2023-present)
 * Professional member, IEEE (2021-2023)
 * IEEE Communication Society member (2014-present)
 * IEEE Computer Society member (2014-present)
