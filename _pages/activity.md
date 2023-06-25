@@ -24,6 +24,7 @@ author_profile: true
 
 
 ### TPC Member
+* IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
 * COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
 * IEEE ISCC - 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
 * IEEE PIMRC - 2023 (Toronto, Canada); 2022 (Virtual Conference)
@@ -70,6 +71,7 @@ author_profile: true
 * 2013: IEEE WiSEE, NCC
 
 ### Volunteering Experience
+* Faculty representative, Cisco Internship Program (June-July 2023).
 * Faculty Coordinator, AI-ML Club, SRM University-AP, India (2023-present)
 * UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
 * Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
