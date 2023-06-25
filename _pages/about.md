@@ -23,7 +23,7 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjh
 
 News
 =====
-* June 2023: Elevated to IEEE Senior Member grade. 
+* June 2023: Elevated to _IEEE Senior Member_ grade. 
 * Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor of Computer Science and Engineering.
 * Jan. 2023: Completed a research consultancy with University of Pisa, Italy.
 * Aug. 2022: [HetWeET](https://ieeexplore.ieee.org/document/10001645) accepted in [IEEE GLOBECOM 2022](https://globecom2022.ieee-globecom.org/)
