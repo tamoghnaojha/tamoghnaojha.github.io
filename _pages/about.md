@@ -23,6 +23,7 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjh
 
 News
 =====
+* July 2023: UAV-WPT survey accepted in _Elsevier PMC journal_.
 * June 2023: Elevated to _IEEE Senior Member_ grade. 
 * Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor of Computer Science and Engineering.
 * Jan. 2023: Completed a research consultancy with University of Pisa, Italy.
