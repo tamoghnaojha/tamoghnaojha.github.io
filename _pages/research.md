@@ -13,7 +13,7 @@ author_profile: true
   * 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
 
 <span style="color:red">
-I am looking for motivated and aspiring candidates for PhD (current vacancy: 2) and PostDoc positions (vacancy: 1). Interested candidates may write to me with a copy of updated CV. For more information about the PhD program, eligibility and fellowship you may visit [this link](https://srmap.edu.in/research-home/phd-programme/).
+I am looking for motivated and aspiring candidates for PhD (current vacancy: 2) and PostDoc (vacancy: 1) positions. Interested candidates may write to me with a copy of updated CV. For more information about the eligibility criteria, benefits, and fellowship, you may visit the following links -- [PhD program](https://srmap.edu.in/research-home/phd-programme/), and [PostDoc program (UPDF)](https://srmap.edu.in/post-doc-fellowship-application-form-2023/).  
 </span>
 
 ## Research Domains
