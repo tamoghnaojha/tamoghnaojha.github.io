@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Journals
-17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, 2023. [DOI: 10.1016/j.pmcj.2023.101820] (SCI - Q1, I. F. - 3.848) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780)
+17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. [DOI: 10.1016/j.pmcj.2023.101820] (SCI - Q1, I. F. - 3.848) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780)
 16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [(arXiv)](https://arxiv.org/abs/2204.09399)
 15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, vol. 15, no. 4, pp. 5144-5151, 2021. (SCI - Q1, I.F. - 4.802) [(URL)](https://ieeexplore.ieee.org/document/9461869)
 14. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", _IEEE Internet of Things Journal_, vol. 8, no. 14, pp. 10973-10997, 2021. (SCI - Q1, I.F. - 10.238) [(URL)](https://ieeexplore.ieee.org/document/9321474)
