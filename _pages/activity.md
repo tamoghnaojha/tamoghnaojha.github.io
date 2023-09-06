@@ -39,6 +39,7 @@ author_profile: true
 
 
 ### Journal Reviewer
+* IEEE Transactions on Network and Service Management
 * IEEE Transactions on Sustainable Computing
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Vehicular Technology
@@ -69,23 +70,25 @@ author_profile: true
 * 2014: ISED, IEEE TechSym
 * 2013: IEEE WiSEE, NCC
 
+### Administrative Responsibility
+* _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-present)
+* _Member_ of International Relations Committee of SRM University-AP (July 2023-present)
+* _Faculty representative_, Cisco Internship Program (June-July 2023)
+* _Faculty Coordinator_, AI-ML Club, SRM University-AP, India (Spring 2023)
+
+
 ### Volunteering Experience
-* Faculty representative, Cisco Internship Program (June-July 2023).
-* Faculty Coordinator, AI-ML Club, SRM University-AP, India (2023-present)
-* UPP Liaison, IEEE Student Branch IIT Kharagpur, India (2016-17)
-* Chair of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
-* Student Activity Committee member, IEEE Student Branch IIT Kharagpur, India (2014-15)
-* Member, Conference/Workshop Committee, IEEE Computer Society India Council (2015-2016)
+* _UPP Liaison_, IEEE Student Branch IIT Kharagpur, India (2016-17)
+* _Chair_ of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
+* _Member_, Student Activity Committee, IEEE Student Branch IIT Kharagpur, India (2014-15)
+* _Member_, Conference/Workshop Committee, IEEE Computer Society India Council (2015-2016)
 
 
 ### Professional Membership
-* Senior Member, IEEE (2023-present)
-* Professional member, IEEE (2021-2023)
-* IEEE Communication Society member (2014-present)
-* IEEE Computer Society member (2014-present)
-* Graduate student member, IEEE (2013-2020)
-* Professional member, ACM (2021-present)
-* Student member, ACM (2013-2020)
+* _IEEE_: Senior Member (2023-present), Professional member (2021-2023), Graduate student member (2013-2020)
+* _ACM_: Professional member (2021-present), Student member (2013-2020)
+* _IEEE Communication Society member_ (2014-present)
+* _IEEE Computer Society member_ (2014-present)
 
 
 ### Others
