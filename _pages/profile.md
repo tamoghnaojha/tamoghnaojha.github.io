@@ -12,7 +12,7 @@ author_profile: true
 
 * Feb. 2023 - till date: _Assistant Professor (Grade-I)_
   * SRM University-AP, Andhra Pradesh, India
-  * Research: IoT, Edge Computing, 6G
+  * Research: IoT, Edge Computing, 6G, Wirelessly Powered Networks
 
 * Oct. 2022 - Jan. 2023: _Research Consultant_
   * Department of Information Engineering, University of Pisa, Italy
@@ -43,7 +43,11 @@ author_profile: true
 
 ### Teaching Experience
 * Faculty
-  * _Data Structures Theory (CSE107/109) and Lab. (CSE107L/109L)_
+  * _Computer Networks (CSE 303) and Lab. (CSE 303L)_
+    * Autumn 2023-24, SRM University-AP, India
+  * _Service Oriented Computing (CSE 418) and Lab (CSE 418L)_
+    * Autumn 2023-24, SRM University-AP, India
+  * _Data Structures Theory (CSE 107/109) and Lab. (CSE 107L/109L)_
     * Spring 2022-23, SRM University-AP, India
 
 * Teaching Assistant: 
@@ -55,7 +59,7 @@ author_profile: true
     * Spring 2016-17, IIT Kharagpur, India
     * Autumn 2016-17, IIT Kharagpur, India
   * _Short-term Course on "Underwater Sensor Networks: Theory and Simulations"_
-    * April, 2016, National Physical and Oceanography Laboratory (DRDO), Kochi, India
+    * April 2016, National Physical and Oceanography Laboratory (DRDO), Kochi, India
 
 
 ### Education
