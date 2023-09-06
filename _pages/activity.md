@@ -78,7 +78,8 @@ author_profile: true
 
 
 ### Volunteering Experience
-* _UPP Liaison_, IEEE Student Branch IIT Kharagpur, India (2016-17)
+* _Student Representative_, IEEE Computer Society India Council SAC (2017)
+*  _UPP Liaison_, IEEE Student Branch IIT Kharagpur, India (2016-17)
 * _Chair_ of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
 * _Member_, Student Activity Committee, IEEE Student Branch IIT Kharagpur, India (2014-15)
 * _Member_, Conference/Workshop Committee, IEEE Computer Society India Council (2015-2016)
