@@ -87,8 +87,8 @@ author_profile: true
 ### Professional Membership
 * _IEEE_: Senior Member (2023-present), Professional member (2021-2023), Graduate student member (2013-2020)
 * _ACM_: Professional member (2021-present), Student member (2013-2020)
-* _IEEE Communication Society member_ (2014-present)
-* _IEEE Computer Society member_ (2014-present)
+* _IEEE Communication Society_: Member (2014-present)
+* _IEEE Computer Society_: Member (2014-present)
 
 
 ### Others
