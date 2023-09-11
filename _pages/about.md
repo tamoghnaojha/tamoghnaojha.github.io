@@ -61,5 +61,5 @@ News
 * Feb. 2014: Co-founded SkinCurate Research.
 * Dec. 2013: Won GE Edison Challenge with an award of INR 10 Lakhs.
 * 2000-2004: Scholarship from Foundation for Excellence Inc., USA.
-* Oct. 2002: Felicitated by "Netaji Smarak Samiti" and awarded "Ardhendu Sekhar Sarkar Memorial Prize" for securing 1st position at Block (Salboni, Paschim Medinipur) level in Secondary exam 2002.
-* Dec. 1999: Awarded 1st prize in Quiz Competition at Block (Salboni, Paschim Medinipur) level.
+* Oct. 2002: Awarded "Ardhendu Sekhar Sarkar Memorial Prize" for securing 1st position at Block (Salboni, Paschim Medinipur) level in Secondary (Madhyamik) exam 2002.
+* Dec. 1999: Awarded 1st prize in Quiz Competition at Block (Salboni, Paschim Medinipur) level by Department of Youth Services and Sports, Govt. of West Bengal.
