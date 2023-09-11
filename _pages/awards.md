@@ -14,8 +14,10 @@ author_profile: true
   * August 2017 - July 2019: _Senior Research Fellowship_ from MHRD, Govt. of India.
   * December 2016: _Richard E Merwin Student Scholarship_ from IEEE Computer Society. (Award: USD 1,000)
   * November 2013 - July 2017: _Senior Research Fellowship_ from ITRA, Govt. of India.
-  * December 2023: _Winner of GE Edison Challenge 2013_, GE John F. Welch Technology Center, Bangalore. (Award INR 10,00,000.00)
+  * December 2013: _Winner of GE Edison Challenge 2013_, GE John F. Welch Technology Center, Bangalore. (Award INR 10,00,000.00)
   * 2000-2004: _Scholarship_ from Foundation for Excellence Inc., USA during.
+  * October 2002: Awarded "Ardhendu Sekhar Sarkar Memorial Prize" for securing _1st position at Block_ (Salboni, Paschim Medinipur) level in Secondary (Madhyamik) exam 2002.
+  * December 1999: Awarded _1st prize in Quiz Competition_ at Block (Salboni, Paschim Medinipur) level by Department of Youth Services and Sports, Govt. of West Bengal.
 
 
 ### Research & Travel Grants
