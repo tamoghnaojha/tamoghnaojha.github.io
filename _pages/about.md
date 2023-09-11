@@ -23,10 +23,10 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjh
 
 News
 =====
-* July 2023: UAV-WPT survey accepted in _Elsevier PMC journal_.
+* July 2023: [UAV-WPT survey](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780) accepted in _Elsevier PMC journal_.
 * June 2023: Elevated to _IEEE Senior Member_ grade. 
 * Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor of Computer Science and Engineering.
-* Jan. 2023: Completed a research consultancy with University of Pisa, Italy.
+* Jan. 2023: Completed a _research consultancy_ with the University of Pisa, Italy.
 * Aug. 2022: [HetWeET](https://ieeexplore.ieee.org/document/10001645) accepted in [IEEE GLOBECOM 2022](https://globecom2022.ieee-globecom.org/)
 * Apr. 2022: [MoSaBa](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) accepted in Elsevier Computer Networks.
 * Apr. 2022: [Battery Aging Mitigation](https://ieeexplore.ieee.org/document/9821045) accepted in [IEEE SmartComp 2022](https://smartcomp.aalto.fi/).
@@ -60,3 +60,6 @@ News
 * July 2014: [OLTC](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6853401&tag=1) accepted in IEEE Transactions on Mobile Computing.
 * Feb. 2014: Co-founded SkinCurate Research.
 * Dec. 2013: Won GE Edison Challenge with an award of INR 10 Lakhs.
+* 2000-2004: Scholarship from Foundation for Excellence Inc., USA.
+* Oct. 2002: Felicitated by "Netaji Smarak Samiti" and awarded "Ardhendu Sekhar Sarkar Memorial Prize" for securing 1st position at Block (Salboni, Paschim Medinipur) level in Secondary exam 2002.
+* Dec. 1999: Awarded 1st prize in Quiz Competition at Block (Salboni, Paschim Medinipur) level.
