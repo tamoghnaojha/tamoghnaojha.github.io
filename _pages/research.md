@@ -19,8 +19,8 @@ I am looking for motivated and aspiring candidates for PhD positions (current va
 ## Research Grants
 
 * Oct. 2023 - current: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (Co-PIs: 2)
-* Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, INR 10,00,000. (Co-PIs: 3, at SkinCurate Research)
-* Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, INR 41,79,000. (Co-PIs: 3, at SkinCurate Research)
+* Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, Amount: INR 10,00,000. (Co-PIs: 3, at SkinCurate Research)
+* Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, Amount: INR 41,79,000. (Co-PIs: 3, at SkinCurate Research)
 
 ## Research Domains
 
