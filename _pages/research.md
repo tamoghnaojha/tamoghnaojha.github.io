@@ -10,11 +10,17 @@ author_profile: true
 ## Research Group
 
 * PhD Students
-  * 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
+  * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
 
 <span style="color:red">
-I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2). Interested candidates may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship, you may visit the following links -- [PhD program](https://srmap.edu.in/research-home/phd-programme/).
+I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2) and Post-Doc (current vacancy: 1). Interested candidates may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://srmap.edu.in/research-home/phd-programme/).
 </span>
+
+## Research Grants
+
+* Oct. 2023 - current: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (Co-PIs: 2)
+* Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, INR 10,00,000. (Co-PIs: 3, at SkinCurate Research)
+* Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, INR 41,79,000. (Co-PIs: 3, at SkinCurate Research)
 
 ## Research Domains
 
