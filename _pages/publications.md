@@ -40,5 +40,5 @@ Conferences
 Patents
 ------
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
-1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Published_, File No. 425/KOL/2015, Published - December 2017.
+1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted_, File No. 425/KOL/2015, Granted - December 2023.
 
