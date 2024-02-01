@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Patents
+2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
+1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, Granted - December 2023, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
+
 ### Journals
 17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780)
 16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [(arXiv)](https://arxiv.org/abs/2204.09399)
@@ -25,8 +29,7 @@ author_profile: true
 1. **T. Ojha**, M. Khatua, and S. Misra, "Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks," _IET Wireless Sensor Systems_, vol. 3, no. 4, pp. 307-316, 2013. (SCI - Q2, I.F. - 2.51) [(URL)](https://digital-library.theiet.org/content/journals/10.1049/iet-wss.2012.0139)
 
 
-Conferences
-------
+### Conferences
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022. [(URL)](https://ieeexplore.ieee.org/document/10001645) [(arXiv)](https://arxiv.org/abs/2205.11069)
 7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022. [(URL)](https://ieeexplore.ieee.org/document/9821045) [(arXiv)](https://arxiv.org/abs/2204.09311)
 6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins> best papers</ins> & invited for extended version) [(URL)](https://ieeexplore.ieee.org/document/9631530)
@@ -35,10 +38,4 @@ Conferences
 3. **T. Ojha**, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications," in _Proceedings IEEE CloudCom_, pp. 841-846, Singapore, December 2014. [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7037771)
 2. **T. Ojha** and S. Misra, "HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks," in _Proceedings of QShine_, pp. 128-140, Springer Berlin Heidelberg, Greater Noida, India, January 2013. [(URL)](http://link.springer.com/chapter/10.1007%2F978-3-642-37949-9_11)
 1. **T. Ojha** and S. Misra, "MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks," in _Proceedings of 19th National Conference on Communications (NCC)_, pp. 1-5, IEEE, New Delhi, India, February 2013. [(URL)](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6488033)
-
-
-Patents
-------
-2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
-1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted_, File No. 425/KOL/2015, Granted - December 2023.
 
