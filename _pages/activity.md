@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 ### Invited Talks
-* Resource Person: Faculty Development Programme on “Applications of Machine Learning and the Internet of Things in Smart Cities”, EICT, NIT Warangal and Techno College of Engineering, Agartala (June 2023)
-* Keynote: ICACIE 2022, Cuttack, India (Dec. 2022)
+* Resource Person: Webinar series on "Smart Agriculture" organized by Centurion University of Technology and Management, Odisha. Talked on "IoT and Edge Computing for Smart Agriculture". (Dec. 2023)
+* Resource Person: ATAL FDP on "Integrated IoT and Machine Learning Methods for Smart Sustainable Cities" organized by Vignan's University, Guntur. Talked on "Edge-computing and IoT in the 6G era". (Dec. 2023)
+* Resource Person: Faculty Development Programme on "Applications of Machine Learning and the Internet of Things in Smart Cities", EICT, NIT Warangal and Techno College of Engineering, Agartala. Talked on "Wirelessly Powered IoT". (June 2023)
+* Keynote Speaker: ICACIE 2022 (Springer), Cuttack, India. Talked on "Energy Balance in Peer-to-Peer Wireless Power Transfer (P2P-WPT)". (Dec. 2022)
 
 
 ### Conference Organizing Committee Member
