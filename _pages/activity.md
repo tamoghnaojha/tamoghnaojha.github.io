@@ -19,25 +19,22 @@ author_profile: true
 * Organizing Chair, IEEE TechSym 2016, IIT Kharagpur, India
 * Organizing Committee member, IEEE TechSym 2014, IIT Kharagpur, India
 
+### Examiner / Reviewer
+* IEEE India Council Awards, Oct. 2023
 
 ### Conference Session Chair
 * IEEE ISCC 2021, Athens, Greece
 * IEEE DCOSS 2021, Pafos, Cyprus
 
 
-### TPC Member
+### TPC Member (Selected only)
+* IEEE PIMRC - 2024 (Valencia, Spain); 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
+* IEEE ISCC - 2024 (Paris, France); 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
 * IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
 * COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
-* IEEE ISCC - 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
-* IEEE PIMRC - 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
 * SPIN 2022 (Noida, India)
 * IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
 * ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
-* ICACIE - 2017 (Ajmer, India); 2016 (Bhubaneswar, India)
-* NBiS 2017 (Ryerson University, Canada)
-* ICACDS 2016 (Ghaziabad, India)
-* IEEE ScalCom 2014 (Bali, Indonesia)
-* IEEE TechSym 2014 (IIT Kharagpur, India)
 
 
 ### Journal Reviewer
@@ -48,6 +45,7 @@ author_profile: true
 * IEEE Internet of Things Journal
 * IEEE Systems Journal
 * IEEE Sensors Journal
+* IEEE Embedded System Letters
 * IEEE Access
 * ACM Transactions on Sensor Networks
 * Ad Hoc Networks (Elsevier)
@@ -57,20 +55,14 @@ author_profile: true
 * Computer Communication (Elsevier)
 * International Journal of Communication Systems (Wiley)
 * Telecommunication Systems (Springer)
+* The Journal of Supercomputing (Springer)
 
 
-### Conference Reviewer
-* 2023: IEEE CCNC, GLOBECOM, ISCC, IEEE PIMRC
-* 2022: IEEE ISCC, IEEE PIMRC
-* 2021: IEEE CCNC, ICCCS, COVI-COM (IEEE ICC), IEEE DCOSS, IEEE PIMRC, IEEE LCN, IEEE ISCC
-* 2020: IEEE PIMRC, NCC
-* 2019: IEEE PIMRC, IEEE ATC, OPTRONIX
-* 2018: IEEE PIMRC
-* 2017: IEEE PIMRC
-* 2016: IEEE TechSym, IEEE ANTS, IEEE ICECS
-* 2015: AIMoC, IEEE ANTS
-* 2014: ISED, IEEE TechSym
-* 2013: IEEE WiSEE, NCC
+### Conference Reviewer (Selected only)
+* IEEE PIMRC: 2017--2024
+* IEEE ISCC: 2021--2024
+* IEEE GLOBECOM: 2023
+* Others: IEEE LCN, IEEE DCOSS, IEEE ATC, COVI-COM (IEEE ICC), IEEE ICCCS, IEEE ANTS, IEEE NCC, ACM FICN
 
 ### Administrative Responsibility
 * _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-present)
