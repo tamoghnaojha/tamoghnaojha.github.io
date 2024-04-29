@@ -10,7 +10,11 @@ author_profile: true
 
 ### Work Experience
 
-* Feb. 2023 - till date: _Assistant Professor (Grade-I)_
+* Apr. 2024 - till date: _Assistant Professor (Grade-I)_
+  * BITS Pilani, Hyderabad Campus, Telangana, India
+  * Research: IoT, Edge Computing, 6G, Wirelessly Powered Networks
+
+* Feb. 2023 - Apr. 2024: _Assistant Professor (Grade-I)_
   * SRM University-AP, Andhra Pradesh, India
   * Research: IoT, Edge Computing, 6G, Wirelessly Powered Networks
 
@@ -43,12 +47,14 @@ author_profile: true
 
 ### Teaching Experience
 * Faculty
+  * _IoT Design Protocols (CSE 319A)_
+    * Spring 2023-24, SRM University-AP, India
   * _Computer Networks (CSE 303) and Lab. (CSE 303L)_
     * Autumn 2023-24, SRM University-AP, India
   * _Service Oriented Computing (CSE 418) and Lab (CSE 418L)_
     * Autumn 2023-24, SRM University-AP, India
   * _Data Structures Theory (CSE 107/109) and Lab. (CSE 107L/109L)_
-    * Spring 2022-23, SRM University-AP, India
+    * Spring 2022-23, Spring 2023-24, SRM University-AP, India
 
 * Teaching Assistant: 
   * _Programming and Data Structures Theory (CS10001)_
