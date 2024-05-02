@@ -20,7 +20,7 @@ author_profile: true
 
 * Oct. 2022 - Jan. 2023: _Research Consultant_
   * Department of Information Engineering, University of Pisa, Italy
-  * Peer-to-Peer Wireless Power Transfer algorithms
+  * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
 * Aug. 2022 - Jan. 2023: _ERCIM PostDoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
