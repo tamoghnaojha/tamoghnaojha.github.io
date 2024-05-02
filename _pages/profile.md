@@ -83,13 +83,11 @@ author_profile: true
 * PG Diploma in Embedded Systems Design, _Center for Development of Advanced Computing, Mohali, India_, 2009
   * Project topic: A Real-time application for peripheral controlling and monitoring
   * Supervisor: Ms. Sonia Dosanjh
-  * Marks: 80.50%
 
 * B. Tech, _West Bengal University of Technology, West Bengal, India_, 2008
-  * Thesis title: Microcontroller based Infra-Red Tracking Robot 
+  * Thesis title: Microcontroller-based Infra-Red Tracking Robot 
   * Department: Electronics and Communication Engineering
   * Supervisor: Dr. Mousiki Kar
-  * DGPA: 7.89/10
 
 
 
