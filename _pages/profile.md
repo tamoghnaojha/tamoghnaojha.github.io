@@ -78,7 +78,6 @@ author_profile: true
   * Thesis title: Architecture and Localization for Underwater Sensor Networks
   * Department: Information Technology
   * Supervisor: Prof. Sudip Misra (FIEEE, FNAE, FNASc)
-  * CGPA: 9.6/10
 
 * PG Diploma in Embedded Systems Design, _Center for Development of Advanced Computing, Mohali, India_, 2009
   * Project topic: A Real-time application for peripheral controlling and monitoring
