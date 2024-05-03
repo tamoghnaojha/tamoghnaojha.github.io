@@ -23,7 +23,7 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjh
 
 News
 =====
-* April 2024: Joined BITS Pilani, Hyderabad as an Assistant Professor [(Link to profile)](bits-pilani.ac.in/hyderabad/tamoghna-ojha)
+* April 2024: Joined BITS Pilani, Hyderabad as an Assistant Professor [(Link to profile)](https://www.bits-pilani.ac.in/hyderabad/tamoghna-ojha)
 * Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. For more information check the [book website (editor maintained)](https://edge6gbook.github.io/).
 * Dec. 2023: _Indian patent granted_ on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).
 * Nov. 2023: Received _seed research grant_ of INR 15.24 Lacs from SRM University-AP.
