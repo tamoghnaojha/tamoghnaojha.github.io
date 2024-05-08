@@ -18,13 +18,13 @@ During 2021-2023, I was an ERCIM “Alain Bensoussan” Post-Doctoral Research F
 
 I am a Senior Member of IEEE (SM'23, M'21, GSM'13) and ACM (PM'21, SM'13). I regularly serve as a TPC/Organizing member and reviewer for several conferences and journals. In 2016, I was selected as a [Richard E Merwin Student Scholar](https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners) by IEEE Computer Society and served as a student ambassador of the IEEE Computer Society. I served as the Chairman of the Executive Committee at IEEE Student Branch, IIT Kharagpur during 2015-16. Proud to share that [IEEE TechSym 2016](https://ieeexplore.ieee.org/xpl/conhome/7866269/proceeding), an IEEE international symposium chaired by me, was awarded the [2017 Darrel Chong activity award in GOLD category](https://students.ieee.org/awards/results/) by IEEE. I, with three of my colleagues, won the GE Edison Challenge 2013 with an award of INR 10 Lakhs, and co-founded SkinCurate Research in 2014.
 
-My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjha - CV.pdf). (Jan. 2024)
+My full CV can be viewed [here](https://tamoghnaojha.github.io/files/TamoghnaOjha - CV.pdf). (May 2024)
 
 
 News
 =====
-* April 2024: Joined BITS Pilani, Hyderabad as an Assistant Professor [(Link to profile)](https://www.bits-pilani.ac.in/hyderabad/tamoghna-ojha)
-* Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. For more information check the [book website (editor maintained)](https://edge6gbook.github.io/).
+* April 2024: Joined BITS Pilani, Hyderabad campus as an Assistant Professor [(Link to profile)](https://www.bits-pilani.ac.in/hyderabad/tamoghna-ojha)
+* Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. Book in preparation. For more information check the [book website (editor maintained)](https://edge6gbook.github.io/).
 * Dec. 2023: _Indian patent granted_ on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).
 * Nov. 2023: Received _seed research grant_ of INR 15.24 Lacs from SRM University-AP.
 * July 2023: [UAV-WPT survey](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780) accepted in _Elsevier PMC journal_.
