@@ -10,10 +10,12 @@ author_profile: true
 ## Research Group
 
 * PhD Students
-  * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE)
+  * July 2024 - current: Mr. Divya Mittal (part-time)
+  * July 2024 - current: Mr. Sourav Chordiya (part-time)
+  * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE, SRM University-AP)
 
 <span style="color:red">
-I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2) and Post-Doc (current vacancy: 1). Interested candidates may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://srmap.edu.in/research-home/phd-programme/).
+I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2) and Post-Doc (current vacancy: 1). Interested candidates may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://www.bits-pilani.ac.in/admissions/doctoral-program-phd/).
 </span>
 
 ## Research Grants
