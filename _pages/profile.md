@@ -47,6 +47,10 @@ author_profile: true
 
 ### Teaching Experience
 * Faculty
+  * _Advanced Operating Systems (CS G623)_
+    * Autumn 2024-25, BITS Pilani, Hyderabad, India
+  * _Operating Systems (CS F372)_
+    * Summer 2023-24, BITS Pilani, Hyderabad, India
   * _IoT Design Protocols (CSE 319A)_
     * Spring 2023-24, SRM University-AP, India
   * _Computer Networks (CSE 303) and Lab. (CSE 303L)_
