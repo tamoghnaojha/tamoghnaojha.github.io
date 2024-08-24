@@ -56,6 +56,7 @@ author_profile: true
 * International Journal of Communication Systems (Wiley)
 * Telecommunication Systems (Springer)
 * The Journal of Supercomputing (Springer)
+* Cluster Computing (Springer)
 
 
 ### Conference Reviewer (Selected only)
@@ -72,6 +73,8 @@ author_profile: true
 
 
 ### Volunteering Experience
+* _Member_, ACM India Research Facilitation Committee (RFC), (2024--)
+* _Member_, IEEE India Council Awards Committee (2024)
 * _Student Representative_, IEEE Computer Society India Council SAC (2017)
 *  _UPP Liaison_, IEEE Student Branch IIT Kharagpur, India (2016-17)
 * _Chair_ of Executive Committee, IEEE Student Branch IIT Kharagpur, India (2015-16)
