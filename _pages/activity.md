@@ -66,8 +66,8 @@ author_profile: true
 * Others: IEEE LCN, IEEE DCOSS, IEEE ATC, COVI-COM (IEEE ICC), IEEE ICCCS, IEEE ANTS, IEEE NCC, ACM FICN
 
 ### Administrative Responsibility
-* _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-present)
-* _Member_ of International Relations Committee of SRM University-AP (July 2023-present)
+* _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-February 2024)
+* _Member_ of International Relations Committee of SRM University-AP (July 2023-April 2024)
 * _Faculty representative_, Cisco Internship Program (June-July 2023)
 * _Faculty Coordinator_, AI-ML Club, SRM University-AP, India (Spring 2023)
 
