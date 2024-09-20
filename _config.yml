@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Tamoghna Ojha"
 title_separator          : "-"
 name                     : &name "Tamoghna Ojha"
-description              : &description "Assistant Professor, Dept. of CSIS, BITS Pilani Hyderabad, India"
+description              : &description "Assistant Professor, IIT (ISM) Dhanbad, India"
 url                      : https://tamoghnaojha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tamoghnaojha/tamoghnaojha.github.io"
@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Tamoghna Ojha"
   avatar           : "Tamoghna2023.jpg"
-  bio              : "Assistant Professor, Dept. of CSIS, BITS Pilani Hyderabad, India"
-  location         : "Hyderabad, Telangana, India"
+  bio              : "Assistant Professor, IIT (ISM) Dhanbad, India"
+  location         : "Dhanbad, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=gFFt6p4AAAAJ&hl=en"
