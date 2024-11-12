@@ -7,7 +7,7 @@ author_profile: true
 
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
-1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, Granted - December 2023, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
+1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, **Granted - December 2023**, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
 
 ### Journals
 17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780)
@@ -31,7 +31,7 @@ author_profile: true
 
 ### Conferences
 10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, ``Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
-9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, ``An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December, 2024.
+9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, ``An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024.
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022. [(URL)](https://ieeexplore.ieee.org/document/10001645) [(arXiv)](https://arxiv.org/abs/2205.11069)
 7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022. [(URL)](https://ieeexplore.ieee.org/document/9821045) [(arXiv)](https://arxiv.org/abs/2204.09311)
 6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins> best papers</ins> & invited for extended version) [(URL)](https://ieeexplore.ieee.org/document/9631530)
