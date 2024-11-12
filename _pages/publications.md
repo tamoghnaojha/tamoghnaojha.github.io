@@ -30,6 +30,8 @@ author_profile: true
 
 
 ### Conferences
+10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, ``Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
+9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, ``An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December, 2024.
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022. [(URL)](https://ieeexplore.ieee.org/document/10001645) [(arXiv)](https://arxiv.org/abs/2205.11069)
 7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022. [(URL)](https://ieeexplore.ieee.org/document/9821045) [(arXiv)](https://arxiv.org/abs/2204.09311)
 6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins> best papers</ins> & invited for extended version) [(URL)](https://ieeexplore.ieee.org/document/9631530)
