@@ -24,12 +24,15 @@ My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Tamoghna_CV
 
 News
 =====
+* December 2024: Received _Special Lab Establishment grant_ of INR 29.97 Lakhs from IIT (ISM) Dhanbad.
+* November 2024: Sonali's work on `IEEE 802.15.4-DSME' accepted in IEEE ANTS 2024 workshop.
+* October 2024: Amala's (PhD student) work on `Off-chip Based PUF' accepted in IEEE OCIT 2024.
 * September 2024: Joined IIT (ISM) Dhanbad.
 * July 2024: We are organizing the "[6-DCIoT: Distributed Computing in 6G IoT Networks](https://sites.google.com/hyderabad.bits-pilani.ac.in/6-dciot)" workshop (WS4) at IEEE ANTS 2024, during 15-18 Dec, 2024 at IIT Guwahati. Submit your papers via this [EDAS link](https://edas.info/N32434).
 * Apr. 2024: Joined BITS Pilani, Hyderabad campus as an Assistant Professor [(Link to profile)](https://www.bits-pilani.ac.in/hyderabad/tamoghna-ojha)
 * Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. Book in preparation. For more information check the [book website (editor maintained)](https://edge6gbook.github.io/).
 * Dec. 2023: _Indian patent granted_ on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).
-* Nov. 2023: Received _seed research grant_ of INR 15.24 Lacs from SRM University-AP.
+* Nov. 2023: Received _seed research grant_ of INR 15.24 Lakhs from SRM University-AP.
 * July 2023: [UAV-WPT survey](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780) accepted in _Elsevier PMC journal_.
 * June 2023: Elevated to _IEEE Senior Member_ grade. 
 * Feb. 2023: Joined SRM Univeristy-AP, India as an Assistant Professor of Computer Science and Engineering.
@@ -45,7 +48,7 @@ News
 * Jan. 2021: Survey on [IoT for Agricultural Applications](https://ieeexplore.ieee.org/document/9321474) accepted in IEEE IoT journal.
 * Nov. 2020: Successfully defended my PhD thesis.
 * Oct. 2020: [SecRET](https://dl.acm.org/doi/10.1145/3431390) accepted in ACM Transaction on Autonomous and Adaptive Systems.
-* Jun. 2020: Selected for ERCIM Post-Doctoral fellowship.
+* Jun. 2020: Selected for *ERCIM* Post-Doctoral fellowship.
 * Feb. 2020: [SEAL](https://www.sciencedirect.com/science/article/abs/pii/S0140366419307285) accepted in Computer Communications.
 * Jul. 2019: Graduated from Plugin cycle 2 cohort.
 * Feb. 2019: [DVSP](https://ieeexplore.ieee.org/document/8643570) accepted in IEEE IoT Journal.
@@ -56,7 +59,7 @@ News
 * Aug. 2017: Received Institute PhD Fellowship.
 * Feb. 2017: [Sensing-cloud](http://www.sciencedirect.com/science/article/pii/S0168169916305099) accepted in CompAG.
 * Dec. 2016: Selected as [IEEE Richard E Merwin Scholar](https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners).
-* Sept. 2016: Served as the Organzing Chair for [IEEE TechSym 2016](http://ewh.ieee.org/sb/kharagpur/iitkgp/TechSym2016/) at IEEE Student Branch IIT Kharagpur.
+* Sept. 2016: Served as the Organizing Chair for [IEEE TechSym 2016](http://ewh.ieee.org/sb/kharagpur/iitkgp/TechSym2016/) at IEEE Student Branch IIT Kharagpur.
 * Sept. 2016: [ENTRUST](http://www.sciencedirect.com/science/article/pii/S1389128616303206) accepted in Computer Networks.
 * July 2016: [WSN survey on Agricultural Applications](http://www.sciencedirect.com/science/article/pii/S0168169915002379) is among *top downloaded and cited* papers in Computers & Electronics in Agriculture Journal.
 * July 2015: [ENTICE](http://www.sciencedirect.com/science/article/pii/S1084804515001083#) accepted in Journal of Network and Computer Applications.
