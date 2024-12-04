@@ -19,7 +19,7 @@ During 2021-2023, I was an ERCIM “Alain Bensoussan” Post-Doctoral Research F
 I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regularly serve as a TPC member and reviewer for several conferences and journals and organize workshops in flagship conferences. In 2016, I was selected as a [Richard E Merwin Student Scholar](https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners), 1 of the 34 awardees in that year, by the IEEE Computer Society. I served as the Chairman of the Executive Committee at IEEE Student Branch, IIT Kharagpur during 2015-16. Proud to share that [IEEE TechSym 2016](https://ieeexplore.ieee.org/xpl/conhome/7866269/proceeding), an IEEE international symposium chaired by me, was awarded the [2017 Darrel Chong activity award in GOLD category](https://students.ieee.org/awards/results/) by IEEE. I, with three of my colleagues, was the winner of GE Edison Challenge 2013 with an award of INR 10,00,000. In 2014, we co-founded SkinCurate Research.
 
 
-My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Tamoghna_CV_new.pdf). (Nov. 2024)
+My full CV can be viewed [here](https://tamoghnaojha.github.io/files/Tamoghna_CV_new.pdf). (Dec 2024)
 
 
 News
