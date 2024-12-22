@@ -10,7 +10,11 @@ author_profile: true
 
 ### Work Experience
 
-* Apr. 2024 - till date: _Assistant Professor (Grade-I)_
+* Sept. 2024 - till date: _Assistant Professor (Grade-I)_
+  * IIT (ISM) Dhanbad, India
+  * Research: AI/ML for IoT, Edge Computing, 6G, Wirelessly Powered Networks, Digital Twin.
+
+* Apr. 2024 - Sept. 2024: _Assistant Professor (Grade-I)_
   * BITS Pilani, Hyderabad Campus, Telangana, India
   * Research: IoT, Edge Computing, 6G, Wirelessly Powered Networks
 
@@ -73,7 +77,7 @@ author_profile: true
 
 
 ### Education
-* PhD, _Indian Institute of Technology Kharagpur, India_, 2020
+* PhD, _Indian Institute of Technology Kharagpur, India_, 2021 (defended: Nov. 2020)
   * Thesis title: Provisioning Sensors-as-a-Service in Sensor-cloud-based Internet of Things
   * Department: Computer Science and Engineering
   * Supervisors: Prof. Sudip Misra (FIEEE, FNAE, FNASc) and Prof. Narendra Singh Raghuwanshi (FNAE, FNAAS)
