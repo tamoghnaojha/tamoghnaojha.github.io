@@ -30,7 +30,7 @@ News
 * October 2024: Amala's (PhD student) work on `Off-chip Based PUF' accepted in IEEE OCIT 2024.
 * September 2024: Joined IIT (ISM) Dhanbad as an Assistant Professor of Mathematics and Computing.
 * July 2024: We are organizing the "[6-DCIoT: Distributed Computing in 6G IoT Networks](https://sites.google.com/hyderabad.bits-pilani.ac.in/6-dciot)" workshop (WS4) at IEEE ANTS 2024, during 15-18 Dec, 2024 at IIT Guwahati. Submit your papers via this [EDAS link](https://edas.info/N32434).
-* Apr. 2024: Joined BITS Pilani, Hyderabad campus as an Assistant Professor [(Link to profile)](https://www.bits-pilani.ac.in/hyderabad/tamoghna-ojha)
+* Apr. 2024: Joined BITS Pilani, Hyderabad campus as an Assistant Professor of Computer Science and Information Systems.
 * Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. Book in preparation. For more information check the [book website (editor maintained)](https://edge6gbook.github.io/).
 * Dec. 2023: _Indian patent granted_ on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).
 * Nov. 2023: Received _seed research grant_ of INR 15.24 Lakhs from SRM University-AP.
