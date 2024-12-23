@@ -30,7 +30,7 @@ author_profile: true
 
 
 ### Conferences
-11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, ``DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
+11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
 10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
 9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, "An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024.
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022. [(URL)](https://ieeexplore.ieee.org/document/10001645) [(arXiv)](https://arxiv.org/abs/2205.11069)
