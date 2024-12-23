@@ -7,7 +7,7 @@ author_profile: true
 #  - /research
 ---
 
-## Research Group
+## Research Group: [COSINE Lab](https://people.iitism.ac.in/~cosinelab/)
 
 * PhD Students
   * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE, SRM University-AP)
