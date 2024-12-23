@@ -10,8 +10,6 @@ author_profile: true
 ## Research Group
 
 * PhD Students
-  * July 2024 - current: Mr. Divya Mittal (part-time)
-  * July 2024 - current: Mr. Sourav Chordiya (part-time)
   * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE, SRM University-AP)
 
 <span style="color:red">
