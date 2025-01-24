@@ -11,31 +11,32 @@ author_profile: true
 * Resource Person: Faculty Development Programme on "Applications of Machine Learning and the Internet of Things in Smart Cities", EICT, NIT Warangal and Techno College of Engineering, Agartala. Talked on "Wirelessly Powered IoT". (June 2023)
 * Keynote Speaker: ICACIE 2022 (Springer), Cuttack, India. Talked on "Energy Balance in Peer-to-Peer Wireless Power Transfer (P2P-WPT)". (Dec. 2022)
 
+### Journal Editorial Board
+* Scientific Reports (Springer Nature)
+
+### Examiner / Reviewer
+* IEEE India Council Awards, Oct. 2023
 
 ### Conference Organizing Committee Member
+* Organizing Chair, 6DCIoT (with IEEE ANTS), Guwahati, India
 * Publicity Co-Chair, DCOSS 2022, California, USA
 * General Chair, WPSN 2021 (in conjunction with IEEE DCOSS), Pafos, Cyprus
 * Publicity Co-Chair, DCOSS 2021, Pafos, Cyprus
 * Organizing Chair, IEEE TechSym 2016, IIT Kharagpur, India
 * Organizing Committee member, IEEE TechSym 2014, IIT Kharagpur, India
 
-### Examiner / Reviewer
-* IEEE India Council Awards, Oct. 2023
+### TPC Member (Selected only)
+* IEEE PIMRC - 2024 (Valencia, Spain); 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
+* IEEE VTC: Spring 2025 (Oslo, Norway);
+* IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
+* IEEE ISCC - 2024 (Paris, France); 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
+* COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
+* IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
+* ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
 
 ### Conference Session Chair
 * IEEE ISCC 2021, Athens, Greece
 * IEEE DCOSS 2021, Pafos, Cyprus
-
-
-### TPC Member (Selected only)
-* IEEE PIMRC - 2024 (Valencia, Spain); 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
-* IEEE ISCC - 2024 (Paris, France); 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
-* IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
-* COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
-* SPIN 2022 (Noida, India)
-* IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
-* ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
-
 
 ### Journal Reviewer
 * IEEE Transactions on Network and Service Management
@@ -73,6 +74,7 @@ author_profile: true
 
 
 ### Volunteering Experience
+* _Mentor_, ACM Anveshan Setu Fellowship (2025)
 * _Member_, ACM India Research Facilitation Committee (RFC), (2024--)
 * _Member_, IEEE India Council Awards Committee (2024)
 * _Student Representative_, IEEE Computer Society India Council SAC (2017)
