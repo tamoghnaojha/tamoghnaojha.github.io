@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Invited Talks
+* Guest Lecture: "Recent Trends and Future Directions in Internet of Things" at the IoT Course (UG), Dept. of EEE, BITS Pilani, Hyderabad campus. (November 2024)
 * Resource Person: Webinar series on "Smart Agriculture" organized by Centurion University of Technology and Management, Odisha. Talked on "IoT and Edge Computing for Smart Agriculture". (Dec. 2023)
 * Resource Person: ATAL FDP on "Integrated IoT and Machine Learning Methods for Smart Sustainable Cities" organized by Vignan's University, Guntur. Talked on "Edge-computing and IoT in the 6G era". (Dec. 2023)
 * Resource Person: Faculty Development Programme on "Applications of Machine Learning and the Internet of Things in Smart Cities", EICT, NIT Warangal and Techno College of Engineering, Agartala. Talked on "Wirelessly Powered IoT". (June 2023)
