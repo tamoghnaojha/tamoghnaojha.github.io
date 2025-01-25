@@ -51,18 +51,17 @@ author_profile: true
 
 ### Teaching Experience
 * Faculty
-  * _Advanced Operating Systems (CS G623)_
-    * Autumn 2024-25, BITS Pilani, Hyderabad, India
-  * _Operating Systems (CS F372)_
-    * Summer 2023-24, BITS Pilani, Hyderabad, India
-  * _IoT Design Protocols (CSE 319A)_
-    * Spring 2023-24, SRM University-AP, India
-  * _Computer Networks (CSE 303) and Lab. (CSE 303L)_
-    * Autumn 2023-24, SRM University-AP, India
-  * _Service Oriented Computing (CSE 418) and Lab (CSE 418L)_
-    * Autumn 2023-24, SRM University-AP, India
-  * _Data Structures Theory (CSE 107/109) and Lab. (CSE 107L/109L)_
-    * Spring 2022-23, Spring 2023-24, SRM University-AP, India
+  * Database Management Systems (Lab); for UG/PG, IIT (ISM) Dhanbad, Spring 2025
+  * Advanced DBMS (Lab); for PG, IIT (ISM) Dhanbad, Spring 2025
+  * Software Engineering (Lab); for UG, IIT (ISM) Dhanbad, Spring 2025
+  * Advanced Operating Systems (Theory and Lab); for UG, BITS Pilani, Hyderabad, Autumn 2024
+  * Operating Systems (Theory); for UG, BITS Pilani, Hyderabad, Summer 2024
+  * Data Structures (Theory and Lab); for UG, SRM University-AP, Spring 2024
+  * IoT Design Protocols (Theory); for UG, SRM University-AP, Spring 2024
+  * Computer Networks (Theory and Lab); for UG, SRM University-AP, Autumn 2023
+  * Service Oriented Computing (Theory and Lab); for UG, SRM University-AP, Autumn 2023
+  * Data Structures (Theory and Lab); for UG, SRM University-AP, Spring 2023
+
 
 * Teaching Assistant: 
   * _Programming and Data Structures Theory (CS10001)_
@@ -80,12 +79,12 @@ author_profile: true
 * PhD, _Indian Institute of Technology Kharagpur, India_, 2021 (defended: Nov. 2020)
   * Thesis title: Provisioning Sensors-as-a-Service in Sensor-cloud-based Internet of Things
   * Department: Computer Science and Engineering
-  * Supervisors: Prof. Sudip Misra (FIEEE, FNAE, FNASc) and Prof. Narendra Singh Raghuwanshi (FNAE, FNAAS)
+  * Supervisors: Prof. Sudip Misra (FACM, FIEEE, FNAE, FNASc) and Prof. Narendra Singh Raghuwanshi (FNAE, FNAAS)
 
 * MS, _Indian Institute of Technology Kharagpur, India_, 2014
   * Thesis title: Architecture and Localization for Underwater Sensor Networks
   * Department: Information Technology
-  * Supervisor: Prof. Sudip Misra (FIEEE, FNAE, FNASc)
+  * Supervisor: Prof. Sudip Misra (FACM, FIEEE, FNAE, FNASc)
 
 * PG Diploma in Embedded Systems Design, _Center for Development of Advanced Computing, Mohali, India_, 2009
   * Project topic: A Real-time application for peripheral controlling and monitoring
