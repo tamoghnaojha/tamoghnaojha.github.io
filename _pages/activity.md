@@ -40,37 +40,23 @@ author_profile: true
 * IEEE DCOSS 2021, Pafos, Cyprus
 
 ### Journal Reviewer
-* IEEE Transactions on Network and Service Management
-* IEEE Transactions on Sustainable Computing
-* IEEE Transactions on Mobile Computing
-* IEEE Transactions on Vehicular Technology
-* IEEE Internet of Things Journal
-* IEEE Systems Journal
-* IEEE Sensors Journal
-* IEEE Embedded System Letters
-* IEEE Access
-* ACM Transactions on Sensor Networks
-* Ad Hoc Networks (Elsevier)
-* Computer Networks (Elsevier)
-* Pervasive and Mobile Computing (Elsevier)
-* Computers and Electronics in Agriculture (Elsevier)
-* Computer Communication (Elsevier)
-* International Journal of Communication Systems (Wiley)
-* Telecommunication Systems (Springer)
-* The Journal of Supercomputing (Springer)
-* Cluster Computing (Springer)
+* IEEE Transactions (TNSM, TMC, TSC, TVT)
+* IEEE Journals/Letters (IoT J., Systems J., Sensors J., Embedded System L., Access) 		
+* ACM Transactions (TOSN)
+* Elsevier (Ad Hoc Net., ComNet, ComCom, PMC, CompAg)
+* Springer Nature (Telecomm. Sys., J. Supercomputing, Cluster Comp)
+* Others (Wiley IJCS, IET Netw.)
 
 
 ### Conference Reviewer (Selected only)
-* IEEE PIMRC: 2017--2024
-* IEEE ISCC: 2021--2024
-* IEEE GLOBECOM: 2023
+* IEEE PIMRC (2017--2024); IEEE ISCC (2021--2024); IEEE GLOBECOM (2023); IEEE CCNC (2021, 2023)
 * Others: IEEE LCN, IEEE DCOSS, IEEE ATC, COVI-COM (IEEE ICC), IEEE ICCCS, IEEE ANTS, IEEE NCC, ACM FICN
 
 ### Administrative Responsibility
+* _Faculty Member_ at Center for Drone Technology (CoE), SRM University-AP (October 2023–January 2024).
 * _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-February 2024)
 * _Member_ of International Relations Committee of SRM University-AP (July 2023-April 2024)
-* _Faculty representative_, Cisco Internship Program (June-July 2023)
+* _Faculty representative_, Cisco Internship Program, SRM University-AP, India (June-July 2023)
 * _Faculty Coordinator_, AI-ML Club, SRM University-AP, India (Spring 2023)
 
 
