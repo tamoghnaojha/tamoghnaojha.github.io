@@ -13,7 +13,7 @@ author_profile: true
   * June 2023 - Current: Ms. C Amala (Co-supervising with Dr. Saswat Kumar Ram, ECE, SRM University-AP)
 
 <span style="color:red">
-I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2) and Post-Doc (current vacancy: 1). Interested candidates may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://admission.iitism.ac.in/index.php/admission/phd).
+I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2). Candidates interested working in areas such as UAV-IoT networks, Edge computing, Non-terrestrial networks, digital twin, and edge-cloud-continuum may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://admission.iitism.ac.in/index.php/admission/phd).
 </span>
 
 ## Research Grants
