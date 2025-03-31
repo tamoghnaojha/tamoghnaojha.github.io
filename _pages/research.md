@@ -18,10 +18,11 @@ I am looking for motivated and aspiring candidates for PhD positions (current va
 
 ## Research Grants
 
-* Nov. 2024: Special Lab establishment grant, _IIT (ISM) Dhnabad_, Amount: INR 29,97,000.
-* Oct. 2023: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (Co-PIs: 2)
-* Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, Amount: INR 10,00,000. (Co-PIs: 3, at SkinCurate Research)
-* Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, Amount: INR 41,79,000. (Co-PIs: 3, at SkinCurate Research)
+* Mar. 2025: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
+* Nov. 2024: Special Lab establishment grant, _IIT (ISM) Dhnabad_, Amount: INR 29,97,000. (PI)
+* Oct. 2023: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (PI)
+* Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, Amount: INR 10,00,000. (Co-PI)
+* Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, Amount: INR 41,79,000. (Co-PI)
 
 ## Research Domains
 
