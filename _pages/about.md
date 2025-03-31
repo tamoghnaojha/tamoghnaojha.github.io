@@ -23,6 +23,8 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 
 News
 =====
+* March 2025: Received research grant from TEXMiN Foundation (DST TIH). 
+* February 2025: Serving as TPC for IEEE PIMRC 2025 and	VTC-Spring 2025. 
 * January 2025: Joined the editorial board of Scientific Reports (Springer Nature). 
 * December 2024: Mentor and host for ACM India Anveshan Setu program.
 * December 2024: Sreekar's work on `Scheduling in IEEE 802.15.4-DSME' accepted in IEEE WCNC 2025 to be held at Milan, Italy.
