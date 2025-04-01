@@ -10,7 +10,7 @@ author_profile: true
 ## Research Group: [COSINE Lab](https://people.iitism.ac.in/~cosinelab/)
 
 ### Research Domains
-![image](https://github.com/tamoghnaojha/tamoghnaojha.github.io/assets/9018158/6870e4df-f211-45cf-bb61-8bbc91a03246)
+<img src="../images/research_areas.jpg" alt="research areas" width="640">
 
 ### Research Grants
 * Mar. 2025: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
