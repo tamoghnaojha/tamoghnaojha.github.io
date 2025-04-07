@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Awards & Scholarships
+  * December 2024: Best paper award at IEEE OCIT 2024.
   * June 2023: Elevated to _IEEE Senior Member_ grade.
   * October 2022 - January 2023: _Research Consultancy_ at the Department of Information Engineering, University of Pisa, Italy.
   * October 2021 - July 2022, September 2022 - January 2023: _"Alain Bensoussan" Post-Doctoral Research Fellowship_ from European Research Consortium for Informatics and Mathematics (ERCIM).
