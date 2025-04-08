@@ -23,14 +23,16 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 
 News
 =====
+* April 2025: Our collaborative work on `Secure Metaverse access' accepted in IEEE ISCC 2025 at Bologna, Italy.
+* April 2025: Serving as TPC member for IEEE LCN 2025.
 * March 2025: Received research grant from TEXMiN Foundation (DST TIH). 
 * February 2025: Serving as TPC for IEEE PIMRC 2025 and	VTC-Spring 2025. 
 * January 2025: Joined the editorial board of Scientific Reports (Springer Nature). 
 * December 2024: Best paper award at IEEE OCIT 2024. Congratulations to Amala.
 * December 2024: Mentor and host for ACM India Anveshan Setu program.
-* December 2024: Sreekar's work on `Scheduling in IEEE 802.15.4-DSME' accepted in IEEE WCNC 2025 to be held at Milan, Italy.
+* December 2024: `Scheduling in IEEE 802.15.4-DSME' accepted in IEEE WCNC 2025 at Milan, Italy.
 * November 2024: Received _Special Lab Establishment grant_ of INR 29.97 Lakhs from IIT (ISM) Dhanbad.
-* November 2024: Sonali's work on `IEEE 802.15.4-DSME' accepted in IEEE ANTS 2024 workshop to be held at IIT Guwahati.
+* November 2024: Our collaborative work on `IEEE 802.15.4-DSME' accepted in IEEE ANTS 2024 workshop at IIT Guwahati.
 * October 2024: Amala's (PhD student) work on `Off-chip Based PUF' accepted in IEEE OCIT 2024.
 * September 2024: Joined IIT (ISM) Dhanbad as an Assistant Professor of Mathematics and Computing.
 * July 2024: We are organizing the "[6-DCIoT: Distributed Computing in 6G IoT Networks](https://sites.google.com/hyderabad.bits-pilani.ac.in/6-dciot)" workshop (WS4) at IEEE ANTS 2024, during 15-18 Dec, 2024 at IIT Guwahati. Submit your papers via this [EDAS link](https://edas.info/N32434).
