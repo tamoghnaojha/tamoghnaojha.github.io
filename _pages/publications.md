@@ -30,6 +30,7 @@ author_profile: true
 
 
 ### Conferences
+12. S. Ravikanti, J. Dave, H. Dong, I. Gondal, N. Choudhury, **T. Ojha**, T. P. Raptis, "Avatar-Centric Gait Authentication Framework for Secure Metaverse", in _15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC 2025)_, Bologna, Italy, July 2025.
 11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
 10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
 9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, "An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024. [**Best paper award**]
