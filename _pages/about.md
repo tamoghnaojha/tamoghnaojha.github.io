@@ -23,7 +23,7 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 
 News
 =====
-* April 2025: Our collaborative work on `Secure Metaverse access' accepted in IEEE ISCC 2025 at Bologna, Italy.
+* April 2025: Our collaborative work on `Secure Metaverse access' accepted in MoCS workshop (IEEE ISCC 2025) at Bologna, Italy.
 * April 2025: Serving as TPC member for IEEE LCN 2025.
 * March 2025: Received research grant from TEXMiN Foundation (DST TIH). 
 * February 2025: Serving as TPC for IEEE PIMRC 2025 and	VTC-Spring 2025. 
