@@ -11,32 +11,12 @@ author_profile: true
 
 ### Journals
 17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848)
-<p>
-  <a href="https://www.sciencedirect.com/science/article/pii/S1574119223000964">
-    <img src="https://img.shields.io/badge/Link-Paper-blue?style=for-the-badge" />
-  </a>
-  <a href="https://arxiv.org/abs/2301.01234">
-    <img src="https://img.shields.io/badge/arXiv-Version-b31b1b?style=for-the-badge" />
-  </a>
-  <details style="display: inline;">
-    <summary style="display: inline;">
-      <img src="https://img.shields.io/badge/BibTeX-Show-orange?style=for-the-badge" />
-    </summary>
+[![Link](<img src="https://img.shields.io/badge/Link-blue?style=for-the-badge">)](https://www.sciencedirect.com/science/article/pii/S1574119223000780) [![BibTeX](<img src="https://img.shields.io/badge/BibTeX-orange?style=for-the-badge">)](#)
 
-```bibtex
-@article{ojha2023wptuav,
-  title={Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges},
-  author={Ojha, Tamoghna and Raptis, Theofanis P and Passarella, Andrea and Conti, Marco},
-  journal={Pervasive and Mobile Computing},
-  volume={93},
-  pages={101820},
-  year={2023},
-  publisher={Elsevier}
-}
+16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493)
+[![Link](<img src="https://img.shields.io/badge/Link-blue?style=for-the-badge">)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [![BibTeX](<img src="https://img.shields.io/badge/BibTeX-orange?style=for-the-badge">)](#)
+[![arXiv]<img src="https://img.shields.io/badge/arXiv-green?style=for-the-badge">](https://arxiv.org/abs/2204.09399)
 
-</details></p>```
-
-16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [(arXiv)](https://arxiv.org/abs/2204.09399)
 15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, vol. 15, no. 4, pp. 5144-5151, 2021. (SCI - Q1, I.F. - 4.802) [(URL)](https://ieeexplore.ieee.org/document/9461869)
 14. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", _IEEE Internet of Things Journal_, vol. 8, no. 14, pp. 10973-10997, 2021. (SCI - Q1, I.F. - 10.238) [(URL)](https://ieeexplore.ieee.org/document/9321474)
 13. S. Misra, **T. Ojha**, P. Madhusoodhanan, "SecRET: Secure Range-Based Localization with Evidence Theory for Underwater Sensor Networks", _ACM Transactions on Autonomous and Adaptive Systems_, vol. 15, no. 1, pp. 1-26, 2020. (SCI - Q2, I.F. - 1.913) [(URL)](https://dl.acm.org/doi/10.1145/3431390)
