@@ -26,7 +26,7 @@ author_profile: true
   year={2023},
   publisher={Elsevier}
 }
-</details>
+</details>```
 
 16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [(arXiv)](https://arxiv.org/abs/2204.09399)
 15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, vol. 15, no. 4, pp. 5144-5151, 2021. (SCI - Q1, I.F. - 4.802) [(URL)](https://ieeexplore.ieee.org/document/9461869)
