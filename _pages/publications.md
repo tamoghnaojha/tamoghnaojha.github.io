@@ -10,11 +10,11 @@ author_profile: true
 1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, **Granted - December 2023**, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
 
 ### Journals
-17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [<img src="https://img.shields.io/badge/Link-Paper-blue?style=for-the-badge">](https://www.sciencedirect.com/science/article/pii/S1574119223000964)
-[<img src="https://img.shields.io/badge/arXiv-Version-b31b1b?style=for-the-badge">](https://arxiv.org/abs/2301.01234)
+17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [<img src="https://img.shields.io/badge/Link-blue?style=for-the-badge">](https://www.sciencedirect.com/science/article/pii/S1574119223000964)
+[<img src="https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge">](https://arxiv.org/abs/2301.01234)
 
 <details>
-<summary><img src="https://img.shields.io/badge/BibTeX-Show-orange?style=for-the-badge"></summary>
+<summary><img src="https://img.shields.io/badge/BibTeX-orange?style=for-the-badge"></summary>
 
 ```bibtex
 @article{ojha2023wptuav,
