@@ -10,7 +10,23 @@ author_profile: true
 1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, **Granted - December 2023**, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
 
 ### Journals
-17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780)
+17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848) [<img src="https://img.shields.io/badge/Link-Paper-blue?style=for-the-badge">](https://www.sciencedirect.com/science/article/pii/S1574119223000964)
+[<img src="https://img.shields.io/badge/arXiv-Version-b31b1b?style=for-the-badge">](https://arxiv.org/abs/2301.01234)
+
+<details>
+<summary><img src="https://img.shields.io/badge/BibTeX-Show-orange?style=for-the-badge"></summary>
+
+```bibtex
+@article{ojha2023wptuav,
+  title={Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges},
+  author={Ojha, Tamoghna and Raptis, Theofanis P and Passarella, Andrea and Conti, Marco},
+  journal={Pervasive and Mobile Computing},
+  volume={93},
+  pages={101820},
+  year={2023},
+  publisher={Elsevier}
+}
+
 16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493) [(URL)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [(arXiv)](https://arxiv.org/abs/2204.09399)
 15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, vol. 15, no. 4, pp. 5144-5151, 2021. (SCI - Q1, I.F. - 4.802) [(URL)](https://ieeexplore.ieee.org/document/9461869)
 14. **T. Ojha**, S. Misra, N. S. Raghuwanshi, "Internet of Things for Agricultural Applications: The State-of-the-art", _IEEE Internet of Things Journal_, vol. 8, no. 14, pp. 10973-10997, 2021. (SCI - Q1, I.F. - 10.238) [(URL)](https://ieeexplore.ieee.org/document/9321474)
