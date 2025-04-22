@@ -1,0 +1,8 @@
+@inproceedings{ravikanti2025avatar,
+  author    = {S. Ravikanti and J. Dave and H. Dong and I. Gondal and N. Choudhury and T. Ojha and T. P. Raptis},
+  title     = {Avatar-Centric Gait Authentication Framework for Secure Metaverse},
+  booktitle = {15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC)},
+  address   = {Bologna, Italy},
+  month     = {July},
+  year      = {2025}
+}

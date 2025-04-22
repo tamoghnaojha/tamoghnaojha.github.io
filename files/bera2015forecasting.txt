@@ -1,0 +1,8 @@
+@inproceedings{bera2015forecasting,
+  author    = {S. Bera and T. Ojha and S. Misra and M. S. Obaidat},
+  title     = {Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication},
+  booktitle = {Proceedings of IEEE GLOBECOM},
+  pages     = {1--6},
+  address   = {San Diego, CA, USA},
+  year      = {2015}
+}

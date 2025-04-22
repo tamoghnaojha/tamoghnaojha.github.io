@@ -1,0 +1,8 @@
+@inproceedings{ojha2022heterogeneity,
+  author    = {T. Ojha and T. P. Raptis and M. Conti and A. Passarella},
+  title     = {Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution},
+  booktitle = {IEEE GLOBECOM},
+  pages     = {4123--4128},
+  address   = {Rio de Janeiro, Brazil},
+  year      = {2022}
+}

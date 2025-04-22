@@ -1,0 +1,9 @@
+@patent{sheet2019multispectral,
+  author       = {D. Sheet and K. Basak and T. Ojha and S. P. K. Karri},
+  title        = {Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin},
+  year         = {2019},
+  month        = jan,
+  number       = {201731022695},
+  type         = {Indian Patent},
+  note         = {Published}
+}

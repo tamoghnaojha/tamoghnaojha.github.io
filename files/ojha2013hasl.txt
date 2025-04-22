@@ -1,0 +1,10 @@
+@inproceedings{ojha2013hasl,
+  author    = {T. Ojha and S. Misra},
+  title     = {HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks},
+  booktitle = {Proceedings of QShine},
+  pages     = {128--140},
+  publisher = {Springer Berlin Heidelberg},
+  address   = {Greater Noida, India},
+  month     = {January},
+  year      = {2013}
+}

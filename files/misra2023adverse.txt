@@ -1,0 +1,9 @@
+@patent{misra2023adverse,
+  author       = {S. Misra and A. Roy and P. Kar and S. Goswami and T. Ojha},
+  title        = {An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System},
+  year         = {2023},
+  month        = dec,
+  number       = {480946},
+  type         = {Indian Patent},
+  note         = {Granted. Filed: 17 April 2015, File No: 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur}
+}

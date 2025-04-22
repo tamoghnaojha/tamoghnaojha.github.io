@@ -1,0 +1,8 @@
+@inproceedings{ojha2018idvsp,
+  author    = {T. Ojha and S. Misra and N. S. Raghuwanshi and M. S. Obaidat},
+  title     = {iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure},
+  booktitle = {Proceedings of IEEE GLOBECOM},
+  pages     = {1--6},
+  address   = {Abu Dhabi, UAE},
+  year      = {2018}
+}

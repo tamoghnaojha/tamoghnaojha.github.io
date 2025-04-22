@@ -1,0 +1,8 @@
+@inproceedings{ojha2022crowd,
+  author    = {T. Ojha and T. P. Raptis and M. Conti and A. Passarella},
+  title     = {Wireless Crowd Charging with Battery Aging Mitigation},
+  booktitle = {Proceedings of IEEE SMARTCOMP},
+  pages     = {142--149},
+  address   = {Helsinki, Finland},
+  year      = {2022}
+}

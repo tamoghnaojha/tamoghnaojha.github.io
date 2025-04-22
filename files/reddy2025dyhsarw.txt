@@ -1,0 +1,8 @@
+@inproceedings{reddy2025dyhsarw,
+  author    = {S. Reddy and N. Choudhury and A. Hazarika and T. Ojha},
+  title     = {DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks},
+  booktitle = {Proceedings of IEEE WCNC},
+  address   = {Milan, Italy},
+  month     = {March},
+  year      = {2025}
+}

@@ -1,0 +1,9 @@
+@inproceedings{ojha2021mobiweb,
+  author    = {T. Ojha and T. P. Raptis and M. Conti and A. Passarella},
+  title     = {MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer},
+  booktitle = {Proceedings of IEEE ISCC},
+  pages     = {1--6},
+  address   = {Athens, Greece},
+  year      = {2021},
+  note      = {Among best papers \& invited for extended version}
+}

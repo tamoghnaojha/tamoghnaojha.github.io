@@ -1,0 +1,9 @@
+@inproceedings{amala2024puf,
+  author    = {C. Amala and B. Subbarao and T. Ojha and B. B. Das and S. K. Ram and S. P. Mohanty},
+  title     = {An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems},
+  booktitle = {IEEE 22nd OITS International Conference on Information Technology},
+  address   = {Guntur, India},
+  month     = {December},
+  year      = {2024},
+  note      = {Best paper award}
+}

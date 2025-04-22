@@ -1,0 +1,10 @@
+@inproceedings{ojha2013mobil,
+  author    = {T. Ojha and S. Misra},
+  title     = {MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks},
+  booktitle = {Proceedings of 19th National Conference on Communications (NCC)},
+  pages     = {1--5},
+  publisher = {IEEE},
+  address   = {New Delhi, India},
+  month     = {February},
+  year      = {2013}
+}

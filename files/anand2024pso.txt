@@ -1,0 +1,9 @@
+@inproceedings{anand2024pso,
+  author    = {S. Anand and N. Choudhury and T. Ojha and A. Hazarika and J. Dave},
+  title     = {Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks},
+  booktitle = {Proceedings of IEEE ANTS},
+  pages		= {1--6},
+  address   = {Guwahati, India},
+  month     = {December},
+  year      = {2024}
+}

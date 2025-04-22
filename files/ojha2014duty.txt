@@ -1,0 +1,9 @@
+@inproceedings{ojha2014duty,
+  author    = {T. Ojha and S. Bera and S. Misra and N. S. Raghuwanshi},
+  title     = {Dynamic Duty Scheduling for Green Sensor-Cloud Applications},
+  booktitle = {Proceedings IEEE CloudCom},
+  pages     = {841--846},
+  address   = {Singapore},
+  month     = {December},
+  year      = {2014}
+}
