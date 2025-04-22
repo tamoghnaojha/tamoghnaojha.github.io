@@ -7,7 +7,11 @@ author_profile: true
 
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
+[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/sheet2019multispectral.txt)
+
 1. S. Misra, A. Roy, P. Kar, S. Goswami, **T. Ojha**, "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System", _Indian Patent Granted (Patent No: 480946)_, **Granted - December 2023**, File No. 425/KOL/2015, Published: 1 December 2017, Applicant: Indian Institute of Technology Kharagpur, Filed: 17 April 2015.
+[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2023adverse.txt)
+
 
 ### Journals
 17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848)
