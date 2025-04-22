@@ -63,16 +63,16 @@ author_profile: true
 
 ### Conferences
 12. S. Ravikanti, J. Dave, H. Dong, I. Gondal, N. Choudhury, **T. Ojha**, T. P. Raptis, "Avatar-Centric Gait Authentication Framework for Secure Metaverse", in _15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC 2025)_, Bologna, Italy, July 2025.
-
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ravikanti2025avatar.txt)
 
 11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
-
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/reddy2025dyhsarw.txt)
 
 10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10898488) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2024pso.txt)
 
 9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, "An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024. [**Best paper award**]
-
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2024puf.txt)
 
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10001645) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022heterogeneity.txt) [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2205.11069)
