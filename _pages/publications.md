@@ -14,8 +14,7 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1574119223000780) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2023wireless.txt)
 
 16. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness", _Computer Networks (Elsevier)_, vol. 211, pages 108989, 2022. (<ins>Invited Submission</ins>) (SCI - Q1, I. F. - 5.493)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022balanced.txt)
-[![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2204.09399)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022balanced.txt) [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2204.09399)
 
 15. S. Misra, M. Tiwari, **T. Ojha**, Y. Raj, "PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things", _IEEE Systems Journal_, vol. 15, no. 4, pp. 5144-5151, 2021. (SCI - Q1, I.F. - 4.802)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/9461869) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2021panda.txt)
@@ -64,16 +63,38 @@ author_profile: true
 
 ### Conferences
 12. S. Ravikanti, J. Dave, H. Dong, I. Gondal, N. Choudhury, **T. Ojha**, T. P. Raptis, "Avatar-Centric Gait Authentication Framework for Secure Metaverse", in _15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC 2025)_, Bologna, Italy, July 2025.
+
+
 11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
-10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024. [(URL)](https://ieeexplore.ieee.org/document/10898488)
+
+
+10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10898488) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2024pso.txt)
+
 9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, "An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024. [**Best paper award**]
-8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022. [(URL)](https://ieeexplore.ieee.org/document/10001645) [(arXiv)](https://arxiv.org/abs/2205.11069)
-7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022. [(URL)](https://ieeexplore.ieee.org/document/9821045) [(arXiv)](https://arxiv.org/abs/2204.09311)
-6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins> best papers</ins> & invited for extended version) [(URL)](https://ieeexplore.ieee.org/document/9631530)
-5. **T. Ojha**, S. Misra, N. S. Raghuwanshi, M. S. Obaidat, “iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure”, in _Proceedings of IEEE GLOBECOM_, pp. 1-6, Abu Dhabi, UAE, 2018. [(URL)](https://ieeexplore.ieee.org/document/8647815)
-4. S. Bera, **T. Ojha**, S. Misra, M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", in _Proceedings of IEEE GLOBECOM_, pp. 1-6, San Diego, CA, USA, 2015. [(URL)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417591)
-3. **T. Ojha**, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications," in _Proceedings IEEE CloudCom_, pp. 841-846, Singapore, December 2014. [(URL)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7037771)
-2. **T. Ojha** and S. Misra, "HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks," in _Proceedings of QShine_, pp. 128-140, Springer Berlin Heidelberg, Greater Noida, India, January 2013. [(URL)](http://link.springer.com/chapter/10.1007%2F978-3-642-37949-9_11)
+
+
+8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10001645) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022heterogeneity.txt) [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2205.11069)
+
+7. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Wireless Crowd Charging with Battery Aging Mitigation", in _Proceedings of IEEE SMARTCOMP_, pp. 142-149, Helsinki, Finland, 2022.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/9821045) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022crowd.txt) [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2204.09311)
+
+6. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "MobiWEB: Mobility-Aware Energy Balancing for P2P Wireless Power Transfer", in _Proceedings of IEEE ISCC_, pp. 1-6, Athens, Greece, 2021. (Among <ins> best papers</ins> & invited for extended version)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/9631530) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2021mobiweb.txt)
+
+5. **T. Ojha**, S. Misra, N. S. Raghuwanshi, M. S. Obaidat, “iDVSP: Intelligent Dynamic Virtual Sensor Provisioning in Sensor-Cloud Infrastructure”, in _Proceedings of IEEE GLOBECOM_, pp. 1-6, Abu Dhabi, UAE, 2018.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/8647815) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2018idvsp.txt)
+
+4. S. Bera, **T. Ojha**, S. Misra, M. S. Obaidat, "Cloud-based Optimal Energy Forecasting for Enabling Green Smart Grid Communication", in _Proceedings of IEEE GLOBECOM_, pp. 1-6, San Diego, CA, USA, 2015.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/7417591) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/bera2015forecasting.txt)
+
+3. **T. Ojha**, S. Bera, S. Misra, and N. S. Raghuwanshi, "Dynamic Duty Scheduling for Green Sensor-Cloud Applications," in _Proceedings IEEE CloudCom_, pp. 841-846, Singapore, December 2014.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/7037771) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2014duty.txt)
+
+2. **T. Ojha** and S. Misra, "HASL: High-Speed AUV-Based Silent Localization for Underwater Sensor Networks," in _Proceedings of QShine_, pp. 128-140, Springer Berlin Heidelberg, Greater Noida, India, January 2013.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](http://link.springer.com/chapter/10.1007%2F978-3-642-37949-9_11) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2013hasl.txt)
+
 1. **T. Ojha** and S. Misra, "MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks," in _Proceedings of 19th National Conference on Communications (NCC)_, pp. 1-5, IEEE, New Delhi, India, February 2013.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/6488033) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2013mobil.txt)
 
