@@ -21,75 +21,6 @@ During 2021-2023, I was an ERCIM “Alain Bensoussan” Post-Doctoral Research F
 I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regularly serve as a TPC member and reviewer for several conferences and journals and organize workshops in flagship conferences. In 2016, I was selected as a [Richard E Merwin Student Scholar](https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners), 1 of the 34 awardees in that year, by the IEEE Computer Society. I served as the Chairman of the Executive Committee at IEEE Student Branch, IIT Kharagpur during 2015-16. Proud to share that [IEEE TechSym 2016](https://ieeexplore.ieee.org/xpl/conhome/7866269/proceeding), an IEEE international symposium chaired by me, was awarded the [2017 Darrel Chong activity award in GOLD category](https://students.ieee.org/awards/results/) by IEEE. I, with three of my colleagues, won GE Edison Challenge 2013 with an award of INR 10,00,000. In 2014, we co-founded SkinCurate Research.
 
 
-<style>
-.tabbed-news summary {
-  font-size: 1.1em;
-  font-weight: bold;
-  cursor: pointer;
-  padding: 0.3em 0;
-}
-.tabbed-news details {
-  margin-bottom: 1em;
-}
-</style>
-
-<div class="tabbed-news">
-
-<details open>
-<summary>📅 2025</summary>
-
-- ✨ **April 2025**: Our collaborative work on `Secure Metaverse access` accepted in MoCS workshop (IEEE ISCC 2025), Bologna, Italy.  
-- 🤝 **April 2025**: Serving as TPC member for IEEE LCN 2025.  
-- 🧪 **March 2025**: Received research grant from TEXMiN Foundation (DST TIH).  
-- 🎤 **February 2025**: Serving as TPC for IEEE PIMRC 2025 and VTC-Spring 2025.  
-- 📝 **January 2025**: Joined the editorial board of *Scientific Reports* (Springer Nature).  
-
-</details>
-
-<details>
-<summary>📆 2024</summary>
-
-- 🏆 **December 2024**: Best paper award at IEEE OCIT 2024. Congratulations to Amala.  
-- 👨‍🏫 **December 2024**: Mentor and host for ACM India Anveshan Setu program.  
-- 📡 **December 2024**: `Scheduling in IEEE 802.15.4-DSME` accepted in IEEE WCNC 2025, Milan, Italy.  
-- 🏛 **November 2024**: Received _Special Lab Establishment grant_ of INR 29.97 Lakhs from IIT (ISM) Dhanbad.  
-- 📘 **November 2024**: Our collaborative work on `IEEE 802.15.4-DSME` accepted in IEEE ANTS 2024 workshop at IIT Guwahati.  
-- 📄 **October 2024**: Amala's work on `Off-chip Based PUF` accepted in IEEE OCIT 2024.  
-- 🧑‍🏫 **September 2024**: Joined IIT (ISM) Dhanbad as Assistant Professor.  
-- 🛰 **July 2024**: Organizing [6-DCIoT Workshop](https://sites.google.com/hyderabad.bits-pilani.ac.in/6-dciot) (WS4) at IEEE ANTS 2024, Dec 15–18, IIT Guwahati. Submit via [EDAS](https://edas.info/N32434).  
-- 🎓 **April 2024**: Joined BITS Pilani, Hyderabad as Assistant Professor.  
-- 📚 **January 2024**: Book proposal on *Edge-enabled 6G Networking* accepted by Springer Nature. [More Info](https://edge6gbook.github.io/).  
-
-</details>
-
-<details>
-<summary>📅 2023</summary>
-
-- 🛡 **December 2023**: Indian patent granted – "Adverse Environmental Effect Resistant Seamless WSN" (No. 480946).  
-- 💰 **November 2023**: Received seed research grant (INR 15.24 Lakhs) from SRM University-AP.  
-- ✈️ **July 2023**: [UAV-WPT survey](https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780) accepted in *Elsevier PMC*.  
-- 🌐 **June 2023**: Elevated to IEEE Senior Member.  
-- 🏫 **February 2023**: Joined SRM University-AP as Assistant Professor.  
-- 🤝 **January 2023**: Completed research consultancy with University of Pisa, Italy.  
-
-</details>
-
-<details>
-<summary>📜 Older News</summary>
-
-Too many to list here, but highlights include:  
-- 📃 [HetWeET](https://ieeexplore.ieee.org/document/10001645) at IEEE GLOBECOM 2022  
-- 📚 [MoSaBa](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591), [Battery Aging Mitigation](https://ieeexplore.ieee.org/document/9821045), and [MobiWEB](https://ieeexplore.ieee.org/document/9631530)  
-- 🎓 ERCIM Fellow at IIT-CNR  
-- 📖 Surveys and papers in high-impact venues from 2016 to 2022  
-- 🎉 PhD milestones, patents, and early accolades since 2002  
-
-For full archive, visit the [CV or publication list].  
-
-</details>
-
-</div>
-
 
 
 
@@ -139,29 +70,53 @@ For full archive, visit the [CV or publication list].
   <div class="tab active" onclick="showTab('news2025')">2025</div>
   <div class="tab" onclick="showTab('news2024')">2024</div>
   <div class="tab" onclick="showTab('news2023')">2023</div>
+  <div class="tab" onclick="showTab('olderNews')">2023</div>
 </div>
 
 <div id="news2025" class="tab-content active">
   <div class="news-vertical-scroll">
-    <div class="news-item">📢 IEEE ISCC 2025 paper accepted on Gait Authentication for Metaverse!</div>
-    <div class="news-item">🚀 WCNC 2025 presentation on DSME networks scheduled in Milan!</div>
-    <div class="news-item">✨ Research grant secured for Drone-IoT Digital Twins!</div>
+    <div class="news-item">📢 April 2025: Our collaborative work on `Secure Metaverse access' accepted in MoCS workshop (IEEE ISCC 2025) at Bologna, Italy.</div>
+    <div class="news-item">🧑‍⚖️ April 2025: Serving as TPC member for IEEE LCN 2025.</div>
+    <div class="news-item">💰 March 2025: Received research grant from TEXMiN Foundation (DST TIH).</div>
+    <div class="news-item">📡 February 2025: Serving as TPC for IEEE PIMRC 2025 and VTC-Spring 2025.</div>
+    <div class="news-item">📘 January 2025: Joined the editorial board of Scientific Reports (Springer Nature).</div>
   </div>
 </div>
 
 <div id="news2024" class="tab-content">
   <div class="news-vertical-scroll">
-    <div class="news-item">🏆 Best Paper Award at OITS 2024 for PUF-based IoT Security!</div>
-    <div class="news-item">📘 IEEE ANTS 2024 paper on PSO in DSME networks accepted!</div>
-    <div class="news-item">🔬 COSINE Lab officially launched at IIT (ISM)!</div>
+    <div class="news-item">🏆 December 2024: Best paper award at IEEE OCIT 2024. Congratulations to Amala.</div>
+    <div class="news-item">🎓 December 2024: Mentor and host for ACM India Anveshan Setu program.</div>
+    <div class="news-item">📡 December 2024: `Scheduling in IEEE 802.15.4-DSME' accepted in IEEE WCNC 2025 at Milan, Italy.</div>
+    <div class="news-item">💼 November 2024: Received _Special Lab Establishment grant_ of INR 29.97 Lakhs from IIT (ISM) Dhanbad.</div>
+    <div class="news-item">🤝 November 2024: Our collaborative work on `IEEE 802.15.4-DSME' accepted in IEEE ANTS 2024 workshop at IIT Guwahati.</div>
+    <div class="news-item">🔒 October 2024: Amala's (PhD student) work on `Off-chip Based PUF' accepted in IEEE OCIT 2024.</div>
+    <div class="news-item">🏫 September 2024: Joined IIT (ISM) Dhanbad as an Assistant Professor of Mathematics and Computing.</div>
+    <div class="news-item">📢 July 2024: We are organizing the "<a href="https://sites.google.com/hyderabad.bits-pilani.ac.in/6-dciot">6-DCIoT: Distributed Computing in 6G IoT Networks</a>" workshop (WS4) at IEEE ANTS 2024, during 15-18 Dec, 2024 at IIT Guwahati. Submit your papers via this <a href="https://edas.info/N32434">EDAS link</a>.</div>
+    <div class="news-item">🎓 Apr. 2024: Joined BITS Pilani, Hyderabad campus as an Assistant Professor of Computer Science and Information Systems.</div>
+    <div class="news-item">📚 Jan. 2024: Book proposal on "Edge-enabled 6G Networking - Foundations, Technologies, and Applications" accepted. To be published by _Springer Nature_. Book in preparation. For more information check the <a href="https://edge6gbook.github.io/">book website (editor maintained)</a>.</div>
   </div>
 </div>
 
 <div id="news2023" class="tab-content">
   <div class="news-vertical-scroll">
-    <div class="news-item">✅ Indian Patent granted for adverse-effect-resistant WSN system!</div>
-    <div class="news-item">🔍 Published survey on digital twins in underwater networks.</div>
-    <div class="news-item">📈 DBMS lab syllabus revised with industry case studies.</div>
+    <div class="news-item">🛡️ Dec. 2023: <em>Indian patent granted</em> on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).</div>
+    <div class="news-item">💰 Nov. 2023: Received <em>seed research grant</em> of INR 15.24 Lakhs from SRM University-AP.</div>
+    <div class="news-item">📄 July 2023: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780">UAV-WPT survey</a> accepted in <em>Elsevier PMC journal</em>.</div>
+    <div class="news-item">🎖️ June 2023: Elevated to <em>IEEE Senior Member</em> grade.</div>
+    <div class="news-item">🏫 Feb. 2023: Joined SRM University-AP, India as an Assistant Professor of Computer Science and Engineering.</div>
+    <div class="news-item">🤝 Jan. 2023: Completed a <em>research consultancy</em> with the University of Pisa, Italy.</div>
+  </div>
+</div>
+
+<div id="olderNews" class="tab-content">
+  <div class="news-vertical-scroll">
+    <div class="news-item">🛡️ Dec. 2023: <em>Indian patent granted</em> on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).</div>
+    <div class="news-item">💰 Nov. 2023: Received <em>seed research grant</em> of INR 15.24 Lakhs from SRM University-AP.</div>
+    <div class="news-item">📄 July 2023: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780">UAV-WPT survey</a> accepted in <em>Elsevier PMC journal</em>.</div>
+    <div class="news-item">🎖️ June 2023: Elevated to <em>IEEE Senior Member</em> grade.</div>
+    <div class="news-item">🏫 Feb. 2023: Joined SRM University-AP, India as an Assistant Professor of Computer Science and Engineering.</div>
+    <div class="news-item">🤝 Jan. 2023: Completed a <em>research consultancy</em> with the University of Pisa, Italy.</div>
   </div>
 </div>
 
