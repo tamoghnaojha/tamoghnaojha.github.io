@@ -45,7 +45,7 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
   border: 1px solid #cbd5e1;
   padding: 1rem;
   border-radius: 0 5px 5px 5px;
-  height: 120px;
+  height: 200px;
   overflow: hidden;
   position: relative;
 }
