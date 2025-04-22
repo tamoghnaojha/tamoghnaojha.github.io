@@ -111,12 +111,42 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 
 <div id="olderNews" class="tab-content">
   <div class="news-vertical-scroll">
-    <div class="news-item">🛡️ Dec. 2023: <em>Indian patent granted</em> on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).</div>
-    <div class="news-item">💰 Nov. 2023: Received <em>seed research grant</em> of INR 15.24 Lakhs from SRM University-AP.</div>
-    <div class="news-item">📄 July 2023: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574119223000780">UAV-WPT survey</a> accepted in <em>Elsevier PMC journal</em>.</div>
-    <div class="news-item">🎖️ June 2023: Elevated to <em>IEEE Senior Member</em> grade.</div>
-    <div class="news-item">🏫 Feb. 2023: Joined SRM University-AP, India as an Assistant Professor of Computer Science and Engineering.</div>
-    <div class="news-item">🤝 Jan. 2023: Completed a <em>research consultancy</em> with the University of Pisa, Italy.</div>
+    <div class="news-item">📡 Aug. 2022: <a href="https://ieeexplore.ieee.org/document/10001645">HetWeET</a> accepted in <a href="https://globecom2022.ieee-globecom.org/">IEEE GLOBECOM 2022</a></div>
+    <div class="news-item">🖧 Apr. 2022: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591">MoSaBa</a> accepted in Elsevier Computer Networks.</div>
+    <div class="news-item">🔋 Apr. 2022: <a href="https://ieeexplore.ieee.org/document/9821045">Battery Aging Mitigation</a> accepted in <a href="https://smartcomp.aalto.fi/">IEEE SmartComp 2022</a>.</div>
+    <div class="news-item">🇮🇹 Oct. 2021: Now joined as an ERCIM fellow at IIT-CNR.</div>
+    <div class="news-item">🌐 Jul. 2021: <a href="https://ieeexplore.ieee.org/document/9631530">MobiWEB</a> accepted in <a href="https://iscc2021.unipi.gr/">IEEE ISCC 2021</a>.</div>
+    <div class="news-item">📘 May. 2021: <a href="https://ieeexplore.ieee.org/document/9461869">PANDA</a> accepted in IEEE System journal.</div>
+    <div class="news-item">🎓 Feb. 2021: Convocated from IIT Kharagpur. Adios KGP.</div>
+    <div class="news-item">🧪 Jan. 2021: Joined IIT-CNR as a PostDoctoral Research Fellow.</div>
+    <div class="news-item">🌱 Jan. 2021: Survey on <a href="https://ieeexplore.ieee.org/document/9321474">IoT for Agricultural Applications</a> accepted in IEEE IoT journal.</div>
+    <div class="news-item">✅ Nov. 2020: Successfully defended my PhD thesis.</div>
+    <div class="news-item">🔒 Oct. 2020: <a href="https://dl.acm.org/doi/10.1145/3431390">SecRET</a> accepted in ACM Transactions on Autonomous and Adaptive Systems.</div>
+    <div class="news-item">🌍 Jun. 2020: Selected for <em>ERCIM</em> Post-Doctoral fellowship.</div>
+    <div class="news-item">📡 Feb. 2020: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140366419307285">SEAL</a> accepted in Computer Communications.</div>
+    <div class="news-item">🎓 Jul. 2019: Graduated from Plugin cycle 2 cohort.</div>
+    <div class="news-item">📶 Feb. 2019: <a href="https://ieeexplore.ieee.org/document/8643570">DVSP</a> accepted in IEEE IoT Journal.</div>
+    <div class="news-item">🇹🇼 Jan. 2019: Visited Taiwan's manufacturing ecosystem (Plugin cycle 2 cohort).</div>
+    <div class="news-item">🏆 Dec. 2018: Received <em>Best Conference Travel Grant</em> from IIT Kharagpur for presenting <a href="https://ieeexplore.ieee.org/document/8647815">iDVSP</a> at <a href="https://globecom2018.ieee-globecom.org/">IEEE GLOBECOM 2018</a>, Abu Dhabi, UAE.</div>
+    <div class="news-item">📈 Nov. 2018: <a href="http://www.sciencedirect.com/science/article/pii/S0168169915002379">Survey on WSN for Agricultural Applications</a> is now among the most cited papers in Computers & Electronics in Agriculture Journal.</div>
+    <div class="news-item">🌾 July 2018: <a href="https://ieeexplore.ieee.org/document/8647815">iDVSP</a> accepted in <a href="https://globecom2018.ieee-globecom.org/">IEEE GLOBECOM 2018</a>.</div>
+    <div class="news-item">🎓 Aug. 2017: Received Institute PhD Fellowship.</div>
+    <div class="news-item">☁️ Feb. 2017: <a href="http://www.sciencedirect.com/science/article/pii/S0168169916305099">Sensing-cloud</a> accepted in CompAG.</div>
+    <div class="news-item">🏅 Dec. 2016: Selected as <a href="https://www.computer.org/volunteering/awards/scholarships/merwin/merwin-winners/2016-merwin-winners">IEEE Richard E Merwin Scholar</a>.</div>
+    <div class="news-item">🎤 Sept. 2016: Served as the Organizing Chair for <a href="http://ewh.ieee.org/sb/kharagpur/iitkgp/TechSym2016/">IEEE TechSym 2016</a> at IEEE Student Branch IIT Kharagpur.</div>
+    <div class="news-item">🔐 Sept. 2016: <a href="http://www.sciencedirect.com/science/article/pii/S1389128616303206">ENTRUST</a> accepted in Computer Networks.</div>
+    <div class="news-item">📚 July 2016: <a href="http://www.sciencedirect.com/science/article/pii/S0168169915002379">WSN survey on Agricultural Applications</a> is among <em>top downloaded and cited</em> papers in Computers & Electronics in Agriculture Journal.</div>
+    <div class="news-item">🌩️ July 2015: <a href="http://www.sciencedirect.com/science/article/pii/S1084804515001083#">ENTICE</a> accepted in Journal of Network and Computer Applications.</div>
+    <div class="news-item">🔋 July 2015: <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417591">Cloud-based Optimal Energy Forecasting</a> accepted in IEEE GLOBECOM.</div>
+    <div class="news-item">📆 Sept. 2014: <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7037771">Dynamic duty scheduling</a> accepted in IEEE CloudCom, Singapore.</div>
+    <div class="news-item">📖 Aug. 2014: Biography selected for Who's Who in the World® 2015 (32nd Edition).</div>
+    <div class="news-item">🎓 July 2014: Received MS from IIT Kharagpur.</div>
+    <div class="news-item">📲 July 2014: <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6853401&tag=1">OLTC</a> accepted in IEEE Transactions on Mobile Computing.</div>
+    <div class="news-item">🚀 Feb. 2014: Co-founded SkinCurate Research.</div>
+    <div class="news-item">🏆 Dec. 2013: Won GE Edison Challenge with an award of INR 10 Lakhs.</div>
+    <div class="news-item">🎓 2000–2004: Scholarship from Foundation for Excellence Inc., USA.</div>
+    <div class="news-item">🥇 Oct. 2002: Awarded "Ardhendu Sekhar Sarkar Memorial Prize" for securing 1st position at Block (Salboni, Paschim Medinipur) level in Secondary (Madhyamik) exam 2002.</div>
+    <div class="news-item">🏅 Dec. 1999: Awarded 1st prize in Quiz Competition at Block (Salboni, Paschim Medinipur) level by Department of Youth Services and Sports, Govt. of West Bengal.</div>
   </div>
 </div>
 
