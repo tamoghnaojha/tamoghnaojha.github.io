@@ -1,0 +1,9 @@
+@article{misra2015entice,
+  title     = {ENTICE: Agent-Based Energy Trading with Incomplete Information in the Smart Grid},
+  author    = {Misra, S. and Bera, S. and Ojha, T. and Zhou, L.},
+  journal   = {Journal of Network and Computer Applications},
+  volume    = {55},
+  pages     = {202--212},
+  year      = {2015},
+  publisher = {Elsevier}
+}

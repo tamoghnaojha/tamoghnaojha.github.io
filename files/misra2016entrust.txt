@@ -1,0 +1,9 @@
+@article{misra2016entrust,
+  title     = {ENTRUST: Energy Trading Under Uncertainty in Smart Grid Systems},
+  author    = {Misra, S. and Bera, S. and Ojha, T. and Mouftah, H. and Anpalagan, A.},
+  journal   = {Computer Networks},
+  volume    = {110},
+  pages     = {232--242},
+  year      = {2016},
+  publisher = {Elsevier}
+}

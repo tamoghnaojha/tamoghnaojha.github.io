@@ -1,0 +1,10 @@
+@article{misra2021panda,
+  title     = {PANDA: Preference-based Bandwidth Allocation in Fog-enabled Internet of Underground-Mine Things},
+  author    = {Misra, S. and Tiwari, M. and Ojha, T. and Raj, Y.},
+  journal   = {IEEE Systems Journal},
+  volume    = {15},
+  number    = {4},
+  pages     = {5144--5151},
+  year      = {2021},
+  publisher = {IEEE}
+}

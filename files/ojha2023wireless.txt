@@ -1,0 +1,8 @@
+@article{ojha2023wireless,
+  title = { Wireless Power Transfer with UAVs },
+  author = { T. Ojha and T.P. Raptis and A. Passarella and M. Conti },
+  journal = { Pervasive and Mobile Computing },
+  volume = { 93 },
+  pages = { 101820 },
+  year = { 2023 }
+}

@@ -1,0 +1,10 @@
+@article{ojha2013tictactoe,
+  title     = {Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks},
+  author    = {Ojha, T. and Khatua, M. and Misra, S.},
+  journal   = {IET Wireless Sensor Systems},
+  volume    = {3},
+  number    = {4},
+  pages     = {307--316},
+  year      = {2013},
+  publisher = {IET}
+}

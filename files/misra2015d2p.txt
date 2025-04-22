@@ -1,0 +1,10 @@
+@article{misra2015d2p,
+  title     = {{D2P}: Distributed Dynamic Pricing Policy in Smart Grid for {PHEVs} Management},
+  author    = {Misra, S. and Bera, S. and Ojha, T.},
+  journal   = {IEEE Transactions on Parallel and Distributed Systems},
+  volume    = {26},
+  number    = {3},
+  pages     = {702--712},
+  year      = {2015},
+  publisher = {IEEE}
+}

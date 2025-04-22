@@ -1,0 +1,9 @@
+@article{ojha2022balanced,
+  title   = {Balanced Wireless Crowd Charging with Mobility Prediction and Social Awareness},
+  author  = {Ojha, T. and Raptis, T. P. and Conti, M. and Passarella, A.},
+  journal = {Computer Networks},
+  volume  = {211},
+  pages   = {108989},
+  year    = {2022},
+  publisher = {Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{mandal2016performance,
+  title     = {Performance Analysis of Distributed Underwater Wireless Acoustic Sensor Networks Systems in the Presence of Internal Solitons},
+  author    = {Mandal, A. K. and Misra, S. and Dash, M. K. and Ojha, T.},
+  journal   = {International Journal of Communication Systems},
+  volume    = {29},
+  number    = {13},
+  pages     = {1940--1955},
+  year      = {2016},
+  publisher = {Wiley}
+}

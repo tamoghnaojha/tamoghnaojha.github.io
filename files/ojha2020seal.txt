@@ -1,0 +1,9 @@
+@article{ojha2020seal,
+  title     = {SEAL: Self-adaptive AUV-based Localization for Sparsely Deployed Underwater Sensor Networks},
+  author    = {Ojha, T. and Misra, S. and Obaidat, M. S.},
+  journal   = {Computer Communications},
+  volume    = {154},
+  pages     = {204--215},
+  year      = {2020},
+  publisher = {Elsevier}
+}

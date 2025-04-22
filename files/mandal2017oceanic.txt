@@ -1,0 +1,10 @@
+@article{mandal2017oceanic,
+  title     = {Oceanic Forces and their Impact on the Performance of Mobile Underwater Acoustic Sensor Networks},
+  author    = {Mandal, A. K. and Misra, S. and Ojha, T. and Dash, M. K. and Obaidat, M. S.},
+  journal   = {International Journal of Communication Systems},
+  volume    = {30},
+  number    = {1},
+  pages     = {e2882},
+  year      = {2017},
+  publisher = {Wiley}
+}

@@ -1,0 +1,10 @@
+@article{misra2015game,
+  title     = {Game-theoretic Topology Control for Opportunistic Localization in Sparse Underwater Sensor Networks},
+  author    = {Misra, S. and Ojha, T. and Mondal, A.},
+  journal   = {IEEE Transactions on Mobile Computing},
+  volume    = {14},
+  number    = {5},
+  pages     = {990--1003},
+  year      = {2015},
+  publisher = {IEEE}
+}

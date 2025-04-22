@@ -1,0 +1,10 @@
+@article{ojha2021agriiot,
+  title     = {Internet of Things for Agricultural Applications: The State-of-the-art},
+  author    = {Ojha, T. and Misra, S. and Raghuwanshi, N. S.},
+  journal   = {IEEE Internet of Things Journal},
+  volume    = {8},
+  number    = {14},
+  pages     = {10973--10997},
+  year      = {2021},
+  publisher = {IEEE}
+}

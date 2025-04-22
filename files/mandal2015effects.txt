@@ -1,0 +1,10 @@
+@article{mandal2015effects,
+  title     = {Effects of Wind-induced Near-surface Bubble Plumes on the Performance of Underwater Wireless Acoustic Sensor Networks},
+  author    = {Mandal, A. K. and Misra, S. and Ojha, T. and Dash, M. K. and Obaidat, M. S.},
+  journal   = {IEEE Sensors Journal},
+  volume    = {16},
+  number    = {11},
+  pages     = {4092--4099},
+  year      = {2015},
+  publisher = {IEEE}
+}

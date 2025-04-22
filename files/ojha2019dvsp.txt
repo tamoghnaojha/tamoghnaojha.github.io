@@ -1,0 +1,10 @@
+@article{ojha2019dvsp,
+  title     = {DVSP: Dynamic Virtual Sensor Provisioning in Sensor-Cloud based Internet of Things},
+  author    = {Ojha, T. and Misra, S. and Raghuwanshi, N. S. and Poddar, H.},
+  journal   = {IEEE Internet of Things Journal},
+  volume    = {6},
+  number    = {3},
+  pages     = {5265--5272},
+  year      = {2019},
+  publisher = {IEEE}
+}

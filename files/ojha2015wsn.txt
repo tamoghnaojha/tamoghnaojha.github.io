@@ -1,0 +1,9 @@
+@article{ojha2015wsn,
+  title     = {Wireless Sensor Networks for Agriculture: The State-of-the-Art in Practice and Future Challenges},
+  author    = {Ojha, T. and Misra, S. and Raghuwanshi, N. S.},
+  journal   = {Computers and Electronics in Agriculture},
+  volume    = {118},
+  pages     = {66--84},
+  year      = {2015},
+  publisher = {Elsevier}
+}
