@@ -55,8 +55,13 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 .news-vertical-scroll {
   display: flex;
   flex-direction: column;
-  animation: scroll-vertical 10s linear infinite;
+  animation: scroll-vertical 30s linear infinite;
 }
+
+.news-vertical-scroll:hover {
+  animation-play-state: paused;
+}
+
 .news-item {
   padding: 0.5rem 0;
 }
