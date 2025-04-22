@@ -151,10 +151,48 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 </div>
 
 <script>
+let scrollInterval = null;
+
 function showTab(id) {
+  // Deactivate all tabs and contents
   document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-  document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(content => {
+    content.classList.remove('active');
+    content.removeEventListener('mouseenter', pauseScroll);
+    content.removeEventListener('mouseleave', resumeScroll);
+  });
+
+  // Activate selected tab and content
   document.querySelector('.tab[onclick*="' + id + '"]').classList.add('active');
-  document.getElementById(id).classList.add('active');
+  const activeContent = document.getElementById(id);
+  activeContent.classList.add('active');
+
+  // Add scroll event listeners
+  activeContent.addEventListener('mouseenter', pauseScroll);
+  activeContent.addEventListener('mouseleave', resumeScroll);
+
+  // Start auto scroll
+  startScroll(activeContent, 1, 50); // speed = 1px per 50ms
+}
+
+function startScroll(element, speed = 1, interval = 50) {
+  clearInterval(scrollInterval);
+  scrollInterval = setInterval(() => {
+    if (element.scrollTop + element.clientHeight >= element.scrollHeight) {
+      element.scrollTop = 0; // restart from top
+    } else {
+      element.scrollTop += speed;
+    }
+  }, interval);
+}
+
+function pauseScroll() {
+  clearInterval(scrollInterval);
+}
+
+function resumeScroll(event) {
+  const element = event.currentTarget;
+  startScroll(element, 1, 50); // same speed settings
 }
 </script>
+
