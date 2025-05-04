@@ -76,7 +76,7 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10898488) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2024pso.txt)
 
 9. C. Amala, B. Subbarao, **T Ojha**, B. B. Das. S. K. Ram, and S. P. Mohanty, "An Off-chip Based PUF for Robust Security in FPGA Based IoT Systems", in _IEEE Proceeding on 22nd OITS International Conference on Information Technology_, Guntur, India, December 2024. [**Best paper award**]
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2024puf.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10973683) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2024puf.txt)
 
 8. **T. Ojha**, T. P. Raptis, M. Conti, A. Passarella, "Heterogeneity-aware P2P Wireless Energy Transfer for Balanced Energy Distribution", in _Proceedings of IEEE GLOBECOM_, pp. 4123-4128, Rio de Janeiro, Brazil, 2022.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10001645) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2022heterogeneity.txt) [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2205.11069)
