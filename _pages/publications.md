@@ -65,12 +65,14 @@ author_profile: true
 1. **T. Ojha**, M. Khatua, and S. Misra, "Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks," _IET Wireless Sensor Systems_, vol. 3, no. 4, pp. 307-316, 2013. (SCI - Q2, I.F. - 2.51)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://digital-library.theiet.org/doi/10.1049/iet-wss.2012.0139) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2015d2p.txt)
 
+
+
 ### Conferences
 12. S. Ravikanti, J. Dave, H. Dong, I. Gondal, N. Choudhury, **T. Ojha**, T. P. Raptis, "Avatar-Centric Gait Authentication Framework for Secure Metaverse", in _15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC 2025)_, Bologna, Italy, July 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ravikanti2025avatar.txt)
 
 11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/reddy2025dyhsarw.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10978176) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/reddy2025dyhsarw.txt)
 
 10. S. Anand, N. Choudhury, **T. Ojha**, A. Hazarika, J. Dave, "Improving Network Efficiency in Clustered Tree Topology through PSO Optimization in IEEE 802.15.4-DSME based IoT Networks", in _Proceedings of IEEE ANTS_, Guwahati, India, December 2024.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10898488) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2024pso.txt)
