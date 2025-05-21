@@ -13,7 +13,8 @@ author_profile: true
 <img src="../images/research_areas.jpg" alt="research areas" width="640">
 
 ### Research Grants
-* Mar. 2025: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
+* May 2025 - May 2027: Energy-Efficient Federated Deep Reinforcement Learning for Multi-UAV Edge Intelligence Using Tiny Models, _IIT (ISM) Dhnabad_, Amount: INR 19,99,800. (PI)
+* Mar. 2025 - Sept. 2026: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
 * Nov. 2024: Special Lab establishment grant, _IIT (ISM) Dhnabad_, Amount: INR 29,97,000. (PI)
 * Oct. 2023: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (PI)
 * Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, Amount: INR 10,00,000. (Co-PI)
