@@ -80,7 +80,8 @@ I am a Senior Member of IEEE (SM'23, M'21, S'13) and ACM (M'21, S'13). I regular
 
 <div id="news2025" class="tab-content active">
   <div class="news-vertical-scroll">
-    <div class="news-item">📢 April 2025: Appointed FIC (department) for branding of departments at IIT (ISM) Dhanbad.</div>
+    <div class="news-item">📢 May 2025: Received _Faculty Research Scheme grant_ of INR 19.99 Lakhs from IIT (ISM) Dhanbad.</div>
+    <div class="news-item">📢 May 2025: Appointed FIC (department) for branding of departments at IIT (ISM) Dhanbad.</div>
     <div class="news-item">📢 April 2025: Delivered expert lectures at STP organized by MMTTC, IIT Patna and FDP organized by EICT IIITDM Jabalpur and SRM University-AP.</div>
     <div class="news-item">📢 April 2025: Our collaborative work on `Secure Metaverse access' accepted in MoCS workshop (IEEE ISCC 2025) at Bologna, Italy.</div>
     <div class="news-item">🧑‍⚖️ April 2025: Serving as TPC member for IEEE LCN 2025.</div>
