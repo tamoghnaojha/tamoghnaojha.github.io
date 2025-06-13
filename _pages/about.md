@@ -76,7 +76,8 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
 
 <div id="news2025" class="tab-content active">
   <div class="news-vertical-scroll">
-    <div class="news-item">📢 May 2025: Received _Faculty Research Scheme grant_ of INR 19.99 Lakhs from IIT (ISM) Dhanbad.</div>
+    <div class="news-item">📢 June 2025: Our collaborative work on ‘ML-based SDN Security Enhancement’ accepted in IEEE INDISCON at Rourkela, India.</div>
+    <div class="news-item">💰 May 2025: Received _Faculty Research Scheme grant_ of INR 19.99 Lakhs from IIT (ISM) Dhanbad.</div>
     <div class="news-item">🧑‍⚖️ May 2025: Appointed FIC (department) for branding of departments at IIT (ISM) Dhanbad.</div>
     <div class="news-item">📢 April 2025: Our collaborative work on `Secure Metaverse access' accepted in MoCS workshop (IEEE ISCC 2025) at Bologna, Italy.</div>
     <div class="news-item">🧑‍⚖️ April 2025: Serving as TPC member for IEEE LCN 2025.</div>
