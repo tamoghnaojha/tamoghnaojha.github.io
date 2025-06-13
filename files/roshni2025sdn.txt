@@ -1,0 +1,9 @@
+@inproceedings{roshni2025sdn,
+  author    = {N. Roshni and S. Prabhugari and R. Soni and A. S. Manish Reddy and A. Soni and J. Dave and T. Ojha},
+  title     = {SDN Security Enhancement through Machine Learning based Packet Detection and Rate-Limiting},
+  booktitle = {Proceedings of IEEE INDISCON},
+  address   = {Rourkela, India},
+  month     = aug,
+  year      = {2025},
+  publisher = {IEEE}
+}
