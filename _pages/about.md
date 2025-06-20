@@ -14,7 +14,7 @@ Till date, I have received more than 1 Crore INR research grants sponsored by Go
 My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?style=flat-square)](https://tamoghnaojha.github.io/files/Tamoghna_May2025.pdf) [![Bio](https://img.shields.io/badge/Bio-green?style=flat-square)](https://tamoghnaojha.github.io/files/Bio_TamoghnaOjha.txt)
 
 <span style="color:red">
-<b>[COSINE Lab](https://people.iitism.ac.in/~cosinelab/) is hiring:</b> I am looking for motivated and aspiring candidates for PhD positions (current vacancy: 2). Candidates interested working in areas such as UAV-IoT networks, Edge computing, Non-terrestrial networks, digital twin, and edge-cloud-continuum may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://admission.iitism.ac.in/index.php/admission/phd).
+<b>[COSINE Lab](https://people.iitism.ac.in/~cosinelab/) is hiring:</b> I am looking for motivated and aspiring candidates for PhD positions. Candidates interested working in areas such as UAV-IoT networks, Edge computing, Non-terrestrial networks, digital twin, and edge-cloud-continuum may write to me with a copy of their updated CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://admission.iitism.ac.in/index.php/admission/phd).
 </span>
 
 
