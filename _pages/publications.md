@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Books
+1. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), ``Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2025. [In final preparation]
+
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
 [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/sheet2019multispectral.txt)
