@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ### Invited Talks
+* Invited talk on “Future IoT Networks - Communication, Computation and Energy” as part of FDP on Exploring IoT in the Digital Era: From Smart Devices to Intelligent Systems, organized by IIIT Kottayam with the association of EICT, NIT Warangal. (June 2025)
+* Expert talks: “Wirelessly Powered Future IoT Networks” and “Resource Management in 6G IoT networks” as part of short-term course “Artificial Intelligence & Internet of Things: The 4th Industrial Revolution” organized by MMTTC, IIT Patna. (June 2025)
+* Invited Talk: “Energy aspects of Future IoT Networks” and “Communication and Computation in Future IoT Networks” at Faculty Development Program on “IoT: Recent Advances, Challenges, and Opportunities” at Brainware University, Kolkata in association with EICT, IIT Roorkee. (May 2025)
+* Invited talk: “Resource Management in Future IoT Networks” at IEEE CS Student Branch Chapter IIT Kharagpur. (May 2025)
+* Invited lectures: “Rise of the Edge Devices: Distributed Computing and Communication for 6G Networks” and “Are we really Empowered? Wireless-powered IoT for Futuristic Networks” as resource person for “Integrating AI and Emerging Technologies in Next-Generation Network Systems” organized by E&ICT academy, IIITDM Jabalpur and SRM University-AP. (April 2025)
+* Expert talks: “Wirelessly Powered IoT Networks” and “Resource Management in 6G IoT networks” as part of short-term course “Artificial Intelligence & Internet of Things: From Theory to Practice” organized by MMTTC, IIT Patna at the K. K. Group of Institutes, Govindpur, Dhanbad. (April 2025)
 * Guest Lecture: "Recent Trends and Future Directions in Internet of Things" at the IoT Course (UG), Dept. of EEE, BITS Pilani, Hyderabad campus. (November 2024)
 * Resource Person: Webinar series on "Smart Agriculture" organized by Centurion University of Technology and Management, Odisha. Talked on "IoT and Edge Computing for Smart Agriculture". (Dec. 2023)
 * Resource Person: ATAL FDP on "Integrated IoT and Machine Learning Methods for Smart Sustainable Cities" organized by Vignan's University, Guntur. Talked on "Edge-computing and IoT in the 6G era". (Dec. 2023)
@@ -29,7 +35,7 @@ author_profile: true
 ### TPC Member (Selected only)
 * IEEE PIMRC - 2024 (Valencia, Spain); 2023 (Toronto, Canada); 2022 (Virtual Conference); 2021 (Helsinki, Finland); 2020 (London, UK); 2019 (Istanbul, Turkey); 2018 (Bologna, Italy)
 * IEEE VTC: Spring 2025 (Oslo, Norway);
-* IEEE GLOBECOM: 2023 (Kuala Lumpur, Malaysia)
+* IEEE GLOBECOM: 2025 (Taipei, Taiwan); 2023 (Kuala Lumpur, Malaysia)
 * IEEE ISCC - 2024 (Paris, France); 2023 (Tunis, Tunisia); 2022 (Rhodes Island, Greece); 2021 (Athens, Greece)
 * COMSYS - 2023 (Mandi, India); 2022 (Ropar, India); 2021 (Shillong, Meghalaya, India)
 * IEEE ATC - 2021 (Ho Chi Minh city, Vietnam); 2019 (Hanoi, Vietnam); 2018 (Ho Chi Minh City, Vietnam)
@@ -53,6 +59,7 @@ author_profile: true
 * Others: IEEE LCN, IEEE DCOSS, IEEE ATC, COVI-COM (IEEE ICC), IEEE ICCCS, IEEE ANTS, IEEE NCC, ACM FICN
 
 ### Administrative Responsibility
+* _Faculty In-charge_ for Branding of Departments at IIT (ISM) Dhanbad (May 2025 -- )
 * _Faculty Member_ at Center for Drone Technology (CoE), SRM University-AP (October 2023–January 2024).
 * _Faculty Adviser_ for Smart Tech Club, SEAS, SRM University-AP (August 2023-February 2024)
 * _Member_ of International Relations Committee of SRM University-AP (July 2023-April 2024)
