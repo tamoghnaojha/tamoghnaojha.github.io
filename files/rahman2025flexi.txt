@@ -1,0 +1,9 @@
+@inproceedings{rahman2025flexi,
+  author    = {R. Rahman and N. Choudhury and W. Xiang and T. Ojha},
+  title     = {FlexiFrame: Adaptive Slotframe Scheduling for 6TiSCH-Based Smart City IoT Networks},
+  booktitle = {Proceedings of IEEE GLOBECOM},
+  address   = {Taipei, Taiwan},
+  month     = dec,
+  year      = {2025},
+  publisher = {IEEE}
+}
