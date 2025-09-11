@@ -1,0 +1,9 @@
+@inproceedings{vaiyata2025distributed,
+  author    = {M. Vaiyata and T. Ojha and  N. Choudhury and J. Dave and P. Lorenz},
+  title     = {Distributed RL-Based UAV Selection for Reliable Task Execution in Aerial IoT Edge Networks},
+  booktitle = {Proceedings of IEEE GLOBECOM},
+  address   = {Taipei, Taiwan},
+  month     = dec,
+  year      = {2025},
+  publisher = {IEEE}
+}
