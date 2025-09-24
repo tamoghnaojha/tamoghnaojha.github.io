@@ -1,0 +1,7 @@
+@inproceedings{amala2025everything,
+  author    = {C. Amala and B. Subbarao and M. Sivaji and T. Ojha and B. B. Das and S. P. Mohanty and S. K. Ram},
+  title     = {Everything You Wanted to Know about Secure Energy Harvesting Techniques for IoT Devices-A Review},
+  journal   = {IEEE Sensors Journal},
+  pages     = {1--13},
+  year      = {2015}
+}
