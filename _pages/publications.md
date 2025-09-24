@@ -17,6 +17,9 @@ author_profile: true
 
 
 ### Journals
+18. C. Amala, B. Subbarao, M. Sivaji, **T. Ojha**, B. B. Das, S. P. Mohanty, S. K. Ram, "Everything You Wanted to Know about Secure Energy Harvesting Techniques for IoT Devices-A Review", IEEE Sensors Journal, 2025. (SCI - Q1, I. F. - 4.5)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1109/JSEN.2025.3614640) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2025everything.txt)
+
 17. **T. Ojha**, T.P. Raptis, A. Passarella, M. Conti, “Wireless Power Transfer with Unmanned Aerial Vehicles: State of the Art and Open Challenges”, _Pervasive and Mobile Computing (Elsevier)_, vol. 93, pp. 101820, 2023. (SCI - Q1, I. F. - 3.848)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1574119223000780) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2023wireless.txt)
 
