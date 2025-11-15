@@ -74,6 +74,12 @@ author_profile: true
 
 
 ### Conferences
+17. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, K. Gupta, "QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks", in _IEEE ANTS_, New Delhi, India, December 2025 (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2025qos.txt)
+
+16. S. Anand, A. Gorrela, R. Rahman, N. Choudhury, A. Hazarika, D. Choudhury, **T. Ojha**, "Delay-Bounded Adaptive MAC for IEEE 802.15.4e DSME Networks: Enhancing Resilience under Bursty and Dynamic IoT Traffic", in _IEEE ANTS_, New Delhi, India, December 2025
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2025delay.txt)
+
 15. M. Vaiyata, **T. Ojha**,  N. Choudhury, J. Dave, P. Lorenz, "Distributed RL-Based UAV Selection for Reliable Task Execution in Aerial IoT Edge Networks", in _IEEE GLOBECOM Workshops_, December 2025. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/vaiyata2025distributed.txt)
 
