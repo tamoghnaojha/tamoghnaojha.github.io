@@ -1,0 +1,9 @@
+@inproceedings{das2025qos,
+  author    = {T. K. Das, T. Ojha, N. Choudhury, A. Kaushik, K. Gupta},
+  title     = {QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks},
+  booktitle = {Proceedings of IEEE ANTS},
+  address   = {New Delhi, India},
+  month     = dec,
+  year      = {2025},
+  publisher = {IEEE}
+}
