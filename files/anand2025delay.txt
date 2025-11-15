@@ -1,0 +1,9 @@
+@inproceedings{anand2025delay,
+  author    = {S. Anand, A. Gorrela, R. Rahman, N. Choudhury, A. Hazarika, D. Choudhury, T. Ojha},
+  title     = {Delay-Bounded Adaptive MAC for IEEE 802.15.4e DSME Networks: Enhancing Resilience under Bursty and Dynamic IoT Traffic},
+  booktitle = {Proceedings of IEEE ANTS},
+  address   = {New Delhi, India},
+  month     = dec,
+  year      = {2025},
+  publisher = {IEEE}
+}
