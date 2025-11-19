@@ -13,9 +13,11 @@ author_profile: true
 <img src="../images/research_areas.jpg" alt="research areas" width="640">
 
 ### Research Grants
-* May 2025 - May 2027: Energy-Efficient Federated Deep Reinforcement Learning for Multi-UAV Edge Intelligence Using Tiny Models, _IIT (ISM) Dhnabad_, Amount: INR 19,99,800. (PI)
+* Oct. 2025 - Sept. 2026: Improving The Performance of IEEE 802.11ah UAV Networks In Mission-Critical Defense Environments, NMICPS TiHAN-IIT Hyderabad, Amount: INR 21,91,000. (Co-PI)
+* Sept. 2025 - Aug. 2027: Revolutionizing Autonomous Navigation through Occlusion-Resilient Autonomous Driving Using Intelligent Perception Systems, _Collaborative Research Grant, IIT (ISM) Dhnabad_, Amount: INR 60,00,000. (Co-PI)
+* May 2025 - May 2027: Energy-Efficient Federated Deep Reinforcement Learning for Multi-UAV Edge Intelligence Using Tiny Models, _FRS Grant, IIT (ISM) Dhnabad_, Amount: INR 19,99,800. (PI)
 * Mar. 2025 - Sept. 2026: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
-* Nov. 2024: Special Lab establishment grant, _IIT (ISM) Dhnabad_, Amount: INR 29,97,000. (PI)
+* Nov. 2024: Special Lab Establishment grant, _IIT (ISM) Dhnabad_, Amount: INR 29,97,000. (PI)
 * Oct. 2023: Using Edge Intelligence for Resource Allocation in Wirelessly Powered UAV-IoT Network, _SRM University-AP (Seed Grant)_, Amount: INR 15,24,000. (PI)
 * Oct. 2018 - June 2019: Breaking the Barriers of Skin Disease Diagnosis with Computational Imaging and Artificial Intelligence, _SINE, IIT Bombay and Intel Inc. (Plugin 2 Startup Cohort)_, Amount: INR 10,00,000. (Co-PI)
 * Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, Amount: INR 41,79,000. (Co-PI)
