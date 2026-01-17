@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Books
-1. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), ``Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2025. [In final preparation]
+1. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), ``Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2026. [In final preparation]
 
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
@@ -87,10 +87,10 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/rahman2025flexi.txt)
 
 13. N. Roshni, S. Prabhugari, R. Soni, A. S. Manish Reddy, A. Soni, J. Dave and **T. Ojha**, "SDN Security Enhancement through Machine Learning based Packet Detection and Rate-Limiting", in _IEEE INDISCON_, Rourkela, India, August 2025.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/roshni2025sdn.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/11254914) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/roshni2025sdn.txt)
 
 12. S. Ravikanti, J. Dave, H. Dong, I. Gondal, N. Choudhury, **T. Ojha**, T. P. Raptis, "Avatar-Centric Gait Authentication Framework for Secure Metaverse", in _15th Workshop on Management of Cloud and Smart City Systems (with IEEE ISCC 2025)_, Bologna, Italy, July 2025. (Accepted)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ravikanti2025avatar.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://www.computer.org/csdl/proceedings-article/iscc/2025/11326103/2df96Jey9I4) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ravikanti2025avatar.txt)
 
 11. S. Reddy, N. Choudhury, A. Hazarika and **T. Ojha**, "DyHSARW: A Dynamic GTS Scheduling Mechanism for Large IEEE 802.15.4 DSME-Based IoT Networks", in _Proceedings of IEEE WCNC_, Milan, Italy, March 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10978176) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/reddy2025dyhsarw.txt)
