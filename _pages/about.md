@@ -71,7 +71,6 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
   <div class="tab active" onclick="showTab('news2026')">2026</div>
   <div class="tab active" onclick="showTab('news2025')">2025</div>
   <div class="tab" onclick="showTab('news2024')">2024</div>
-  <div class="tab" onclick="showTab('news2023')">2023</div>
   <div class="tab" onclick="showTab('olderNews')">Older News</div>
 </div>
 
@@ -115,7 +114,7 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
   </div>
 </div>
 
-<div id="news2023" class="tab-content">
+<div id="olderNews" class="tab-content">
   <div class="news-vertical-scroll">
     <div class="news-item">🛡️ Dec. 2023: <em>Indian patent granted</em> on "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" (Patent No. 480946).</div>
     <div class="news-item">💰 Nov. 2023: Received <em>seed research grant</em> of INR 15.24 Lakhs from SRM University-AP.</div>
@@ -123,11 +122,6 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
     <div class="news-item">🎖️ June 2023: Elevated to <em>IEEE Senior Member</em> grade.</div>
     <div class="news-item">🏫 Feb. 2023: Joined SRM University-AP, India as an Assistant Professor of Computer Science and Engineering.</div>
     <div class="news-item">🤝 Jan. 2023: Completed a <em>research consultancy</em> with the University of Pisa, Italy.</div>
-  </div>
-</div>
-
-<div id="olderNews" class="tab-content">
-  <div class="news-vertical-scroll">
     <div class="news-item">📡 Aug. 2022: <a href="https://ieeexplore.ieee.org/document/10001645">HetWeET</a> accepted in <a href="https://globecom2022.ieee-globecom.org/">IEEE GLOBECOM 2022</a></div>
     <div class="news-item">🖧 Apr. 2022: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128622001591">MoSaBa</a> accepted in Elsevier Computer Networks.</div>
     <div class="news-item">🔋 Apr. 2022: <a href="https://ieeexplore.ieee.org/document/9821045">Battery Aging Mitigation</a> accepted in <a href="https://smartcomp.aalto.fi/">IEEE SmartComp 2022</a>.</div>
