@@ -74,7 +74,7 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
   <div class="tab" onclick="showTab('olderNews')">Older News</div>
 </div>
 
-<div id="news2025" class="tab-content active">
+<div id="news2026" class="tab-content active">
   <div class="news-vertical-scroll">
     <div class="news-item">📢 February 2026: Joined as Associate Editor for the IEEE Networking Letters.</div>
   </div>
