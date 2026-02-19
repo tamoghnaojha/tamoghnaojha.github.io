@@ -69,7 +69,7 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
 
 <div class="tabs">
   <div class="tab active" onclick="showTab('news2026')">2026</div>
-  <div class="tab active" onclick="showTab('news2025')">2025</div>
+  <div class="tab" onclick="showTab('news2025')">2025</div>
   <div class="tab" onclick="showTab('news2024')">2024</div>
   <div class="tab" onclick="showTab('olderNews')">Older News</div>
 </div>
