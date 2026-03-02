@@ -77,6 +77,7 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
 <div id="news2026" class="tab-content active">
   <div class="news-vertical-scroll">
     <div class="news-item">📢 February 2026: Joined as Associate Editor for the IEEE Networking Letters.</div>
+    <div class="news-item">📢 February 2026: Received research grant from JCSTI.</div>
   </div>
 </div>
 
