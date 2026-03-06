@@ -10,7 +10,7 @@ author_profile: true
 ## Research Group: [COSINE Lab](https://people.iitism.ac.in/~cosinelab/)
 
 ### Research Domains
-<img src="../images/research_areas.jpg" alt="research areas" width="640">
+<img src="../images/research_areas.png" alt="research areas" width="640">
 
 ### Research Grants
 * Mar. 2026 - Feb 2028: Resilient Edge-LoRa System for Early Gas Hazard Detection in Coal Mines and Adjacent Communities, _Jharkhand Council on Science, Technology and Innovation (JCSTI)_, Amount: INR 5,95,500. (PI)
