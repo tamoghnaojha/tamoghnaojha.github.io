@@ -13,7 +13,8 @@ author_profile: true
 <img src="../images/research_areas.jpg" alt="research areas" width="640">
 
 ### Research Grants
-* Oct. 2025 - Sept. 2026: Improving The Performance of IEEE 802.11ah UAV Networks In Mission-Critical Defense Environments, NMICPS TiHAN-IIT Hyderabad, Amount: INR 21,91,000. (Co-PI)
+* Mar. 2026 - Feb 2028: Resilient Edge-LoRa System for Early Gas Hazard Detection in Coal Mines and Adjacent Communities, _Jharkhand Council on Science, Technology and Innovation (JCSTI)_, Amount: INR 5,95,500. (PI)
+* Oct. 2025 - Sept. 2026: Improving The Performance of IEEE 802.11ah UAV Networks In Mission-Critical Defense Environments, _NMICPS TiHAN-IIT Hyderabad_, Amount: INR 21,91,000. (Co-PI)
 * Sept. 2025 - Aug. 2027: Revolutionizing Autonomous Navigation through Occlusion-Resilient Autonomous Driving Using Intelligent Perception Systems, _Collaborative Research Grant, IIT (ISM) Dhanbad_, Amount: INR 60,00,000. (Co-PI)
 * May 2025 - May 2027: Energy-Efficient Federated Deep Reinforcement Learning for Multi-UAV Edge Intelligence Using Tiny Models, _FRS Grant, IIT (ISM) Dhanbad_, Amount: INR 19,99,800. (PI)
 * Mar. 2025 - Sept. 2026: AI-Powered Vision Systems for Low-light and Low-visibility Underground Mining Environments, _TEXMiN Foundation (DST TIH)_, Amount: INR 17,35,000. (Co-PI)
