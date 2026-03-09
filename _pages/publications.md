@@ -74,16 +74,22 @@ author_profile: true
 
 
 ### Conferences
-17. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, K. Gupta, "QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks", in _IEEE ANTS_, New Delhi, India, December 2025 (Accepted)
+19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, “A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks”, in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
+
+18. A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, **T. Ojha**, A. Jindal, “Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks”, in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/gorrela2026frame.txt)
+
+17. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, K. Gupta, "QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks", in _IEEE ANTS_, New Delhi, India, December 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2025qos.txt)
 
-16. S. Anand, A. Gorrela, R. Rahman, N. Choudhury, A. Hazarika, D. Choudhury, **T. Ojha**, "Delay-Bounded Adaptive MAC for IEEE 802.15.4e DSME Networks: Enhancing Resilience under Bursty and Dynamic IoT Traffic", in _IEEE ANTS_, New Delhi, India, December 2025
+16. S. Anand, A. Gorrela, R. Rahman, N. Choudhury, A. Hazarika, D. Choudhury, **T. Ojha**, "Delay-Bounded Adaptive MAC for IEEE 802.15.4e DSME Networks: Enhancing Resilience under Bursty and Dynamic IoT Traffic", in _IEEE ANTS_, New Delhi, India, December 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2025delay.txt)
 
-15. M. Vaiyata, **T. Ojha**,  N. Choudhury, J. Dave, P. Lorenz, "Distributed RL-Based UAV Selection for Reliable Task Execution in Aerial IoT Edge Networks", in _IEEE GLOBECOM Workshops_, December 2025. (Accepted)
+15. M. Vaiyata, **T. Ojha**,  N. Choudhury, J. Dave, P. Lorenz, "Distributed RL-Based UAV Selection for Reliable Task Execution in Aerial IoT Edge Networks", in _IEEE GLOBECOM Workshops_, December 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/vaiyata2025distributed.txt)
 
-14. R. Rahman, N. Choudhury, W. Xiang and **T. Ojha**, "FlexiFrame: Adaptive Slotframe Scheduling for 6TiSCH-Based Smart City IoT Networks", in _IEEE GLOBECOM Workshops_, December 2025. (Accepted)
+14. R. Rahman, N. Choudhury, W. Xiang and **T. Ojha**, "FlexiFrame: Adaptive Slotframe Scheduling for 6TiSCH-Based Smart City IoT Networks", in _IEEE GLOBECOM Workshops_, December 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/rahman2025flexi.txt)
 
 13. N. Roshni, S. Prabhugari, R. Soni, A. S. Manish Reddy, A. Soni, J. Dave and **T. Ojha**, "SDN Security Enhancement through Machine Learning based Packet Detection and Rate-Limiting", in _IEEE INDISCON_, Rourkela, India, August 2025.
