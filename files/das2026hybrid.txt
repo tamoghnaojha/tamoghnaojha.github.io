@@ -1,0 +1,9 @@
+@inproceedings{das2025qos,
+  author    = {T. K. Das, T. Ojha, N. Choudhury, A. Kaushik},
+  title     = {A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks},
+  booktitle = {Proceedings of IEEE ICC Workshops},
+  address   = {Glasgow, Scotland},
+  month     = may,
+  year      = {2026},
+  publisher = {IEEE}
+}
