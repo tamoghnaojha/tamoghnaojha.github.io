@@ -1,0 +1,9 @@
+@inproceedings{das2025qos,
+  author    = {A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, T. Ojha, A. Jindal},
+  title     = {Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks},
+  booktitle = {Proceedings of IEEE ICC Workshops},
+  address   = {Glasgow, Scotland},
+  month     = may,
+  year      = {2026},
+  publisher = {IEEE}
+}
