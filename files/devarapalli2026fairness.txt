@@ -1,0 +1,7 @@
+@inproceedings{devarapalli2026fairness,
+  author    = {R. R. Devarapalli and N. Varshney and N. Choudhury and S. M. Zafaruddin and A. Kaushik and T. Ojha},
+  title     = {Fairness-Enhanced Multi-Hop RIS-Assisted UAV Networks With NOMA-Based Power Allocation},
+  booktitle = {Proceedings of IEEE Vehicular Technology Conference (VTC-Spring)},
+  year      = {2026},
+  address   = {Nice, France}
+}
