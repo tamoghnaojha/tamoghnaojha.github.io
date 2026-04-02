@@ -74,6 +74,9 @@ author_profile: true
 
 
 ### Conferences
+20. R. R. Devarapalli, N. Varshney, N. Choudhury, S. M. Zafaruddin, A. Kaushik, **T. Ojha**, ``Fairness-Enhanced Multi-Hop RIS-Assisted UAV Networks With NOMA-Based Power Allocation", in \textit{IEEE VTC-Spring}, Nice, France, 2026. (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/devarapalli2026fairness.txt)
+
 19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, “A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks”, in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
 
