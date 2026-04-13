@@ -74,10 +74,14 @@ author_profile: true
 
 
 ### Conferences
-19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, “A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks”, in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
+21. T. P. Raptis and T. Ojha, "Gait-Diverse Avatar Selection for Realistic Synthetic Crowds in the Metaverse", in _IEEE Computers, Software, and Applications Conference (COMPSAC)_, Madrid, Spain, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
+
+20. T. K. Das and T. Ojha, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
+
+19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, "A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
 
-18. A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, **T. Ojha**, A. Jindal, “Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks”, in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
+18. A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, **T. Ojha**, A. Jindal, "Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/gorrela2026frame.txt)
 
 17. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, K. Gupta, "QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks", in _IEEE ANTS_, New Delhi, India, December 2025.
