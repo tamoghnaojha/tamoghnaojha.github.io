@@ -1,0 +1,8 @@
+@inproceedings{raptis2026gait,
+  author    = {Theofanis Raptis and Tamoghna Ojha},
+  title     = {Gait-Diverse Avatar Selection for Realistic Synthetic Crowds in the Metaverse},
+  booktitle = {Proceedings of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026)},
+  address   = {Madrid, Spain},
+  month     = jul,
+  year      = {2026}
+}
