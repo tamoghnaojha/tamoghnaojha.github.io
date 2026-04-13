@@ -4,5 +4,6 @@
   booktitle = {Proceedings of the IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)},
   address   = {VNIT Nagpur, India},
   month     = jul,
-  year      = {2026}
+  year      = {2026},
+  publisher = {IEEE}
 }
