@@ -17,6 +17,9 @@ author_profile: true
 
 
 ### Journals
+19. M. Nepal, K. Phan, **T. Ojha**, A. Dutta, M. K. S. Prasad, "M2FedAQI: Multimodal Federated Learning for Air Quality Prediction on Heterogeneous Edge Devices", _Under Review_, 2026.
+[![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2605.16375)
+
 18. C. Amala, B. Subbarao, M. Sivaji, **T. Ojha**, B. B. Das, S. P. Mohanty, S. K. Ram, "Everything You Wanted to Know about Secure Energy Harvesting Techniques for IoT Devices-A Review", _IEEE Sensors Journal_, vol. 25, no. 22, pp. 41027 - 41039, 2025. (SCI - Q1, I. F. - 4.5)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1109/JSEN.2025.3614640) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2025everything.txt)
 
