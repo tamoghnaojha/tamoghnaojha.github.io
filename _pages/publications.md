@@ -77,6 +77,12 @@ author_profile: true
 
 
 ### Conferences
+23. Afa, A. Kalita, **T. Ojha**, “Traffic Prediction and Load-Aware Adaptive RAW Slot Allocation for IEEE 802.11ah IoT Networks”, _TENCON 2026 - 2026 IEEE Region 10 Conference_, Bali, Indonesia, 2026. (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
+
+22. A. Gupta, S. Kumawat, M. Verma, **T. Ojha**, A. Galav, “FADER: Frequency ADaptive implicit nEuRal representations”, _11th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)_, July 2026, Jaipur, India. (Accepted)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
+
 21. T. P. Raptis and **T. Ojha**, "Gait-Diverse Avatar Selection for Realistic Synthetic Crowds in the Metaverse", in _IEEE Computers, Software, and Applications Conference (COMPSAC)_, Madrid, Spain, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
 
 20. T. K. Das and **T. Ojha**, S. Bhosale, S. Karmakar, S. Halder, S. Barik, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
