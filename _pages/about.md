@@ -76,18 +76,22 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
 
 <div id="news2026" class="tab-content active">
   <div class="news-vertical-scroll">
-    <div class="news-item">📢 April 2026: 1 papers accepted in IEEE VTC. Congratulations to Rohan.</div>
+    <div class="news-item">💰 June 2026: MSc students, Debanshu and Subhadeep, selected for `CIL-IMiN Fellowship 2026'</div>
+    <div class="news-item">📢 June 2026: Papes accepted at NCVPRIPG 2026 (Jaipur, India) and TENCON 2026 (Bali, Indonesia).</div>
+    <div class="news-item">🧑‍⚖️ June 2026: Prof. Ojha delivered a keynote lecture at Workshop 16 of IEEE VTC-Spring 2026 at Nice, France.</div>
+    <div class="news-item">🧑‍⚖️ April 2026: Prof. Ojha will serve as Visa and Travel chair at IEEE ANTS 2026.</div>
+    <div class="news-item">📢 April 2026: Papers accepted in IEEE SEFET (VNIT Nagpur) and IEEE COMPSAC 2026 (Madrid, Spain).</div>
     <div class="news-item">📢 March 2026: 2 papers accepted in IEEE ICC. Congratulations to Tarun and Alekhya.</div>
-    <div class="news-item">📢 February 2026: Joined as Associate Editor for the IEEE Networking Letters.</div>
+    <div class="news-item">📘 February 2026: Joined as Associate Editor for the IEEE Networking Letters.</div>
     <div class="news-item">📢 February 2026: Received research grant from JCSTI.</div>
   </div>
 </div>
 
 <div id="news2025" class="tab-content active">
   <div class="news-vertical-scroll">
-    <div class="news-item">📢 December 2025: Joined as Associate Editor for the IEEE Transactions on Green Communication and Networks.</div>
+    <div class="news-item">📘 December 2025: Joined as Associate Editor for the IEEE Transactions on Green Communication and Networks.</div>
     <div class="news-item">📢 October 2025: 2 papers accepted in IEEE ANTS. Congratulations to Tarun and Sonali.</div>
-    <div class="news-item">📢 October 2025: Received research grant from NMICPS TiHAN-IIT Hyderabad.</div>
+    <div class="news-item">📢 October 2025: Received a research grant from NMICPS TiHAN-IIT Hyderabad.</div>
     <div class="news-item">📢 September 2025: Received special 'Collaborative' research grant from IIT (ISM) Dhanbad.</div>
     <div class="news-item">📢 September 2025: 2 papers accepted in IEEE GLOBECOM. Congratulations to Mitul and Raziur.</div>
     <div class="news-item">📢 August 2025: Appointed In-charge Department Labs.</div>
