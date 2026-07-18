@@ -100,10 +100,10 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11429936) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/anand2025delay.txt)
 
 15. M. Vaiyata, **T. Ojha**,  N. Choudhury, J. Dave, P. Lorenz, "Distributed RL-Based UAV Selection for Reliable Task Execution in Aerial IoT Edge Networks", in _IEEE GLOBECOM Workshops_, December 2025.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/vaiyata2025distributed.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11591227) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/vaiyata2025distributed.txt)
 
 14. R. Rahman, N. Choudhury, W. Xiang and **T. Ojha**, "FlexiFrame: Adaptive Slotframe Scheduling for 6TiSCH-Based Smart City IoT Networks", in _IEEE GLOBECOM Workshops_, December 2025.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/rahman2025flexi.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11591191) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/rahman2025flexi.txt)
 
 13. N. Roshni, S. Prabhugari, R. Soni, A. S. Manish Reddy, A. Soni, J. Dave and **T. Ojha**, "SDN Security Enhancement through Machine Learning based Packet Detection and Rate-Limiting", in _IEEE INDISCON_, Rourkela, India, August 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/11254914) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/roshni2025sdn.txt)
