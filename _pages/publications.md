@@ -88,7 +88,7 @@ author_profile: true
 20. T. K. Das and **T. Ojha**, S. Bhosale, S. Karmakar, S. Halder, S. Barik, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
 
 19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, "A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/11586487) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
 
 18. A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, **T. Ojha**, A. Jindal, "Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11586449) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/gorrela2026frame.txt)
