@@ -91,7 +91,7 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
 
 18. A. Gorrela, S. V. Gudipudi, N. Choudhury, A. Hazarika, **T. Ojha**, A. Jindal, "Frame-Aware Resilient ADR for Relay-Connected LoRaWAN IoT Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/gorrela2026frame.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11586449) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/gorrela2026frame.txt)
 
 17. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, K. Gupta, "QoS-aware Joint Optimization of Task Offloading and Resource Allocation in Integrated Terrestrial Non-Terrestrial Networks", in _IEEE ANTS_, New Delhi, India, December 2025.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/11430110) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2025qos.txt)
