@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 ### Books/Chapters
-1. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), ``Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2026. [ISBN: 978-3032190413]
+3. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2026. [ISBN: 978-3032190413]
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_11) [Buy from Amazon](https://www.amazon.in/Edge-enabled-Networking-Foundations-Technologies-Applications/dp/303219041X)
+
+2. A. Ghosh and **T. Ojha**, "mm-Wave Technology for 6G Communication", In "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", T. Ojha, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), Springer Nature, May 2026.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_1)
+
+1. N. Choudhury, J. Dave, **T. Ojha**, "LoRaWAN-Based IoT to Satellite Communication for Integrated Terrestrial and Non-terrestrial Networks", In "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", T. Ojha, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), Springer Nature, May 2026.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_13)
 
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
