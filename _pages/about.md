@@ -76,6 +76,7 @@ My CV and Bio can be found here [![CV](https://img.shields.io/badge/CV-blue?styl
 
 <div id="news2026" class="tab-content active">
   <div class="news-vertical-scroll">
+    <div class="news-item">💰 July 2026: `Edge-enabled 6G Networking' edited book by Prof. Ojha (eds.) in now available <a href="https://www.amazon.in/Edge-enabled-Networking-Foundations-Technologies-Applications/dp/303219041X">here</a></div>
     <div class="news-item">💰 June 2026: MSc students, Debanshu and Subhadeep, selected for `CIL-IMiN Fellowship 2026'</div>
     <div class="news-item">📢 June 2026: Papes accepted at NCVPRIPG 2026 (Jaipur, India) and TENCON 2026 (Bali, Indonesia).</div>
     <div class="news-item">🧑‍⚖️ June 2026: Prof. Ojha delivered a keynote lecture at Workshop 16 of IEEE VTC-Spring 2026 at Nice, France.</div>
