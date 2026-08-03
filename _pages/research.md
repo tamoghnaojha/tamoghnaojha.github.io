@@ -24,7 +24,7 @@ author_profile: true
 * Aug. 2015 - Jan. 2017: Multispectral Optical Imaging and Computing Technologies for Realtime in-situ Functional Characterization and Monitoring of Cutaneous Wound Healing Progression, _BIRAC, DBT, Govt. of India (BIG grant)_, Amount: INR 41,79,000. (Co-PI)
 
 <span style="color:red">
-<b>[COSINE Lab](https://people.iitism.ac.in/~cosinelab/) is hiring:</b> I am looking for motivated and aspiring candidates for PhD positions. Candidates interested working in areas such as UAV-IoT networks, Edge computing, Non-terrestrial networks, digital twin, and edge-cloud-continuum need to email me with their latest CV. For more information about the eligibility criteria, benefits, and fellowship of PhD program, you may visit the following links -- [PhD program](https://www.iitism.ac.in/phdadmission).
+<b>[COSINE Lab](https://people.iitism.ac.in/~cosinelab/) is hiring:</b> I welcome motivated PhD applicants interested in UAV-IoT networks, edge computing, non-terrestrial networks, digital twins, and the edge-cloud continuum. Please email me with your current CV after reviewing the [PhD admission information](https://www.iitism.ac.in/phdadmission).
 </span>
 
 
@@ -49,4 +49,3 @@ Underwater Sensor Networks (UWSNs) pose challenges that differ from those of the
 In UWSNs, it is important to tag the sensed data with location information, in order to have better insight of the sensed information. Consequently, a sensor node needs to know its time-varying location. The existing localization schemes exhibit performance challenges such as high energy consumption, high localization error, reduced localization coverage, and high beacon message overhead. Motivated by this, a static anchor-based and a mobile anchor-based localization scheme exhibiting low energy consumption, high localization coverage and less location estimation error was proposed. The traditional approaches for iterative localization do not work specifically for sparse node deployment scenarios. In such scenarios, the sensor nodes lack the required number of anchor nodes for localization. Also, the mobile-anchor based schemes are deficient in achieving network-wide localization coverage in such scenarios. Accordingly, two localization schemes -- a static anchor-based and a mobile anchor-based -- were designed specifically considering the sparse UWSN scenario.
 
 -->
-

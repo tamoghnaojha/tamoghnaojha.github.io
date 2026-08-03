@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Profile"
+  - title: "Experience"
     url: /profile/
 
   - title: "Research"
@@ -9,11 +9,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards & Achievements"
+  - title: "COSINE Lab"
+    url: https://people.iitism.ac.in/~cosinelab/
+
+  - title: "Awards"
     url: /awards/    
 
-  - title: "Activity and Services"
+  - title: "Service"
     url: /activity/    
+
+  - title: "CV"
+    url: /files/Tamoghna_CV_July2026.pdf
     
 #  - title: "Portfolio"
 #    url: /portfolio/

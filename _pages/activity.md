@@ -5,7 +5,7 @@ permalink: /activity/
 author_profile: true
 ---
 
-### Invited Talks
+### Invited Talks (rarely updated)
 * Invited talk on “Future IoT Networks - Communication, Computation and Energy” as part of FDP on Exploring IoT in the Digital Era: From Smart Devices to Intelligent Systems, organized by IIIT Kottayam with the association of EICT, NIT Warangal. (June 2025)
 * Expert talks: “Wirelessly Powered Future IoT Networks” and “Resource Management in 6G IoT networks” as part of short-term course “Artificial Intelligence & Internet of Things: The 4th Industrial Revolution” organized by MMTTC, IIT Patna. (June 2025)
 * Invited Talk: “Energy aspects of Future IoT Networks” and “Communication and Computation in Future IoT Networks” at Faculty Development Program on “IoT: Recent Advances, Challenges, and Opportunities” at Brainware University, Kolkata in association with EICT, IIT Roorkee. (May 2025)
@@ -19,13 +19,15 @@ author_profile: true
 * Keynote Speaker: ICACIE 2022 (Springer), Cuttack, India. Talked on "Energy Balance in Peer-to-Peer Wireless Power Transfer (P2P-WPT)". (Dec. 2022)
 
 ### Journal Editorial Board
+* IEEE Transactions on Green Communications and Networking
+* IEEE Networking Letters
 * Scientific Reports (Springer Nature)
 
 ### Examiner / Reviewer
 * IEEE India Council Awards, Oct. 2023
 
 ### Conference Organizing Committee Member
-* Organizing Chair, 6DCIoT (with IEEE ANTS), Guwahati, India
+* Organizing Chair, 6DCIoT (workshop series: 2024--to date)
 * Publicity Co-Chair, DCOSS 2022, California, USA
 * General Chair, WPSN 2021 (in conjunction with IEEE DCOSS), Pafos, Cyprus
 * Publicity Co-Chair, DCOSS 2021, Pafos, Cyprus
@@ -42,6 +44,7 @@ author_profile: true
 * ACM FICN 2018 (in conjunction with ACM MobiCom), (New Delhi, India)
 
 ### Conference Session Chair
+* IEEE GLOBECOM 2025, Taipei, Taiwan.
 * IEEE ISCC 2021, Athens, Greece
 * IEEE DCOSS 2021, Pafos, Cyprus
 

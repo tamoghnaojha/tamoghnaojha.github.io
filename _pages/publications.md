@@ -82,20 +82,20 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/6782392) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2015d2p.txt)
 
 1. **T. Ojha**, M. Khatua, and S. Misra, "Tic-Tac-Toe-Arch: A Self-organizing Virtual Architecture for Underwater Sensor Networks," _IET Wireless Sensor Systems_, vol. 3, no. 4, pp. 307-316, 2013. (SCI - Q2, I.F. - 2.51)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://digital-library.theiet.org/doi/10.1049/iet-wss.2012.0139) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2015d2p.txt)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://digital-library.theiet.org/doi/10.1049/iet-wss.2012.0139) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2013tictactoe.txt)
 
 
 
 ### Conferences
 23. Afa, A. Kalita, **T. Ojha**, “Traffic Prediction and Load-Aware Adaptive RAW Slot Allocation for IEEE 802.11ah IoT Networks”, _TENCON 2026 - 2026 IEEE Region 10 Conference_, Bali, Indonesia, 2026. (Accepted)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
 
 22. A. Gupta, S. Kumawat, M. Verma, **T. Ojha**, A. Galav, “FADER: Frequency ADaptive implicit nEuRal representations”, _11th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)_, July 2026, Jaipur, India. (Accepted)
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
 
-21. T. P. Raptis and **T. Ojha**, "Gait-Diverse Avatar Selection for Realistic Synthetic Crowds in the Metaverse", in _IEEE Computers, Software, and Applications Conference (COMPSAC)_, Madrid, Spain, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
+21. T. P. Raptis and **T. Ojha**, "Gait-Diverse Avatar Selection for Realistic Synthetic Crowds in the Metaverse", in _IEEE Computers, Software, and Applications Conference (COMPSAC)_, Madrid, Spain, July 2026. (Accepted)
+[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
 
-20. T. K. Das and **T. Ojha**, S. Bhosale, S. Karmakar, S. Halder, S. Barik, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](#) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
+20. T. K. Das and **T. Ojha**, S. Bhosale, S. Karmakar, S. Halder, S. Barik, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)
+[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
 
 19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, "A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/11586487) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
@@ -153,4 +153,3 @@ author_profile: true
 
 1. **T. Ojha** and S. Misra, "MobiL: A 3-Dimensional Localization Scheme for Mobile Underwater Sensor Networks," in _Proceedings of 19th National Conference on Communications (NCC)_, pp. 1-5, IEEE, New Delhi, India, February 2013.
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/6488033) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/ojha2013mobil.txt)
-

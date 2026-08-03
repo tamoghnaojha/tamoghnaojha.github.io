@@ -1,5 +1,5 @@
 @inproceedings{das2026quantum,
-  author    = {Tarun Kr Das and Tamoghna Ojha},
+  author    = {Tarun Kr Das and Tamoghna Ojha and Shubham Bhosale and Sourav Karmakar and Sukanta Halder and Soumyabrata Barik},
   title     = {A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility},
   booktitle = {Proceedings of the IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)},
   address   = {VNIT Nagpur, India},

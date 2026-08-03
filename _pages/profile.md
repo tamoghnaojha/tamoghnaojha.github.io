@@ -10,7 +10,7 @@ author_profile: true
 
 ### Work Experience
 
-* Sept. 2024 - till date: _Assistant Professor (Grade-I)_
+* Sept. 2024 - present: _Assistant Professor (Grade-I)_
   * IIT (ISM) Dhanbad, India
   * Research: AI/ML for IoT, Edge Computing, 6G, Wirelessly Powered Networks, Digital Twin.
 
@@ -26,15 +26,15 @@ author_profile: true
   * Department of Information Engineering, University of Pisa, Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
-* Aug. 2022 - Jan. 2023: _ERCIM PostDoctoral Research Fellow_
+* Aug. 2022 - Jan. 2023: _ERCIM Postdoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
-* Oct. 2021 - Jul. 2022: _ERCIM PostDoctoral Research Fellow_
+* Oct. 2021 - Jul. 2022: _ERCIM Postdoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
-* Jan. 2021 - Sep. 2021: _PostDoctoral Research Fellow_
+* Jan. 2021 - Sep. 2021: _Postdoctoral Research Fellow_
   * Institute for Informatics and Telematics (IIT), National Research Council (CNR), Italy
   * Research: Peer-to-Peer Wireless Power Transfer algorithms
 
@@ -94,7 +94,6 @@ author_profile: true
   * Thesis title: Microcontroller-based Infra-Red Tracking Robot 
   * Department: Electronics and Communication Engineering
   * Supervisor: Dr. Mousiki Kar
-
 
 
 
