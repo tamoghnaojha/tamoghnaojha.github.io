@@ -10,9 +10,7 @@ redirect_from:
 
 ## About
 
-I am an Assistant Professor in the Department of [Mathematics and Computing](https://www.iitism.ac.in/mathematics-and-computing) at IIT (ISM) Dhanbad, where I lead the [Computing for Secure and Intelligent Networks (COSINE) Lab](https://people.iitism.ac.in/~cosinelab/).
-
-My work applies artificial intelligence and machine learning to the Internet of Things and future communication networks. Current projects span edge and non-terrestrial networks, wirelessly powered IoT, 6G, the edge–cloud continuum, and digital twins.
+I am an Assistant Professor in the Department of [Mathematics and Computing](https://www.iitism.ac.in/mathematics-and-computing) at IIT (ISM) Dhanbad, where I lead the [Computing for Secure and Intelligent Networks (COSINE) Lab](https://people.iitism.ac.in/~cosinelab/). My work applies artificial intelligence and machine learning to the Internet of Things and future communication networks. Current projects span edge and non-terrestrial networks, wirelessly powered IoT, 6G, the edge–cloud continuum, and digital twins.
 
 Before joining IIT (ISM) Dhanbad, I was an Assistant Professor at BITS Pilani, Hyderabad Campus and SRM University-AP. I received my MS (2014) and PhD (2021) in Computer Science from IIT Kharagpur. From 2021 to 2023, I was an ERCIM Postdoctoral Research Fellow at the Institute for Informatics and Telematics, National Research Council (CNR), Italy, and a research consultant at the University of Pisa.
 
