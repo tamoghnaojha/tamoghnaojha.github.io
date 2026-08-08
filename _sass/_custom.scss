@@ -56,7 +56,7 @@ h2 { margin-top: 2.5rem; }
 .callout-hiring { margin: 2rem 0; padding: 1.25rem 1.35rem; border-left: 4px solid var(--cyan); border-radius: 8px; background: #edf9fa; }
 .callout-hiring h2 { margin: 0 0 .4rem; font-size: 1.12rem; }
 .callout-hiring p { margin: 0; }
-.news-panel { max-height: 255px; overflow-y: auto; margin: .8rem 0 1.5rem; padding: .35rem 1rem; border: 1px solid #c9dce9; border-radius: 8px; background: #eef5f9; scrollbar-color: #9fb9cb #e4eef4; }
+.news-panel { height: 255px; overflow-y: scroll; overscroll-behavior: contain; margin: .8rem 0 1.5rem; padding: .35rem 1rem; border: 1px solid #c9dce9; border-radius: 8px; background: #eef5f9; scrollbar-color: #9fb9cb #e4eef4; }
 .news-panel:focus { outline: 3px solid rgba(23,105,170,.18); outline-offset: 2px; }
 .news-list { display: grid; gap: 0; margin: 0; }
 .news-list--earlier { border-top: 1px solid #c9dce9; }

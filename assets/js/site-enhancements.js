@@ -124,3 +124,9 @@
     });
   });
 }());
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("[data-open-links-in-new-window] a:not([href^='mailto:'])").forEach(function (link) {
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+  });
+});
