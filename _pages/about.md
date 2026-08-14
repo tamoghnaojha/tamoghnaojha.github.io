@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of [Mathematics and Computing](htt
 
 Before joining IIT (ISM) Dhanbad, I was an Assistant Professor at BITS Pilani, Hyderabad Campus and SRM University-AP. I received my MS (2014) and PhD (2021) in Computer Science from IIT Kharagpur. From 2021 to 2023, I was an ERCIM Postdoctoral Research Fellow at the Institute for Informatics and Telematics, National Research Council (CNR), Italy, and a research consultant at the University of Pisa.
 
-I serve as an Associate Editor for *IEEE Transactions on Green Communications and Networking*, *IEEE Networking Letters*, and *Scientific Reports*. I regularly contribute to international conferences as a technical program committee member and organizer. My profiles are available on [Google Scholar](https://scholar.google.co.in/citations?user=gFFt6p4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-5831-0632), [Web of Science](https://www.webofscience.com/wos/author/record/AFK-0738-2022), and [Vidwan](https://vidwan.inflibnet.ac.in/profile/388019).
+I serve as an Associate Editor for *IEEE Transactions on Green Communications and Networking*, *IEEE Networking Letters*, and *Scientific Reports (Springer Nature)*. I regularly contribute to international conferences as a technical program committee member and organizer. My profiles are available on [Google Scholar](https://scholar.google.co.in/citations?user=gFFt6p4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-5831-0632), [Web of Science](https://www.webofscience.com/wos/author/record/AFK-0738-2022), and [Vidwan](https://vidwan.inflibnet.ac.in/profile/388019).
 
 <aside class="callout-hiring" aria-labelledby="hiring-title">
   <h2 id="hiring-title">Join COSINE Lab</h2>
