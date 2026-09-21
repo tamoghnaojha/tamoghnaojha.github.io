@@ -1,0 +1,1 @@
+@inbook{Ghosh_2026, title={mm-Wave Technology for 6G Communication}, ISBN={9783032190420}, url={http://dx.doi.org/10.1007/978-3-032-19042-0_1}, DOI={10.1007/978-3-032-19042-0_1}, booktitle={Edge-Enabled 6G Networking}, publisher={Springer Nature Switzerland}, author={Ghosh, Anindya and Ojha, Tamoghna}, year={2026}, pages={3–21} }
