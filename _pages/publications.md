@@ -10,13 +10,16 @@ author_profile: true
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0) [Buy from Amazon](https://www.amazon.in/Edge-enabled-Networking-Foundations-Technologies-Applications/dp/303219041X)
 
 3. A. Ghosh and **T. Ojha**, "mm-Wave Technology for 6G Communication", In "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", T. Ojha, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), Springer Nature, May 2026.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_1)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_1) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/doi_10_1007_978_3_032_19042_0_1.txt)
+
 
 2. N. Ahmed, **T. Ojha**, M. M. Hussain, S. Bera, "Edge-Enabled 6G Networking: Transforming IoT for a Hyperconnected Future", In "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", T. Ojha, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), Springer Nature, May 2026.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_1)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_11) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/doi_10_1007_978_3_032_19042_0_11.txt)
+
 
 1. N. Choudhury, J. Dave, **T. Ojha**, "LoRaWAN-Based IoT to Satellite Communication for Integrated Terrestrial and Non-terrestrial Networks", In "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", T. Ojha, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), Springer Nature, May 2026.
-[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_13)
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0_13) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/doi_10_1007_978_3_032_19042_0_13.txt)
+
 
 ### Patents
 2. D. Sheet, K. Basak, **T. Ojha**, S. P. K. Karri, "Multispectral Optical Imaging Device and Computational Techniques for Contactless Functional Imaging of Skin", _Indian Patent Published_, Application No. 201731022695, January 2019.
@@ -95,7 +98,8 @@ author_profile: true
 [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/raptis2026gait.txt)
 
 20. T. K. Das and **T. Ojha**, S. Bhosale, S. Karmakar, S. Halder, S. Barik, "A Quantum Reinforcement Learning Framework for Sustainable Internet of Vehicles toward Future Electric Mobility", in _IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET)_, VNIT Nagpur, July 2026. (Accepted)
-[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt)
+[![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026quantum.txt) [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1109/sefet69291.2026.11686905)
+
 
 19. T. K. Das, **T. Ojha**, N. Choudhury, A. Kaushik, "A Hybrid FL-MARL Framework for Optimal Trajectory Control and Resource Allocation in Integrated Terrestrial and Non-Terrestrial Networks", in _IEEE ICC Workshops_, Glasgow, Scotland, May 2026. (Accepted)
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://ieeexplore.ieee.org/document/11586487) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/das2026hybrid.txt)
