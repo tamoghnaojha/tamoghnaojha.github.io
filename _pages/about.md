@@ -25,6 +25,8 @@ I serve as an Associate Editor for *IEEE Transactions on Green Communications an
 
 <div class="news-panel" tabindex="0" aria-label="Recent news; scroll for more items">
 <div class="news-list">
+  <div class="news-item-modern"><span class="news-date">October 2026</span><span>Book chapter, “Game-Theoretic Optimization of Edge-Enabled Gateways for Cloud-Integrated Access Networks,” forthcoming in <em>Cloud-Network Convergence</em> (Springer Nature, 2027).</span></div>
+  <div class="news-item-modern"><span class="news-date">October 2026</span><span>Paper accepted in ACM ICDCN 2027 at NIT Suratkal, India.</span></div>
   <div class="news-item-modern"><span class="news-date">July 2026</span><span><em>Edge-enabled 6G Networking</em>, edited by Prof. Ojha and colleagues, is now <a href="https://www.amazon.in/Edge-enabled-Networking-Foundations-Technologies-Applications/dp/303219041X">available from Springer Nature</a>.</span></div>
   <div class="news-item-modern"><span class="news-date">June 2026</span><span>MSc students Debanshu and Subhadeep were selected for the CIL–IMiN Fellowship 2026.</span></div>
   <div class="news-item-modern"><span class="news-date">June 2026</span><span>Papers were accepted at NCVPRIPG 2026 in Jaipur and TENCON 2026 in Bali.</span></div>
