@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Books/Chapters
+5. A. Gorrela, N. Choudhury, **T. Ojha**, A. Hazarika, T.P. Raptis, "Game-Theoretic Optimization of Edge-Enabled Gateways for Cloud-Integrated Access Networks," in _Cloud-Network Convergence_, J. Wu, J. Zhang and S. Gao (eds.), Springer Nature, 2027.
+
 4. **T. Ojha**, M. M. Hussain, S. Bera, N. Ahmed, S. Misra (eds.), "Edge-enabled 6G Networking - Foundations, Technologies, and Applications", Springer Nature, 2026. [ISBN: 978-3032190413]
 [![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1007/978-3-032-19042-0) [Buy from Amazon](https://www.amazon.in/Edge-enabled-Networking-Foundations-Technologies-Applications/dp/303219041X)
 
@@ -87,6 +89,8 @@ author_profile: true
 
 
 ### Conferences
+24. Afa, A. Kalita, **T. Ojha**, "Autonomous Traffic-Adaptive RAW Scheduling for IEEE 802.11ah IoT Networks", _28th ACM International Conference on Distributed Computing and Networking (ICDCN) 2027_, Bali, Indonesia, 2026.
+
 23. Afa, A. Kalita, **T. Ojha**, “Traffic Prediction and Load-Aware Adaptive RAW Slot Allocation for IEEE 802.11ah IoT Networks”, _TENCON 2026 - 2026 IEEE Region 10 Conference_, Bali, Indonesia, 2026. (Accepted)
 
 22. A. Gupta, S. Kumawat, M. Verma, **T. Ojha**, A. Galav, “FADER: Frequency ADaptive implicit nEuRal representations”, _11th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)_, July 2026, Jaipur, India. (Accepted)
