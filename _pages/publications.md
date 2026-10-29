@@ -89,7 +89,7 @@ author_profile: true
 
 
 ### Conferences
-24. Afa, A. Kalita, **T. Ojha**, "Autonomous Traffic-Adaptive RAW Scheduling for IEEE 802.11ah IoT Networks", _28th ACM International Conference on Distributed Computing and Networking (ICDCN) 2027_, Bali, Indonesia, 2026.
+24. Afa, A. Kalita, **T. Ojha**, "Autonomous Traffic-Adaptive RAW Scheduling for IEEE 802.11ah IoT Networks", _28th ACM International Conference on Distributed Computing and Networking (ICDCN) 2027_, NIT Suratkal, India, 2026.
 
 23. Afa, A. Kalita, **T. Ojha**, “Traffic Prediction and Load-Aware Adaptive RAW Slot Allocation for IEEE 802.11ah IoT Networks”, _TENCON 2026 - 2026 IEEE Region 10 Conference_, Bali, Indonesia, 2026. (Accepted)
 
