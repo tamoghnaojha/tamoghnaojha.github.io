@@ -28,7 +28,12 @@ author_profile: true
 [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/misra2023adverse.txt)
 
 
+
+
 ### Journals
+20. C. Amala, V. U. Kumar, B. SubbaRao, M. Sivaji, **T. Ojha**, B. B. Das, S. K. Ram, "Deep intelligence and global repair for resilient black hole attack defense in IoT sensor networks," _Results in Engineering_, vol. 32, no. 113886, 2026.
+[![Link](https://img.shields.io/badge/Link-blue?style=flat-square)](https://doi.org/10.1016/j.rineng.2026.113886) [![BibTeX](https://img.shields.io/badge/BibTeX-orange?style=flat-square)](https://tamoghnaojha.github.io/files/amala2026deepintelligence.txt)
+
 19. M. Nepal, K. Phan, **T. Ojha**, A. Dutta, M. K. S. Prasad, "M2FedAQI: Multimodal Federated Learning for Air Quality Prediction on Heterogeneous Edge Devices", _Under Review_, 2026.
 [![arXiv](https://img.shields.io/badge/arXiv-green?style=flat-square)](https://arxiv.org/abs/2605.16375)
 

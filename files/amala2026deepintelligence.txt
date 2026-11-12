@@ -1,0 +1,14 @@
+@article{Amala2026DeepIntelligence,
+  author  = {Amala, Chella and Kumar, Varadi Uttam and
+             SubbaRao, Burra and Sivaji, Mareedu and
+             Ojha, Tamoghna and Das, Banee Bandana and
+             Ram, Saswat Kumar},
+  title   = {Deep intelligence and global repair for resilient
+             black hole attack defense in {IoT} sensor networks},
+  journal = {Results in Engineering},
+  volume  = {32},
+  number  = {113886},
+  year    = {2026},
+  doi     = {10.1016/j.rineng.2026.113886},
+  url     = {https://doi.org/10.1016/j.rineng.2026.113886}
+}
